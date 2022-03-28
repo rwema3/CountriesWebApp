@@ -69,8 +69,10 @@ $countries = new Countries(new Config([
 
 ## Author
 
-[Bagirishya Rwema Dominique](http://twitter.com/R_w_e_m_a)
-[GitHub](https://github.com/rwema3)
+>[Bagirishya Rwema Dominique](http://twitter.com/R_w_e_m_a)
+
+
+>[GitHub](https://github.com/rwema3)
 
 ## Contributing
 
