@@ -1,0 +1,316 @@
+{
+    "abbrev": "Malay.",
+    "abbrev_len": "6",
+    "adm0_a3": "MYS",
+    "adm0_a3_is": "MYS",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "MYS",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Malaysia",
+    "alt_spellings": [
+        "MY"
+    ],
+    "borders": [
+        "BRN",
+        "IDN",
+        "THA"
+    ],
+    "brk_a3": "MYS",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Malaysia",
+    "calling_codes": [
+        "+60"
+    ],
+    "capital": [
+        "Kuala Lumpur"
+    ],
+    "capital_rinvex": "Kuala Lumpur",
+    "cca2": "MY",
+    "cca3": "MYS",
+    "ccn3": "458",
+    "cioc": "MAS",
+    "currencies": [
+        "MYR"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Malaysian",
+    "demonyms": {
+        "eng": {
+            "f": "Malaysian",
+            "m": "Malaysian"
+        },
+        "fra": {
+            "f": "Malaisienne",
+            "m": "Malaisien"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "60"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            9,
+            10
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "6. Developing region",
+    "extra": {
+        "address_format": null,
+        "ar5": "MAF",
+        "cowc": "MAL",
+        "cown": 820,
+        "ds": "MAL",
+        "edgar": "N8",
+        "emoji": "\ud83c\uddf2\ud83c\uddfe",
+        "eu_member": null,
+        "fao": 131,
+        "fifa": "MAS",
+        "fips": "MY",
+        "gaul": 153,
+        "geonameid": 1733045,
+        "imf": 548,
+        "ioc": "MAS",
+        "itu": "MLA",
+        "marc": "my",
+        "vat_rates": null,
+        "wmo": "MS"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "MY",
+    "flag": {
+        "emoji": "\ud83c\uddf2\ud83c\uddfe"
+    },
+    "formal_en": "Malaysia",
+    "formal_fr": "",
+    "gdp_md_est": "863000.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 330803,
+        "borders": [
+            "BRN",
+            "IDN",
+            "THA"
+        ],
+        "continent": {
+            "AS": "Asia"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "2 30 N",
+        "latitude_desc": "2.5490005016326904",
+        "latlng": [
+            2.5,
+            112.5
+        ],
+        "longitude": "112 30 E",
+        "longitude_desc": "102.96261596679688",
+        "max_latitude": "7.383333",
+        "max_longitude": "120",
+        "min_latitude": "0.85",
+        "min_longitude": "99.641277",
+        "postal_code": true,
+        "region": "Asia",
+        "region_code": "142",
+        "region_un": "Asia",
+        "region_wb": "East Asia & Pacific",
+        "subregion": "South-Eastern Asia",
+        "subregion_code": "035",
+        "world_region": "APAC"
+    },
+    "geou_dif": "0",
+    "geounit": "Malaysia",
+    "gu_a3": "MYS",
+    "homepart": "1",
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "0"
+        ]
+    },
+    "income_grp": "3. Upper middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "MY",
+    "iso_3166_1_alpha3": "MYS",
+    "iso_3166_1_numeric": "458",
+    "iso_a2": "MY",
+    "iso_a3": "MYS",
+    "iso_a3_eh": "MYS",
+    "iso_n3": "458",
+    "labelrank": "3",
+    "languages": {
+        "eng": "English",
+        "msa": "Malay"
+    },
+    "lastcensus": "2010",
+    "level": "2",
+    "long_len": "8",
+    "mapcolor7": "2",
+    "mapcolor8": "4",
+    "mapcolor9": "3",
+    "mapcolor13": "6",
+    "max_label": "8.0",
+    "min_label": "3.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Malaysia",
+        "native": {
+            "eng": {
+                "common": "Malaysia",
+                "official": "Malaysia"
+            },
+            "msa": {
+                "common": "\u0645\u0644\u064a\u0633\u064a\u0627",
+                "official": "\u0645\u0644\u064a\u0633\u064a\u0627"
+            }
+        },
+        "official": "Malaysia"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d9\u0085\u00d8\u00a7\u00d9\u0084\u00d9\u008a\u00d8\u00b2\u00d9\u008a\u00d8\u00a7",
+    "name_bn": "\u00e0\u00a6\u00ae\u00e0\u00a6\u00be\u00e0\u00a6\u00b2\u00e0\u00a6\u00af\u00e0\u00a6\u00bc\u00e0\u00a7\u0087\u00e0\u00a6\u00b6\u00e0\u00a6\u00bf\u00e0\u00a6\u00af\u00e0\u00a6\u00bc\u00e0\u00a6\u00be",
+    "name_ciawf": "Malaysia",
+    "name_de": "Malaysia",
+    "name_el": "\u00ce\u009c\u00ce\u00b1\u00ce\u00bb\u00ce\u00b1\u00ce\u00b9\u00cf\u0083\u00ce\u00af\u00ce\u00b1",
+    "name_en": "Malaysia",
+    "name_es": "Malasia",
+    "name_fr": "Malaisie",
+    "name_hi": "\u00e0\u00a4\u00ae\u00e0\u00a4\u00b2\u00e0\u00a5\u0087\u00e0\u00a4\u00b6\u00e0\u00a4\u00bf\u00e0\u00a4\u00af\u00e0\u00a4\u00be",
+    "name_hu": "Malajzia",
+    "name_id": "Malaysia",
+    "name_it": "Malesia",
+    "name_ja": "\u00e3\u0083\u009e\u00e3\u0083\u00ac\u00e3\u0083\u00bc\u00e3\u0082\u00b7\u00e3\u0082\u00a2",
+    "name_ko": "\u00eb\u00a7\u0090\u00eb\u00a0\u0088\u00ec\u009d\u00b4\u00ec\u008b\u009c\u00ec\u0095\u0084",
+    "name_len": "8",
+    "name_long": "Malaysia",
+    "name_nev": "Malaysia",
+    "name_nl": "Maleisi\u00c3\u00ab",
+    "name_pl": "Malezja",
+    "name_pt": "Mal\u00c3\u00a1sia",
+    "name_ru": "\u00d0\u009c\u00d0\u00b0\u00d0\u00bb\u00d0\u00b0\u00d0\u00b9\u00d0\u00b7\u00d0\u00b8\u00d1\u008f",
+    "name_sort": "Malaysia",
+    "name_sv": "Malaysia",
+    "name_tr": "Malezya",
+    "name_vi": "Malaysia",
+    "name_zh": "\u00e9\u00a9\u00ac\u00e6\u009d\u00a5\u00e8\u00a5\u00bf\u00e4\u00ba\u009a",
+    "ne_id": "1159321083",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "31381992",
+    "pop_rank": "15",
+    "pop_year": "2017",
+    "postal": "MY",
+    "record_type": "country",
+    "scalerank": "5",
+    "sov_a3": "MYS",
+    "sovereignt": "Malaysia",
+    "status": "officially-assigned",
+    "su_a3": "MYS",
+    "su_dif": "0",
+    "subunit": "Malaysia",
+    "tiny": "-99",
+    "tld": [
+        ".my"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Malajsie",
+            "official": "Malajsie"
+        },
+        "deu": {
+            "common": "Malaysia",
+            "official": "Malaysia"
+        },
+        "est": {
+            "common": "Malaisia",
+            "official": "Malaisia"
+        },
+        "fin": {
+            "common": "Malesia",
+            "official": "Malesia"
+        },
+        "fra": {
+            "common": "Malaisie",
+            "official": "F\u00e9d\u00e9ration de Malaisie"
+        },
+        "hrv": {
+            "common": "Malezija",
+            "official": "Malezija"
+        },
+        "hun": {
+            "common": "Malajzia",
+            "official": "Malajzia"
+        },
+        "ita": {
+            "common": "Malesia",
+            "official": "Malaysia"
+        },
+        "jpn": {
+            "common": "\u30de\u30ec\u30fc\u30b7\u30a2",
+            "official": "\u30de\u30ec\u30fc\u30b7\u30a2"
+        },
+        "kor": {
+            "common": "\ub9d0\ub808\uc774\uc2dc\uc544",
+            "official": "\ub9d0\ub808\uc774\uc2dc\uc544"
+        },
+        "nld": {
+            "common": "Maleisi\u00eb",
+            "official": "Maleisi\u00eb"
+        },
+        "per": {
+            "common": "\u0645\u0627\u0644\u0632\u06cc",
+            "official": "\u0641\u062f\u0631\u0627\u0633\u06cc\u0648\u0646 \u0645\u0627\u0644\u0632\u06cc"
+        },
+        "pol": {
+            "common": "Malezja",
+            "official": "Malezja"
+        },
+        "por": {
+            "common": "Mal\u00e1sia",
+            "official": "Mal\u00e1sia"
+        },
+        "rus": {
+            "common": "\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f",
+            "official": "\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f"
+        },
+        "slk": {
+            "common": "Malajzia",
+            "official": "Malajzia"
+        },
+        "spa": {
+            "common": "Malasia",
+            "official": "Malasia"
+        },
+        "swe": {
+            "common": "Malaysia",
+            "official": "Malaysia"
+        },
+        "urd": {
+            "common": "\u0645\u0644\u0627\u0626\u06cc\u0634\u06cc\u0627",
+            "official": "\u0645\u0644\u0627\u0626\u06cc\u0634\u06cc\u0627"
+        },
+        "zho": {
+            "common": "\u9a6c\u6765\u897f\u4e9a",
+            "official": "\u9a6c\u6765\u897f\u4e9a"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "458",
+    "un_member": true,
+    "wb_a2": "MY",
+    "wb_a3": "MYS",
+    "wikidataid": "Q833",
+    "wikipedia": "-99",
+    "woe_id": "23424901",
+    "woe_id_eh": "23424901",
+    "woe_note": "Exact WOE match as country"
+}

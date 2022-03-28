@@ -1,0 +1,17 @@
+{
+    "asia_yerevan": {
+        "abbreviations": [
+            "AMT",
+            "LMT"
+        ],
+        "cca2": "AM",
+        "cca3": "ARM",
+        "country_code": "AM",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "7",
+        "zone_name": "Asia\/Yerevan"
+    }
+}

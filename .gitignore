@@ -1,0 +1,6 @@
+/vendor
+/coverage
+/tmp
+/src/data/tmp
+/src/data/third-party/
+composer.phar

@@ -1,0 +1,91 @@
+{
+    "1": {
+        "abbreviation": "LMT",
+        "dst": "0",
+        "gmt_offset": "37972",
+        "time_start": "-3944629972",
+        "zone_id": "157"
+    },
+    "2": {
+        "abbreviation": "PONT",
+        "dst": "0",
+        "gmt_offset": "39600",
+        "time_start": "-2177490772",
+        "zone_id": "157"
+    },
+    "3": {
+        "abbreviation": "PONT",
+        "dst": "0",
+        "gmt_offset": "39600",
+        "time_start": "-1743678001",
+        "zone_id": "157"
+    },
+    "4": {
+        "abbreviation": "PONT",
+        "dst": "0",
+        "gmt_offset": "32400",
+        "time_start": "-1743678000",
+        "zone_id": "157"
+    },
+    "5": {
+        "abbreviation": "PONT",
+        "dst": "0",
+        "gmt_offset": "32400",
+        "time_start": "-1606813201",
+        "zone_id": "157"
+    },
+    "6": {
+        "abbreviation": "PONT",
+        "dst": "0",
+        "gmt_offset": "39600",
+        "time_start": "-1606813200",
+        "zone_id": "157"
+    },
+    "7": {
+        "abbreviation": "PONT",
+        "dst": "0",
+        "gmt_offset": "39600",
+        "time_start": "-1041418801",
+        "zone_id": "157"
+    },
+    "8": {
+        "abbreviation": "PONT",
+        "dst": "0",
+        "gmt_offset": "36000",
+        "time_start": "-1041418800",
+        "zone_id": "157"
+    },
+    "9": {
+        "abbreviation": "PONT",
+        "dst": "0",
+        "gmt_offset": "36000",
+        "time_start": "-907408801",
+        "zone_id": "157"
+    },
+    "10": {
+        "abbreviation": "PONT",
+        "dst": "0",
+        "gmt_offset": "32400",
+        "time_start": "-907408800",
+        "zone_id": "157"
+    },
+    "11": {
+        "abbreviation": "PONT",
+        "dst": "0",
+        "gmt_offset": "32400",
+        "time_start": "-770634001",
+        "zone_id": "157"
+    },
+    "12": {
+        "abbreviation": "PONT",
+        "dst": "0",
+        "gmt_offset": "39600",
+        "time_start": "-770634000",
+        "zone_id": "157"
+    },
+    "abbreviation": "LMT",
+    "dst": "0",
+    "gmt_offset": "-48428",
+    "time_start": "-3944629973",
+    "zone_id": "157"
+}

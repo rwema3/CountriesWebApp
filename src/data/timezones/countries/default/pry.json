@@ -1,0 +1,19 @@
+{
+    "america_asuncion": {
+        "abbreviations": [
+            "AMT",
+            "LMT",
+            "PYST",
+            "PYT"
+        ],
+        "cca2": "PY",
+        "cca3": "PRY",
+        "country_code": "PY",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "304",
+        "zone_name": "America\/Asuncion"
+    }
+}

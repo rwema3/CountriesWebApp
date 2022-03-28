@@ -1,0 +1,312 @@
+{
+    "abbrev": "Guat.",
+    "abbrev_len": "5",
+    "adm0_a3": "GTM",
+    "adm0_a3_is": "GTM",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "GTM",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Guatemala",
+    "alt_spellings": [
+        "GT"
+    ],
+    "borders": [
+        "BLZ",
+        "SLV",
+        "HND",
+        "MEX"
+    ],
+    "brk_a3": "GTM",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Guatemala",
+    "calling_codes": [
+        "+502"
+    ],
+    "capital": [
+        "Guatemala City"
+    ],
+    "capital_rinvex": "Guatemala City",
+    "cca2": "GT",
+    "cca3": "GTM",
+    "ccn3": "320",
+    "cioc": "GUA",
+    "currencies": [
+        "GTQ"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Guatemalan",
+    "demonyms": {
+        "eng": {
+            "f": "Guatemalan",
+            "m": "Guatemalan"
+        },
+        "fra": {
+            "f": "Guat\u00e9malt\u00e8que",
+            "m": "Guat\u00e9malt\u00e8que"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "502"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            8
+        ],
+        "national_prefix": null
+    },
+    "economy": "6. Developing region",
+    "extra": {
+        "address_format": null,
+        "ar5": "LAM",
+        "cowc": "GUA",
+        "cown": 90,
+        "ds": "GCA",
+        "edgar": "J8",
+        "emoji": "\ud83c\uddec\ud83c\uddf9",
+        "eu_member": null,
+        "fao": 89,
+        "fifa": "GUA",
+        "fips": "GT",
+        "gaul": 103,
+        "geonameid": 3595528,
+        "imf": 258,
+        "ioc": "GUA",
+        "itu": "GTM",
+        "marc": "gt",
+        "vat_rates": null,
+        "wmo": "GU"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "GT",
+    "flag": {
+        "emoji": "\ud83c\uddec\ud83c\uddf9"
+    },
+    "formal_en": "Republic of Guatemala",
+    "formal_fr": "",
+    "gdp_md_est": "131800.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 108889,
+        "borders": [
+            "BLZ",
+            "SLV",
+            "HND",
+            "MEX"
+        ],
+        "continent": {
+            "NA": "North America"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "15 30 N",
+        "latitude_desc": "15.670565605163574",
+        "latlng": [
+            15.5,
+            -90.25
+        ],
+        "longitude": "90 15 W",
+        "longitude_desc": "-90.3486557006836",
+        "max_latitude": "17.816667",
+        "max_longitude": "-87.05",
+        "min_latitude": "13.751111",
+        "min_longitude": "-92.583333",
+        "postal_code": true,
+        "region": "Americas",
+        "region_code": "019",
+        "region_un": "Americas",
+        "region_wb": "Latin America & Caribbean",
+        "subregion": "Central America",
+        "subregion_code": "013",
+        "world_region": "AMER"
+    },
+    "geou_dif": "0",
+    "geounit": "Guatemala",
+    "gu_a3": "GTM",
+    "homepart": "1",
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "02"
+        ]
+    },
+    "income_grp": "4. Lower middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "GT",
+    "iso_3166_1_alpha3": "GTM",
+    "iso_3166_1_numeric": "320",
+    "iso_a2": "GT",
+    "iso_a3": "GTM",
+    "iso_a3_eh": "GTM",
+    "iso_n3": "320",
+    "labelrank": "3",
+    "languages": {
+        "spa": "Spanish"
+    },
+    "lastcensus": "2002",
+    "level": "2",
+    "long_len": "9",
+    "mapcolor7": "3",
+    "mapcolor8": "3",
+    "mapcolor9": "3",
+    "mapcolor13": "6",
+    "max_label": "8.0",
+    "min_label": "3.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Guatemala",
+        "native": {
+            "spa": {
+                "common": "Guatemala",
+                "official": "Rep\u00fablica de Guatemala"
+            }
+        },
+        "official": "Republic of Guatemala"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00ba\u00d9\u0088\u00d8\u00a7\u00d8\u00aa\u00d9\u008a\u00d9\u0085\u00d8\u00a7\u00d9\u0084\u00d8\u00a7",
+    "name_bn": "\u00e0\u00a6\u0097\u00e0\u00a7\u0081\u00e0\u00a6\u00af\u00e0\u00a6\u00bc\u00e0\u00a6\u00be\u00e0\u00a6\u00a4\u00e0\u00a7\u0087\u00e0\u00a6\u00ae\u00e0\u00a6\u00be\u00e0\u00a6\u00b2\u00e0\u00a6\u00be",
+    "name_ciawf": "Guatemala",
+    "name_de": "Guatemala",
+    "name_el": "\u00ce\u0093\u00ce\u00bf\u00cf\u0085\u00ce\u00b1\u00cf\u0084\u00ce\u00b5\u00ce\u00bc\u00ce\u00ac\u00ce\u00bb\u00ce\u00b1",
+    "name_en": "Guatemala",
+    "name_es": "Guatemala",
+    "name_fr": "Guatemala",
+    "name_hi": "\u00e0\u00a4\u0097\u00e0\u00a5\u008d\u00e0\u00a4\u00b5\u00e0\u00a4\u00be\u00e0\u00a4\u009f\u00e0\u00a5\u0087\u00e0\u00a4\u00ae\u00e0\u00a4\u00be\u00e0\u00a4\u00b2\u00e0\u00a4\u00be",
+    "name_hu": "Guatemala",
+    "name_id": "Guatemala",
+    "name_it": "Guatemala",
+    "name_ja": "\u00e3\u0082\u00b0\u00e3\u0082\u00a2\u00e3\u0083\u0086\u00e3\u0083\u009e\u00e3\u0083\u00a9",
+    "name_ko": "\u00ea\u00b3\u00bc\u00ed\u0085\u008c\u00eb\u00a7\u0090\u00eb\u009d\u00bc",
+    "name_len": "9",
+    "name_long": "Guatemala",
+    "name_nev": "Guatemala",
+    "name_nl": "Guatemala",
+    "name_pl": "Gwatemala",
+    "name_pt": "Guatemala",
+    "name_ru": "\u00d0\u0093\u00d0\u00b2\u00d0\u00b0\u00d1\u0082\u00d0\u00b5\u00d0\u00bc\u00d0\u00b0\u00d0\u00bb\u00d0\u00b0",
+    "name_sort": "Guatemala",
+    "name_sv": "Guatemala",
+    "name_tr": "Guatemala",
+    "name_vi": "Guatemala",
+    "name_zh": "\u00e5\u008d\u00b1\u00e5\u009c\u00b0\u00e9\u00a9\u00ac\u00e6\u008b\u0089",
+    "ne_id": "1159320815",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "15460732",
+    "pop_rank": "14",
+    "pop_year": "2017",
+    "postal": "GT",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "GTM",
+    "sovereignt": "Guatemala",
+    "status": "officially-assigned",
+    "su_a3": "GTM",
+    "su_dif": "0",
+    "subunit": "Guatemala",
+    "tiny": "4",
+    "tld": [
+        ".gt"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Guatemala",
+            "official": "Republika Guatemala"
+        },
+        "deu": {
+            "common": "Guatemala",
+            "official": "Republik Guatemala"
+        },
+        "est": {
+            "common": "Guatemala",
+            "official": "Guatemala Vabariik"
+        },
+        "fin": {
+            "common": "Guatemala",
+            "official": "Guatemalan tasavalta"
+        },
+        "fra": {
+            "common": "Guatemala",
+            "official": "R\u00e9publique du Guatemala"
+        },
+        "hrv": {
+            "common": "Gvatemala",
+            "official": "Republika Gvatemala"
+        },
+        "hun": {
+            "common": "Guatemala",
+            "official": "Guatemalai K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Guatemala",
+            "official": "Repubblica del Guatemala"
+        },
+        "jpn": {
+            "common": "\u30b0\u30a2\u30c6\u30de\u30e9",
+            "official": "\u30b0\u30a2\u30c6\u30de\u30e9\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\uacfc\ud14c\ub9d0\ub77c",
+            "official": "\uacfc\ud14c\ub9d0\ub77c \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Guatemala",
+            "official": "Republiek Guatemala"
+        },
+        "per": {
+            "common": "\u06af\u0648\u0627\u062a\u0650\u0645\u0627\u0644\u0627",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06af\u0648\u0627\u062a\u0650\u0645\u0627\u0644\u0627"
+        },
+        "pol": {
+            "common": "Gwatemala",
+            "official": "Republika Gwatemali"
+        },
+        "por": {
+            "common": "Guatemala",
+            "official": "Rep\u00fablica da Guatemala"
+        },
+        "rus": {
+            "common": "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
+        },
+        "slk": {
+            "common": "Guatemala",
+            "official": "Guatemalsk\u00e1 republika"
+        },
+        "spa": {
+            "common": "Guatemala",
+            "official": "Rep\u00fablica de Guatemala"
+        },
+        "swe": {
+            "common": "Guatemala",
+            "official": "Republiken Guatemala"
+        },
+        "urd": {
+            "common": "\u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627"
+        },
+        "zho": {
+            "common": "\u5371\u5730\u9a6c\u62c9",
+            "official": "\u5371\u5730\u9a6c\u62c9\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "320",
+    "un_member": true,
+    "wb_a2": "GT",
+    "wb_a3": "GTM",
+    "wikidataid": "Q774",
+    "wikipedia": "-99",
+    "woe_id": "23424834",
+    "woe_id_eh": "23424834",
+    "woe_note": "Exact WOE match as country"
+}

@@ -1,0 +1,33 @@
+{
+    "america_guayaquil": {
+        "abbreviations": [
+            "ECT",
+            "LMT",
+            "QMT"
+        ],
+        "cca2": "EC",
+        "cca3": "ECU",
+        "country_code": "EC",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "142",
+        "zone_name": "America\/Guayaquil"
+    },
+    "pacific_galapagos": {
+        "abbreviations": [
+            "GALT",
+            "LMT"
+        ],
+        "cca2": "EC",
+        "cca3": "ECU",
+        "country_code": "EC",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "143",
+        "zone_name": "Pacific\/Galapagos"
+    }
+}

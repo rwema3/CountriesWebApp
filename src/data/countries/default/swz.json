@@ -1,0 +1,341 @@
+{
+    "abbrev": "eSw.",
+    "abbrev_len": "4",
+    "adm0_a3": "SWZ",
+    "adm0_a3_is": "SWZ",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "SWZ",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "eSwatini",
+    "alt_spellings": [
+        "SZ",
+        "Swaziland",
+        "weSwatini",
+        "Swatini",
+        "Ngwane",
+        "Kingdom of Eswatini",
+        "Umbuso weSwatini"
+    ],
+    "alt_spellings_rinvex": [
+        "SZ",
+        "weSwatini",
+        "Swatini",
+        "Ngwane",
+        "Kingdom of Swaziland",
+        "Umbuso waseSwatini"
+    ],
+    "borders": [
+        "MOZ",
+        "ZAF"
+    ],
+    "brk_a3": "SWZ",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "eSwatini",
+    "calling_codes": [
+        "+268"
+    ],
+    "capital": [
+        "Lobamba"
+    ],
+    "capital_rinvex": "Lobamba",
+    "cca2": "SZ",
+    "cca3": "SWZ",
+    "ccn3": "748",
+    "cioc": "SWZ",
+    "currencies": [
+        "SZL"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Swazi",
+    "demonyms": {
+        "eng": {
+            "f": "Swazi",
+            "m": "Swazi"
+        },
+        "fra": {
+            "f": "Swazie",
+            "m": "Swazie"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "268"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            7
+        ],
+        "national_prefix": null
+    },
+    "economy": "6. Developing region",
+    "extra": {
+        "address_format": null,
+        "ar5": "MAF",
+        "cowc": "SWA",
+        "cown": 572,
+        "ds": "SD",
+        "edgar": "V6",
+        "emoji": "\ud83c\uddf8\ud83c\uddff",
+        "eu_member": null,
+        "fao": 209,
+        "fifa": "SWZ",
+        "fips": "WZ",
+        "gaul": 235,
+        "geonameid": 934841,
+        "imf": 734,
+        "ioc": "SWZ",
+        "itu": "SWZ",
+        "marc": "sq",
+        "vat_rates": null,
+        "wmo": "SV"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "WZ",
+    "flag": {
+        "emoji": "\ud83c\uddf8\ud83c\uddff"
+    },
+    "formal_en": "Kingdom of eSwatini",
+    "formal_fr": "",
+    "gdp_md_est": "11060.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 17364,
+        "borders": [
+            "MOZ",
+            "ZAF"
+        ],
+        "continent": {
+            "AF": "Africa"
+        },
+        "independent": "Yes",
+        "landlocked": true,
+        "latitude": "26 30 S",
+        "latitude_desc": "-26.565134048461914",
+        "latlng": [
+            -26.5,
+            31.5
+        ],
+        "longitude": "31 30 E",
+        "longitude_desc": "31.49811363220215",
+        "max_latitude": "-25.783333",
+        "max_longitude": "32.133333",
+        "min_latitude": "-27.316667",
+        "min_longitude": "30.783333",
+        "postal_code": true,
+        "region": "Africa",
+        "region_code": "002",
+        "region_un": "Africa",
+        "region_wb": "Sub-Saharan Africa",
+        "subregion": "Southern Africa",
+        "subregion_code": "018",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "eSwatini",
+    "gu_a3": "SWZ",
+    "homepart": "1",
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "68"
+        ]
+    },
+    "income_grp": "4. Lower middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "SZ",
+    "iso_3166_1_alpha3": "SWZ",
+    "iso_3166_1_numeric": "748",
+    "iso_a2": "SZ",
+    "iso_a3": "SWZ",
+    "iso_a3_eh": "SWZ",
+    "iso_n3": "748",
+    "labelrank": "4",
+    "languages": {
+        "eng": "English",
+        "ssw": "Swazi"
+    },
+    "lastcensus": "2007",
+    "level": "2",
+    "long_len": "8",
+    "mapcolor7": "3",
+    "mapcolor8": "6",
+    "mapcolor9": "2",
+    "mapcolor13": "5",
+    "max_label": "9.0",
+    "min_label": "4.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Eswatini",
+        "native": {
+            "eng": {
+                "common": "Eswatini",
+                "official": "Kingdom of Eswatini"
+            },
+            "ssw": {
+                "common": "eSwatini",
+                "official": "Umbuso weSwatini"
+            }
+        },
+        "official": "Kingdom of Eswatini"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00b3\u00d9\u0088\u00d8\u00a7\u00d8\u00b2\u00d9\u008a\u00d9\u0084\u00d8\u00a7\u00d9\u0086\u00d8\u00af",
+    "name_bn": "\u00e0\u00a6\u00b8\u00e0\u00a7\u008b\u00e0\u00a6\u00af\u00e0\u00a6\u00bc\u00e0\u00a6\u00be\u00e0\u00a6\u009c\u00e0\u00a6\u00bf\u00e0\u00a6\u00b2\u00e0\u00a7\u008d\u00e0\u00a6\u00af\u00e0\u00a6\u00be\u00e0\u00a6\u00a8\u00e0\u00a7\u008d\u00e0\u00a6\u00a1",
+    "name_ciawf": "eSwatini",
+    "name_de": "Swasiland",
+    "name_el": "\u00ce\u00a3\u00ce\u00bf\u00cf\u0085\u00ce\u00b1\u00ce\u00b6\u00ce\u00b9\u00ce\u00bb\u00ce\u00ac\u00ce\u00bd\u00ce\u00b4\u00ce\u00b7",
+    "name_en": "Swaziland",
+    "name_es": "Suazilandia",
+    "name_fr": "Swaziland",
+    "name_hi": "\u00e0\u00a4\u00b8\u00e0\u00a5\u008d\u00e0\u00a4\u00b5\u00e0\u00a4\u00be\u00e0\u00a4\u009c\u00e0\u00a4\u00bc\u00e0\u00a5\u0080\u00e0\u00a4\u00b2\u00e0\u00a5\u0088\u00e0\u00a4\u00a3\u00e0\u00a5\u008d\u00e0\u00a4\u00a1",
+    "name_hu": "Szv\u00c3\u00a1zif\u00c3\u00b6ld",
+    "name_id": "Swaziland",
+    "name_it": "Swaziland",
+    "name_ja": "\u00e3\u0082\u00b9\u00e3\u0083\u00af\u00e3\u0082\u00b8\u00e3\u0083\u00a9\u00e3\u0083\u00b3\u00e3\u0083\u0089",
+    "name_ko": "\u00ec\u008a\u00a4\u00ec\u0099\u0080\u00ec\u00a7\u0088\u00eb\u009e\u0080\u00eb\u0093\u009c",
+    "name_len": "8",
+    "name_long": "eSwatini",
+    "name_nev": "eSwatini",
+    "name_nl": "Swaziland",
+    "name_pl": "Suazi",
+    "name_pt": "Suazil\u00c3\u00a2ndia",
+    "name_rinvex": {
+        "common": "Swaziland",
+        "native": {
+            "eng": {
+                "common": "Swaziland",
+                "official": "Kingdom of Swaziland"
+            },
+            "ssw": {
+                "common": "Swaziland",
+                "official": "Kingdom of Swaziland"
+            }
+        },
+        "official": "Kingdom of Swaziland"
+    },
+    "name_ru": "\u00d0\u00a1\u00d0\u00b2\u00d0\u00b0\u00d0\u00b7\u00d0\u00b8\u00d0\u00bb\u00d0\u00b5\u00d0\u00bd\u00d0\u00b4",
+    "name_sort": "eSwatini",
+    "name_sv": "Swaziland",
+    "name_tr": "Svaziland",
+    "name_vi": "Swaziland",
+    "name_zh": "\u00e6\u0096\u00af\u00e5\u00a8\u0081\u00e5\u00a3\u00ab\u00e5\u0085\u00b0",
+    "ne_id": "1159321289",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "1467152",
+    "pop_rank": "12",
+    "pop_year": "2017",
+    "postal": "SW",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "SWZ",
+    "sovereignt": "eSwatini",
+    "status": "officially-assigned",
+    "su_a3": "SWZ",
+    "su_dif": "0",
+    "subunit": "eSwatini",
+    "tiny": "-99",
+    "tld": [
+        ".sz"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Svazijsko",
+            "official": "Svazijsk\u00e9 kr\u00e1lovstv\u00ed"
+        },
+        "deu": {
+            "common": "Swasiland",
+            "official": "K\u00f6nigreich Swasiland"
+        },
+        "est": {
+            "common": "Svaasimaa",
+            "official": "eSwatini Kuningriik"
+        },
+        "fin": {
+            "common": "Swazimaa",
+            "official": "Swazimaan kuningaskunta"
+        },
+        "fra": {
+            "common": "Swaziland",
+            "official": "Royaume du Swaziland"
+        },
+        "hrv": {
+            "common": "Svazi",
+            "official": "Kraljevina Svazi"
+        },
+        "hun": {
+            "common": "Szv\u00e1zif\u00f6ld",
+            "official": "Szv\u00e1zif\u00f6ldi Kir\u00e1lys\u00e1g"
+        },
+        "ita": {
+            "common": "Swaziland",
+            "official": "Regno dello Swaziland"
+        },
+        "jpn": {
+            "common": "\u30b9\u30ef\u30b8\u30e9\u30f3\u30c9",
+            "official": "\u30b9\u30ef\u30b8\u30e9\u30f3\u30c9\u738b\u56fd"
+        },
+        "kor": {
+            "common": "\uc5d0\uc2a4\uc640\ud2f0\ub2c8",
+            "official": "\uc5d0\uc2a4\uc640\ud2f0\ub2c8 \uc655\uad6d"
+        },
+        "nld": {
+            "common": "Swaziland",
+            "official": "Koninkrijk Swaziland"
+        },
+        "per": {
+            "common": "\u0627\u0633\u0648\u0627\u062a\u06cc\u0646\u06cc",
+            "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0633\u0648\u0627\u0632\u06cc\u0644\u0646\u062f"
+        },
+        "pol": {
+            "common": "Suazi",
+            "official": "Kr\u00f3lestwo Suazi"
+        },
+        "por": {
+            "common": "Suazil\u00e2ndia",
+            "official": "Reino da Suazil\u00e2ndia"
+        },
+        "rus": {
+            "common": "\u0421\u0432\u0430\u0437\u0438\u043b\u0435\u043d\u0434",
+            "official": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0421\u0432\u0430\u0437\u0438\u043b\u0435\u043d\u0434"
+        },
+        "slk": {
+            "common": "Svazijsko",
+            "official": "Svazijsk\u00e9 kr\u00e1\u013eovstvo"
+        },
+        "spa": {
+            "common": "Suazilandia",
+            "official": "Reino de Swazilandia"
+        },
+        "swe": {
+            "common": "Swaziland",
+            "official": "Konungariket Eswatini"
+        },
+        "urd": {
+            "common": "\u0633\u0648\u0627\u0632\u06cc \u0644\u06cc\u0646\u0688",
+            "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0633\u0648\u0627\u0632\u06cc \u0644\u06cc\u0646\u0688"
+        },
+        "zho": {
+            "common": "\u65af\u5a01\u58eb\u5170",
+            "official": "\u65af\u5a01\u58eb\u5170\u738b\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "748",
+    "un_member": true,
+    "wb_a2": "SZ",
+    "wb_a3": "SWZ",
+    "wikidataid": "Q1050",
+    "wikipedia": "-99",
+    "woe_id": "23424993",
+    "woe_id_eh": "23424993",
+    "woe_note": "Exact WOE match as country"
+}

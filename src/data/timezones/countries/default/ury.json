@@ -1,0 +1,18 @@
+{
+    "america_montevideo": {
+        "abbreviations": [
+            "LMT",
+            "MMT",
+            "UYT"
+        ],
+        "cca2": "UY",
+        "cca3": "URY",
+        "country_code": "UY",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "409",
+        "zone_name": "America\/Montevideo"
+    }
+}

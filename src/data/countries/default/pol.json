@@ -1,0 +1,328 @@
+{
+    "abbrev": "Pol.",
+    "abbrev_len": "4",
+    "adm0_a3": "POL",
+    "adm0_a3_is": "POL",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "POL",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Poland",
+    "alt_spellings": [
+        "PL",
+        "Republic of Poland",
+        "Rzeczpospolita Polska"
+    ],
+    "borders": [
+        "BLR",
+        "CZE",
+        "DEU",
+        "LTU",
+        "RUS",
+        "SVK",
+        "UKR"
+    ],
+    "brk_a3": "POL",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Poland",
+    "calling_codes": [
+        "+48"
+    ],
+    "capital": [
+        "Warsaw"
+    ],
+    "capital_rinvex": "Warsaw",
+    "cca2": "PL",
+    "cca3": "POL",
+    "ccn3": "616",
+    "cioc": "POL",
+    "currencies": [
+        "PLN"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Polish",
+    "demonyms": {
+        "eng": {
+            "f": "Polish",
+            "m": "Polish"
+        },
+        "fra": {
+            "f": "Polonaise",
+            "m": "Polonais"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "48"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            9
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "2. Developed region: nonG7",
+    "extra": {
+        "address_format": "{{recipient}}{{street}}{{postalcode}} {{city}}{{region}}{{country}}",
+        "ar5": "EIT",
+        "cowc": "POL",
+        "cown": 290,
+        "ds": "PL",
+        "edgar": "R9",
+        "emoji": "\ud83c\uddf5\ud83c\uddf1",
+        "eu_member": true,
+        "fao": 173,
+        "fifa": "POL",
+        "fips": "PL",
+        "gaul": 198,
+        "geonameid": 798544,
+        "imf": 964,
+        "ioc": "POL",
+        "itu": "POL",
+        "marc": "pl",
+        "vat_rates": {
+            "parking": null,
+            "reduced": [
+                5,
+                8
+            ],
+            "standard": 23,
+            "super_reduced": null
+        },
+        "wmo": "PL"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "PL",
+    "flag": {
+        "emoji": "\ud83c\uddf5\ud83c\uddf1"
+    },
+    "formal_en": "Republic of Poland",
+    "formal_fr": "",
+    "gdp_md_est": "1052000.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 312679,
+        "borders": [
+            "BLR",
+            "CZE",
+            "DEU",
+            "LTU",
+            "RUS",
+            "SVK",
+            "UKR"
+        ],
+        "continent": {
+            "EU": "Europe"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "52 00 N",
+        "latitude_desc": "52.147850036621094",
+        "latlng": [
+            52,
+            20
+        ],
+        "longitude": "20 00 E",
+        "longitude_desc": "19.37775993347168",
+        "max_latitude": "54.833333",
+        "max_longitude": "26.5",
+        "min_latitude": "45.5",
+        "min_longitude": "14",
+        "postal_code": true,
+        "region": "Europe",
+        "region_code": "150",
+        "region_un": "Europe",
+        "region_wb": "Europe & Central Asia",
+        "subregion": "Eastern Europe",
+        "subregion_code": "151",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Poland",
+    "gu_a3": "POL",
+    "homepart": "1",
+    "idd": {
+        "root": "+4",
+        "suffixes": [
+            "8"
+        ]
+    },
+    "income_grp": "1. High income: OECD",
+    "independent": true,
+    "iso_3166_1_alpha2": "PL",
+    "iso_3166_1_alpha3": "POL",
+    "iso_3166_1_numeric": "616",
+    "iso_a2": "PL",
+    "iso_a3": "POL",
+    "iso_a3_eh": "POL",
+    "iso_n3": "616",
+    "labelrank": "3",
+    "languages": {
+        "pol": "Polish"
+    },
+    "lastcensus": "2011",
+    "level": "2",
+    "long_len": "6",
+    "mapcolor7": "3",
+    "mapcolor8": "7",
+    "mapcolor9": "1",
+    "mapcolor13": "2",
+    "max_label": "7.0",
+    "min_label": "3.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Poland",
+        "native": {
+            "pol": {
+                "common": "Polska",
+                "official": "Rzeczpospolita Polska"
+            }
+        },
+        "official": "Republic of Poland"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00a8\u00d9\u0088\u00d9\u0084\u00d9\u0086\u00d8\u00af\u00d8\u00a7",
+    "name_bn": "\u00e0\u00a6\u00aa\u00e0\u00a7\u008b\u00e0\u00a6\u00b2\u00e0\u00a7\u008d\u00e0\u00a6\u00af\u00e0\u00a6\u00be\u00e0\u00a6\u00a8\u00e0\u00a7\u008d\u00e0\u00a6\u00a1",
+    "name_ciawf": "Poland",
+    "name_de": "Polen",
+    "name_el": "\u00ce\u00a0\u00ce\u00bf\u00ce\u00bb\u00cf\u0089\u00ce\u00bd\u00ce\u00af\u00ce\u00b1",
+    "name_en": "Poland",
+    "name_es": "Polonia",
+    "name_fr": "Pologne",
+    "name_hi": "\u00e0\u00a4\u00aa\u00e0\u00a5\u008b\u00e0\u00a4\u00b2\u00e0\u00a5\u0088\u00e0\u00a4\u0082\u00e0\u00a4\u00a1",
+    "name_hu": "Lengyelorsz\u00c3\u00a1g",
+    "name_id": "Polandia",
+    "name_it": "Polonia",
+    "name_ja": "\u00e3\u0083\u009d\u00e3\u0083\u00bc\u00e3\u0083\u00a9\u00e3\u0083\u00b3\u00e3\u0083\u0089",
+    "name_ko": "\u00ed\u008f\u00b4\u00eb\u009e\u0080\u00eb\u0093\u009c",
+    "name_len": "6",
+    "name_long": "Poland",
+    "name_nev": "Poland",
+    "name_nl": "Polen",
+    "name_pl": "Polska",
+    "name_pt": "Pol\u00c3\u00b3nia",
+    "name_ru": "\u00d0\u009f\u00d0\u00be\u00d0\u00bb\u00d1\u008c\u00d1\u0088\u00d0\u00b0",
+    "name_sort": "Poland",
+    "name_sv": "Polen",
+    "name_tr": "Polonya",
+    "name_vi": "Ba Lan",
+    "name_zh": "\u00e6\u00b3\u00a2\u00e5\u0085\u00b0",
+    "ne_id": "1159321179",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "38476269",
+    "pop_rank": "15",
+    "pop_year": "2017",
+    "postal": "PL",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "POL",
+    "sovereignt": "Poland",
+    "status": "officially-assigned",
+    "su_a3": "POL",
+    "su_dif": "0",
+    "subunit": "Poland",
+    "tiny": "-99",
+    "tld": [
+        ".pl"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Polsko",
+            "official": "Polsk\u00e1 republika"
+        },
+        "deu": {
+            "common": "Polen",
+            "official": "Republik Polen"
+        },
+        "est": {
+            "common": "Poola",
+            "official": "Poola Vabariik"
+        },
+        "fin": {
+            "common": "Puola",
+            "official": "Puolan tasavalta"
+        },
+        "fra": {
+            "common": "Pologne",
+            "official": "R\u00e9publique de Pologne"
+        },
+        "hrv": {
+            "common": "Poljska",
+            "official": "Republika Poljska"
+        },
+        "hun": {
+            "common": "Lengyelorsz\u00e1g",
+            "official": "Lengyel K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Polonia",
+            "official": "Repubblica di Polonia"
+        },
+        "jpn": {
+            "common": "\u30dd\u30fc\u30e9\u30f3\u30c9",
+            "official": "\u30dd\u30fc\u30e9\u30f3\u30c9\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\ud3f4\ub780\ub4dc",
+            "official": "\ud3f4\ub780\ub4dc \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Polen",
+            "official": "Republiek Polen"
+        },
+        "per": {
+            "common": "\u0644\u0647\u0633\u062a\u0627\u0646",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0644\u0647\u0633\u062a\u0627\u0646"
+        },
+        "pol": {
+            "common": "Polska",
+            "official": "Rzeczpospolita Polska"
+        },
+        "por": {
+            "common": "Pol\u00f3nia",
+            "official": "Rep\u00fablica da Pol\u00f3nia"
+        },
+        "rus": {
+            "common": "\u041f\u043e\u043b\u044c\u0448\u0430",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u043e\u043b\u044c\u0448\u0430"
+        },
+        "slk": {
+            "common": "Po\u013esko",
+            "official": "Po\u013esk\u00e1 republika"
+        },
+        "spa": {
+            "common": "Polonia",
+            "official": "Rep\u00fablica de Polonia"
+        },
+        "swe": {
+            "common": "Polen",
+            "official": "Republiken Polen"
+        },
+        "urd": {
+            "common": "\u067e\u0648\u0644\u06cc\u0646\u0688",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0648\u0644\u06cc\u0646\u0688"
+        },
+        "zho": {
+            "common": "\u6ce2\u5170",
+            "official": "\u6ce2\u5170\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "616",
+    "un_member": true,
+    "wb_a2": "PL",
+    "wb_a3": "POL",
+    "wikidataid": "Q36",
+    "wikipedia": "-99",
+    "woe_id": "23424923",
+    "woe_id_eh": "23424923",
+    "woe_note": "Exact WOE match as country"
+}

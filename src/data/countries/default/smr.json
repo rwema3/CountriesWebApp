@@ -1,0 +1,311 @@
+{
+    "abbrev": "S.M.",
+    "abbrev_len": "4",
+    "adm0_a3": "SMR",
+    "adm0_a3_is": "SMR",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "SMR",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "San Marino",
+    "alt_spellings": [
+        "SM",
+        "Republic of San Marino",
+        "Repubblica di San Marino"
+    ],
+    "borders": [
+        "ITA"
+    ],
+    "brk_a3": "SMR",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "San Marino",
+    "calling_codes": [
+        "+378"
+    ],
+    "capital": [
+        "City of San Marino"
+    ],
+    "capital_rinvex": "City of San Marino",
+    "cca2": "SM",
+    "cca3": "SMR",
+    "ccn3": "674",
+    "cioc": "SMR",
+    "currencies": [
+        "EUR"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Sammarinese",
+    "demonyms": {
+        "eng": {
+            "f": "Sammarinese",
+            "m": "Sammarinese"
+        },
+        "fra": {
+            "f": "Saint-Marinaise",
+            "m": "Saint-Marinais"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "378"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "national_prefix": null
+    },
+    "economy": "2. Developed region: nonG7",
+    "extra": {
+        "address_format": null,
+        "ar5": "OECD1990",
+        "cowc": "SNM",
+        "cown": 331,
+        "ds": "RSM",
+        "edgar": "S8",
+        "emoji": "\ud83c\uddf8\ud83c\uddf2",
+        "eu_member": null,
+        "fao": 192,
+        "fifa": "SMR",
+        "fips": "SM",
+        "gaul": 213,
+        "geonameid": 3168068,
+        "imf": 135,
+        "ioc": "SMR",
+        "itu": "SMR",
+        "marc": "sm",
+        "vat_rates": null,
+        "wmo": 0
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "SM",
+    "flag": {
+        "emoji": "\ud83c\uddf8\ud83c\uddf2"
+    },
+    "formal_en": "Republic of San Marino",
+    "formal_fr": "",
+    "gdp_md_est": "2023.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 61,
+        "borders": [
+            "ITA"
+        ],
+        "continent": {
+            "EU": "Europe"
+        },
+        "independent": "Yes",
+        "landlocked": true,
+        "latitude": "43 46 N",
+        "latitude_desc": "43.938133239746094",
+        "latlng": [
+            43.76666666,
+            12.41666666
+        ],
+        "longitude": "12 25 E",
+        "longitude_desc": "12.463393211364746",
+        "max_latitude": "43.966667",
+        "max_longitude": "12.5",
+        "min_latitude": "43.908333",
+        "min_longitude": "12.416667",
+        "postal_code": true,
+        "region": "Europe",
+        "region_code": "150",
+        "region_un": "Europe",
+        "region_wb": "Europe & Central Asia",
+        "subregion": "Southern Europe",
+        "subregion_code": "039",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "San Marino",
+    "gu_a3": "SMR",
+    "homepart": "1",
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "78"
+        ]
+    },
+    "income_grp": "2. High income: nonOECD",
+    "independent": true,
+    "iso_3166_1_alpha2": "SM",
+    "iso_3166_1_alpha3": "SMR",
+    "iso_3166_1_numeric": "674",
+    "iso_a2": "SM",
+    "iso_a3": "SMR",
+    "iso_a3_eh": "SMR",
+    "iso_n3": "674",
+    "labelrank": "6",
+    "languages": {
+        "ita": "Italian"
+    },
+    "lastcensus": "2010",
+    "level": "2",
+    "long_len": "10",
+    "mapcolor7": "2",
+    "mapcolor8": "3",
+    "mapcolor9": "1",
+    "mapcolor13": "6",
+    "max_label": "10.0",
+    "min_label": "5.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "San Marino",
+        "native": {
+            "ita": {
+                "common": "San Marino",
+                "official": "Serenissima Repubblica di San Marino"
+            }
+        },
+        "official": "Most Serene Republic of San Marino"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00b3\u00d8\u00a7\u00d9\u0086 \u00d9\u0085\u00d8\u00a7\u00d8\u00b1\u00d9\u008a\u00d9\u0086\u00d9\u0088",
+    "name_bn": "\u00e0\u00a6\u00b8\u00e0\u00a6\u00be\u00e0\u00a6\u00a8 \u00e0\u00a6\u00ae\u00e0\u00a6\u00be\u00e0\u00a6\u00b0\u00e0\u00a6\u00bf\u00e0\u00a6\u00a8\u00e0\u00a7\u008b",
+    "name_ciawf": "San Marino",
+    "name_de": "San Marino",
+    "name_el": "\u00ce\u0086\u00ce\u00b3\u00ce\u00b9\u00ce\u00bf\u00cf\u0082 \u00ce\u009c\u00ce\u00b1\u00cf\u0081\u00ce\u00af\u00ce\u00bd\u00ce\u00bf\u00cf\u0082",
+    "name_en": "San Marino",
+    "name_es": "San Marino",
+    "name_fr": "Saint-Marin",
+    "name_hi": "\u00e0\u00a4\u00b8\u00e0\u00a4\u00be\u00e0\u00a4\u00a8 \u00e0\u00a4\u00ae\u00e0\u00a4\u00be\u00e0\u00a4\u00b0\u00e0\u00a4\u00bf\u00e0\u00a4\u00a8\u00e0\u00a5\u008b",
+    "name_hu": "San Marino",
+    "name_id": "San Marino",
+    "name_it": "San Marino",
+    "name_ja": "\u00e3\u0082\u00b5\u00e3\u0083\u00b3\u00e3\u0083\u009e\u00e3\u0083\u00aa\u00e3\u0083\u008e",
+    "name_ko": "\u00ec\u0082\u00b0\u00eb\u00a7\u0088\u00eb\u00a6\u00ac\u00eb\u0085\u00b8",
+    "name_len": "10",
+    "name_long": "San Marino",
+    "name_nev": "San Marino",
+    "name_nl": "San Marino",
+    "name_pl": "San Marino",
+    "name_pt": "San Marino",
+    "name_ru": "\u00d0\u00a1\u00d0\u00b0\u00d0\u00bd-\u00d0\u009c\u00d0\u00b0\u00d1\u0080\u00d0\u00b8\u00d0\u00bd\u00d0\u00be",
+    "name_sort": "San Marino",
+    "name_sv": "San Marino",
+    "name_tr": "San Marino",
+    "name_vi": "San Marino",
+    "name_zh": "\u00e5\u009c\u00a3\u00e9\u00a9\u00ac\u00e5\u008a\u009b\u00e8\u00af\u00ba",
+    "ne_id": "1159321255",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "33537",
+    "pop_rank": "7",
+    "pop_year": "2017",
+    "postal": "RSM",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "SMR",
+    "sovereignt": "San Marino",
+    "status": "officially-assigned",
+    "su_a3": "SMR",
+    "su_dif": "0",
+    "subunit": "San Marino",
+    "tiny": "5",
+    "tld": [
+        ".sm"
+    ],
+    "translations": {
+        "ces": {
+            "common": "San Marino",
+            "official": "Republika San Marino"
+        },
+        "deu": {
+            "common": "San Marino",
+            "official": "Republik San Marino"
+        },
+        "est": {
+            "common": "San Marino",
+            "official": "San Marino Vabariik"
+        },
+        "fin": {
+            "common": "San Marino",
+            "official": "San Marinon seesteinen tasavalta"
+        },
+        "fra": {
+            "common": "Saint-Marin",
+            "official": "R\u00e9publique de Saint-Marin"
+        },
+        "hrv": {
+            "common": "San Marino",
+            "official": "Ve\u0107ina Serene Republika San Marino"
+        },
+        "hun": {
+            "common": "San Marino",
+            "official": "San Marino K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "San Marino",
+            "official": "Serenissima Repubblica di San Marino"
+        },
+        "jpn": {
+            "common": "\u30b5\u30f3\u30de\u30ea\u30ce",
+            "official": "\u30b5\u30f3\u30de\u30ea\u30ce\u306e\u307b\u3068\u3093\u3069\u30bb\u30ea\u30fc\u30cc\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\uc0b0\ub9c8\ub9ac\ub178",
+            "official": "\uc0b0\ub9c8\ub9ac\ub178 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "San Marino",
+            "official": "Meest Serene Republiek San Marino"
+        },
+        "per": {
+            "common": "\u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648"
+        },
+        "pol": {
+            "common": "San Marino",
+            "official": "Republika San Marino"
+        },
+        "por": {
+            "common": "San Marino",
+            "official": "Seren\u00edssima Rep\u00fablica de San Marino"
+        },
+        "rus": {
+            "common": "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e",
+            "official": "\u0411\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e Serene \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
+        },
+        "slk": {
+            "common": "San Mar\u00edno",
+            "official": "Sanmar\u00ednska republika"
+        },
+        "spa": {
+            "common": "San Marino",
+            "official": "Seren\u00edsima Rep\u00fablica de San Marino"
+        },
+        "swe": {
+            "common": "San Marino",
+            "official": "Republiken San Marino"
+        },
+        "urd": {
+            "common": "\u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648"
+        },
+        "zho": {
+            "common": "\u5723\u9a6c\u529b\u8bfa",
+            "official": "\u5723\u9a6c\u529b\u8bfa\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "674",
+    "un_member": true,
+    "wb_a2": "SM",
+    "wb_a3": "SMR",
+    "wikidataid": "Q238",
+    "wikipedia": "-99",
+    "woe_id": "23424947",
+    "woe_id_eh": "23424947",
+    "woe_note": "Exact WOE match as country"
+}

@@ -1,0 +1,327 @@
+{
+    "abbrev": "Peru",
+    "abbrev_len": "4",
+    "adm0_a3": "PER",
+    "adm0_a3_is": "PER",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "PER",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Peru",
+    "alt_spellings": [
+        "PE",
+        "Republic of Peru",
+        "Rep\u00fablica del Per\u00fa"
+    ],
+    "borders": [
+        "BOL",
+        "BRA",
+        "CHL",
+        "COL",
+        "ECU"
+    ],
+    "brk_a3": "PER",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Peru",
+    "calling_codes": [
+        "+51"
+    ],
+    "capital": [
+        "Lima"
+    ],
+    "capital_rinvex": "Lima",
+    "cca2": "PE",
+    "cca3": "PER",
+    "ccn3": "604",
+    "cioc": "PER",
+    "currencies": [
+        "PEN"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Peruvian",
+    "demonyms": {
+        "eng": {
+            "f": "Peruvian",
+            "m": "Peruvian"
+        },
+        "fra": {
+            "f": "P\u00e9ruvienne",
+            "m": "P\u00e9ruvien"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "51"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            8,
+            9
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "5. Emerging region: G20",
+    "extra": {
+        "address_format": null,
+        "ar5": "LAM",
+        "cowc": "PER",
+        "cown": 135,
+        "ds": "PE",
+        "edgar": "R5",
+        "emoji": "\ud83c\uddf5\ud83c\uddea",
+        "eu_member": null,
+        "fao": 170,
+        "fifa": "PER",
+        "fips": "PE",
+        "gaul": 195,
+        "geonameid": 3932488,
+        "imf": 293,
+        "ioc": "PER",
+        "itu": "PRU",
+        "marc": "pe",
+        "vat_rates": null,
+        "wmo": "PR"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "PE",
+    "flag": {
+        "emoji": "\ud83c\uddf5\ud83c\uddea"
+    },
+    "formal_en": "Republic of Peru",
+    "formal_fr": "",
+    "gdp_md_est": "410400.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 1285216,
+        "borders": [
+            "BOL",
+            "BRA",
+            "CHL",
+            "COL",
+            "ECU"
+        ],
+        "continent": {
+            "SA": "South America"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "10 00 S",
+        "latitude_desc": "-9.212532997131348",
+        "latlng": [
+            -10,
+            -76
+        ],
+        "longitude": "76 00 W",
+        "longitude_desc": "-74.422119140625",
+        "max_latitude": "4.626667",
+        "max_longitude": "-68.833333",
+        "min_latitude": "-18.333333",
+        "min_longitude": "-81.358333",
+        "postal_code": true,
+        "region": "Americas",
+        "region_code": "019",
+        "region_un": "Americas",
+        "region_wb": "Latin America & Caribbean",
+        "subregion": "South America",
+        "subregion_code": "005",
+        "world_region": "AMER"
+    },
+    "geou_dif": "0",
+    "geounit": "Peru",
+    "gu_a3": "PER",
+    "homepart": "1",
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "1"
+        ]
+    },
+    "income_grp": "3. Upper middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "PE",
+    "iso_3166_1_alpha3": "PER",
+    "iso_3166_1_numeric": "604",
+    "iso_a2": "PE",
+    "iso_a3": "PER",
+    "iso_a3_eh": "PER",
+    "iso_n3": "604",
+    "labelrank": "2",
+    "languages": {
+        "aym": "Aymara",
+        "que": "Quechua",
+        "spa": "Spanish"
+    },
+    "lastcensus": "2007",
+    "level": "2",
+    "long_len": "4",
+    "mapcolor7": "4",
+    "mapcolor8": "4",
+    "mapcolor9": "4",
+    "mapcolor13": "11",
+    "max_label": "7.0",
+    "min_label": "2.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Peru",
+        "native": {
+            "aym": {
+                "common": "Piruw",
+                "official": "Piruw Suyu"
+            },
+            "que": {
+                "common": "Piruw",
+                "official": "Piruw Ripuwlika"
+            },
+            "spa": {
+                "common": "Per\u00fa",
+                "official": "Rep\u00fablica del Per\u00fa"
+            }
+        },
+        "official": "Republic of Peru"
+    },
+    "name_alt": "",
+    "name_ar": "",
+    "name_bn": "",
+    "name_ciawf": "Peru",
+    "name_de": "",
+    "name_el": "",
+    "name_en": "",
+    "name_es": "",
+    "name_fr": "",
+    "name_hi": "",
+    "name_hu": "",
+    "name_id": "",
+    "name_it": "",
+    "name_ja": "",
+    "name_ko": "",
+    "name_len": "4",
+    "name_long": "Peru",
+    "name_nev": "Peru",
+    "name_nl": "",
+    "name_pl": "",
+    "name_pt": "",
+    "name_ru": "",
+    "name_sort": "Peru",
+    "name_sv": "",
+    "name_tr": "",
+    "name_vi": "",
+    "name_zh": "",
+    "ne_id": "1159321163",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "31036656",
+    "pop_rank": "15",
+    "pop_year": "2017",
+    "postal": "PE",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "PER",
+    "sovereignt": "Peru",
+    "status": "officially-assigned",
+    "su_a3": "PER",
+    "su_dif": "0",
+    "subunit": "Peru",
+    "tiny": "-99",
+    "tld": [
+        ".pe"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Peru",
+            "official": "Peru\u00e1nsk\u00e1 republika"
+        },
+        "deu": {
+            "common": "Peru",
+            "official": "Republik Peru"
+        },
+        "est": {
+            "common": "Peruu",
+            "official": "Peruu Vabariik"
+        },
+        "fin": {
+            "common": "Peru",
+            "official": "Perun tasavalta"
+        },
+        "fra": {
+            "common": "P\u00e9rou",
+            "official": "R\u00e9publique du P\u00e9rou"
+        },
+        "hrv": {
+            "common": "Peru",
+            "official": "Republika Peru"
+        },
+        "hun": {
+            "common": "Peru",
+            "official": "Perui K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Per\u00f9",
+            "official": "Repubblica del Per\u00f9"
+        },
+        "jpn": {
+            "common": "\u30da\u30eb\u30fc",
+            "official": "\u30da\u30eb\u30fc\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\ud398\ub8e8",
+            "official": "\ud398\ub8e8 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Peru",
+            "official": "Republiek Peru"
+        },
+        "per": {
+            "common": "\u067e\u0631\u0648",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0631\u0648"
+        },
+        "pol": {
+            "common": "Peru",
+            "official": "Republika Peru"
+        },
+        "por": {
+            "common": "Per\u00fa",
+            "official": "Rep\u00fablica do Peru"
+        },
+        "rus": {
+            "common": "\u041f\u0435\u0440\u0443",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0435\u0440\u0443"
+        },
+        "slk": {
+            "common": "Peru",
+            "official": "Peru\u00e1nska republika"
+        },
+        "spa": {
+            "common": "Per\u00fa",
+            "official": "Rep\u00fablica de Per\u00fa"
+        },
+        "swe": {
+            "common": "Peru",
+            "official": "Republiken Peru"
+        },
+        "urd": {
+            "common": "\u067e\u06cc\u0631\u0648",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u06cc\u0631\u0648"
+        },
+        "zho": {
+            "common": "\u79d8\u9c81",
+            "official": "\u79d8\u9c81\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "604",
+    "un_member": true,
+    "wb_a2": "PE",
+    "wb_a3": "PER",
+    "wikidataid": "Q419",
+    "wikipedia": "-99",
+    "woe_id": "23424919",
+    "woe_id_eh": "23424919",
+    "woe_note": "Exact WOE match as country"
+}

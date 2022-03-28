@@ -1,0 +1,315 @@
+{
+    "abbrev": "Haiti",
+    "abbrev_len": "5",
+    "adm0_a3": "HTI",
+    "adm0_a3_is": "HTI",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "HTI",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Haiti",
+    "alt_spellings": [
+        "HT",
+        "Republic of Haiti",
+        "R\u00e9publique d'Ha\u00efti",
+        "Repiblik Ayiti"
+    ],
+    "borders": [
+        "DOM"
+    ],
+    "brk_a3": "HTI",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Haiti",
+    "calling_codes": [
+        "+509"
+    ],
+    "capital": [
+        "Port-au-Prince"
+    ],
+    "capital_rinvex": "Port-au-Prince",
+    "cca2": "HT",
+    "cca3": "HTI",
+    "ccn3": "332",
+    "cioc": "HAI",
+    "currencies": [
+        "HTG",
+        "USD"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Haitian",
+    "demonyms": {
+        "eng": {
+            "f": "Haitian",
+            "m": "Haitian"
+        },
+        "fra": {
+            "f": "Ha\u00eftienne",
+            "m": "Ha\u00eftien"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "509"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            8
+        ],
+        "national_prefix": null
+    },
+    "economy": "7. Least developed region",
+    "extra": {
+        "address_format": null,
+        "ar5": "LAM",
+        "cowc": "HAI",
+        "cown": 41,
+        "ds": "RH",
+        "edgar": "K1",
+        "emoji": "\ud83c\udded\ud83c\uddf9",
+        "eu_member": null,
+        "fao": 93,
+        "fifa": "HAI",
+        "fips": "HA",
+        "gaul": 108,
+        "geonameid": 3723988,
+        "imf": 263,
+        "ioc": "HAI",
+        "itu": "HTI",
+        "marc": "ht",
+        "vat_rates": null,
+        "wmo": "HA"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "HA",
+    "flag": {
+        "emoji": "\ud83c\udded\ud83c\uddf9"
+    },
+    "formal_en": "Republic of Haiti",
+    "formal_fr": "",
+    "gdp_md_est": "19340.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 27750,
+        "borders": [
+            "DOM"
+        ],
+        "continent": {
+            "NA": "North America"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "19 00 N",
+        "latitude_desc": "19.0732421875",
+        "latlng": [
+            19,
+            -72.41666666
+        ],
+        "longitude": "72 25 W",
+        "longitude_desc": "-72.24127960205078",
+        "max_latitude": "20.083333",
+        "max_longitude": "-71.633333",
+        "min_latitude": "18.016667",
+        "min_longitude": "-74.483333",
+        "postal_code": true,
+        "region": "Americas",
+        "region_code": "019",
+        "region_un": "Americas",
+        "region_wb": "Latin America & Caribbean",
+        "subregion": "Caribbean",
+        "subregion_code": "029",
+        "world_region": "AMER"
+    },
+    "geou_dif": "0",
+    "geounit": "Haiti",
+    "gu_a3": "HTI",
+    "homepart": "1",
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "09"
+        ]
+    },
+    "income_grp": "5. Low income",
+    "independent": true,
+    "iso_3166_1_alpha2": "HT",
+    "iso_3166_1_alpha3": "HTI",
+    "iso_3166_1_numeric": "332",
+    "iso_a2": "HT",
+    "iso_a3": "HTI",
+    "iso_a3_eh": "HTI",
+    "iso_n3": "332",
+    "labelrank": "5",
+    "languages": {
+        "fra": "French",
+        "hat": "Haitian Creole"
+    },
+    "lastcensus": "2003",
+    "level": "2",
+    "long_len": "5",
+    "mapcolor7": "2",
+    "mapcolor8": "1",
+    "mapcolor9": "7",
+    "mapcolor13": "2",
+    "max_label": "9.0",
+    "min_label": "4.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Haiti",
+        "native": {
+            "fra": {
+                "common": "Ha\u00efti",
+                "official": "R\u00e9publique d'Ha\u00efti"
+            },
+            "hat": {
+                "common": "Ayiti",
+                "official": "Repiblik Ayiti"
+            }
+        },
+        "official": "Republic of Haiti"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d9\u0087\u00d8\u00a7\u00d9\u008a\u00d8\u00aa\u00d9\u008a",
+    "name_bn": "\u00e0\u00a6\u00b9\u00e0\u00a6\u00be\u00e0\u00a6\u0087\u00e0\u00a6\u00a4\u00e0\u00a6\u00bf",
+    "name_ciawf": "Haiti",
+    "name_de": "Haiti",
+    "name_el": "\u00ce\u0091\u00cf\u008a\u00cf\u0084\u00ce\u00ae",
+    "name_en": "Haiti",
+    "name_es": "Hait\u00c3\u00ad",
+    "name_fr": "Ha\u00c3\u00afti",
+    "name_hi": "\u00e0\u00a4\u00b9\u00e0\u00a5\u0088\u00e0\u00a4\u00a4\u00e0\u00a5\u0080",
+    "name_hu": "Haiti",
+    "name_id": "Haiti",
+    "name_it": "Haiti",
+    "name_ja": "\u00e3\u0083\u008f\u00e3\u0082\u00a4\u00e3\u0083\u0081",
+    "name_ko": "\u00ec\u0095\u0084\u00ec\u009d\u00b4\u00ed\u008b\u00b0",
+    "name_len": "5",
+    "name_long": "Haiti",
+    "name_nev": "Haiti",
+    "name_nl": "Ha\u00c3\u00afti",
+    "name_pl": "Haiti",
+    "name_pt": "Haiti",
+    "name_ru": "\u00d0\u00a0\u00d0\u00b5\u00d1\u0081\u00d0\u00bf\u00d1\u0083\u00d0\u00b1\u00d0\u00bb\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0 \u00d0\u0093\u00d0\u00b0\u00d0\u00b8\u00d1\u0082\u00d0\u00b8",
+    "name_sort": "Haiti",
+    "name_sv": "Haiti",
+    "name_tr": "Haiti",
+    "name_vi": "Haiti",
+    "name_zh": "\u00e6\u00b5\u00b7\u00e5\u009c\u00b0",
+    "ne_id": "1159320839",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "10646714",
+    "pop_rank": "14",
+    "pop_year": "2017",
+    "postal": "HT",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "HTI",
+    "sovereignt": "Haiti",
+    "status": "officially-assigned",
+    "su_a3": "HTI",
+    "su_dif": "0",
+    "subunit": "Haiti",
+    "tiny": "-99",
+    "tld": [
+        ".ht"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Haiti",
+            "official": "Republika Haiti"
+        },
+        "deu": {
+            "common": "Haiti",
+            "official": "Republik Haiti"
+        },
+        "est": {
+            "common": "Haiti",
+            "official": "Haiti Vabariik"
+        },
+        "fin": {
+            "common": "Haiti",
+            "official": "Haitin tasavalta"
+        },
+        "fra": {
+            "common": "Ha\u00efti",
+            "official": "R\u00e9publique d'Ha\u00efti"
+        },
+        "hrv": {
+            "common": "Haiti",
+            "official": "Republika Haiti"
+        },
+        "hun": {
+            "common": "Haiti",
+            "official": "Haiti K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Haiti",
+            "official": "Repubblica di Haiti"
+        },
+        "jpn": {
+            "common": "\u30cf\u30a4\u30c1",
+            "official": "\u30cf\u30a4\u30c1\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\uc544\uc774\ud2f0",
+            "official": "\uc544\uc774\ud2f0 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Ha\u00efti",
+            "official": "Republiek Ha\u00efti"
+        },
+        "per": {
+            "common": "\u0647\u0627\u0626\u06cc\u062a\u06cc",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0647\u0627\u0626\u06cc\u062a\u06cc"
+        },
+        "pol": {
+            "common": "Haiti",
+            "official": "Republika Haiti"
+        },
+        "por": {
+            "common": "Haiti",
+            "official": "Rep\u00fablica do Haiti"
+        },
+        "rus": {
+            "common": "\u0413\u0430\u0438\u0442\u0438",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0430\u0438\u0442\u0438"
+        },
+        "slk": {
+            "common": "Haiti",
+            "official": "Haitsk\u00e1 republika"
+        },
+        "spa": {
+            "common": "Haiti",
+            "official": "Rep\u00fablica de Hait\u00ed"
+        },
+        "swe": {
+            "common": "Haiti",
+            "official": "Republiken Haiti"
+        },
+        "urd": {
+            "common": "\u06c1\u06cc\u0679\u06cc",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06c1\u06cc\u0679\u06cc"
+        },
+        "zho": {
+            "common": "\u6d77\u5730",
+            "official": "\u6d77\u5730\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "332",
+    "un_member": true,
+    "wb_a2": "HT",
+    "wb_a3": "HTI",
+    "wikidataid": "Q790",
+    "wikipedia": "-99",
+    "woe_id": "23424839",
+    "woe_id_eh": "23424839",
+    "woe_note": "Exact WOE match as country"
+}

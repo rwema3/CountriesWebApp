@@ -1,0 +1,17 @@
+{
+    "asia_dili": {
+        "abbreviations": [
+            "LMT",
+            "TLT"
+        ],
+        "cca2": "TL",
+        "cca3": "TLS",
+        "country_code": "TL",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "364",
+        "zone_name": "Asia\/Dili"
+    }
+}

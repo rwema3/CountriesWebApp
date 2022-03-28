@@ -1,0 +1,17 @@
+{
+    "asia_kathmandu": {
+        "abbreviations": [
+            "LMT",
+            "NPT"
+        ],
+        "cca2": "NP",
+        "cca3": "NPL",
+        "country_code": "NP",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "279",
+        "zone_name": "Asia\/Kathmandu"
+    }
+}

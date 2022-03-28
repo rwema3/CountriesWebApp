@@ -1,0 +1,314 @@
+{
+    "abbrev": "Mus.",
+    "abbrev_len": "4",
+    "adm0_a3": "MUS",
+    "adm0_a3_is": "MUS",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "MUS",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Mauritius",
+    "alt_spellings": [
+        "MU",
+        "Republic of Mauritius",
+        "R\u00e9publique de Maurice"
+    ],
+    "borders": [],
+    "brk_a3": "MUS",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Mauritius",
+    "calling_codes": [
+        "+230"
+    ],
+    "capital": [
+        "Port Louis"
+    ],
+    "capital_rinvex": "Port Louis",
+    "cca2": "MU",
+    "cca3": "MUS",
+    "ccn3": "480",
+    "cioc": "MRI",
+    "currencies": [
+        "MUR"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Mauritian",
+    "demonyms": {
+        "eng": {
+            "f": "Mauritian",
+            "m": "Mauritian"
+        },
+        "fra": {
+            "f": "Mauricienne",
+            "m": "Mauricien"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "230"
+        ],
+        "international_prefix": "020",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            7
+        ],
+        "national_prefix": null
+    },
+    "economy": "6. Developing region",
+    "extra": {
+        "address_format": null,
+        "ar5": "MAF",
+        "cowc": "MAS",
+        "cown": 590,
+        "ds": "MS",
+        "edgar": "O4",
+        "emoji": "\ud83c\uddf2\ud83c\uddfa",
+        "eu_member": null,
+        "fao": 137,
+        "fifa": "MRI",
+        "fips": "MP",
+        "gaul": 160,
+        "geonameid": 934292,
+        "imf": 684,
+        "ioc": "MRI",
+        "itu": "MAU",
+        "marc": "mf",
+        "vat_rates": null,
+        "wmo": "MA"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "MP",
+    "flag": {
+        "emoji": "\ud83c\uddf2\ud83c\uddfa"
+    },
+    "formal_en": "Republic of Mauritius",
+    "formal_fr": "",
+    "gdp_md_est": "25850.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 2040,
+        "borders": [],
+        "continent": {
+            "AF": "Africa"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "20 17 S",
+        "latitude_desc": "-20.220409393310547",
+        "latlng": [
+            -20.28333333,
+            57.55
+        ],
+        "longitude": "57 33 E",
+        "longitude_desc": "57.589378356933594",
+        "max_latitude": "-5.25",
+        "max_longitude": "72.466667",
+        "min_latitude": "-20.516667",
+        "min_longitude": "56.6",
+        "postal_code": false,
+        "region": "Africa",
+        "region_code": "002",
+        "region_un": "Africa",
+        "region_wb": "Sub-Saharan Africa",
+        "subregion": "Eastern Africa",
+        "subregion_code": "014",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Mauritius",
+    "gu_a3": "MUS",
+    "homepart": "1",
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "30"
+        ]
+    },
+    "income_grp": "3. Upper middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "MU",
+    "iso_3166_1_alpha3": "MUS",
+    "iso_3166_1_numeric": "480",
+    "iso_a2": "MU",
+    "iso_a3": "MUS",
+    "iso_a3_eh": "MUS",
+    "iso_n3": "480",
+    "labelrank": "5",
+    "languages": {
+        "eng": "English",
+        "fra": "French",
+        "mfe": "Mauritian Creole"
+    },
+    "lastcensus": "2011",
+    "level": "2",
+    "long_len": "9",
+    "mapcolor7": "1",
+    "mapcolor8": "3",
+    "mapcolor9": "5",
+    "mapcolor13": "7",
+    "max_label": "9.0",
+    "min_label": "4.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Mauritius",
+        "native": {
+            "eng": {
+                "common": "Mauritius",
+                "official": "Republic of Mauritius"
+            },
+            "fra": {
+                "common": "Maurice",
+                "official": "R\u00e9publique de Maurice"
+            },
+            "mfe": {
+                "common": "Moris",
+                "official": "Republik Moris"
+            }
+        },
+        "official": "Republic of Mauritius"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d9\u0085\u00d9\u0088\u00d8\u00b1\u00d9\u008a\u00d8\u00b4\u00d9\u008a\u00d9\u0088\u00d8\u00b3",
+    "name_bn": "\u00e0\u00a6\u00ae\u00e0\u00a6\u00b0\u00e0\u00a6\u00bf\u00e0\u00a6\u00b6\u00e0\u00a6\u00be\u00e0\u00a6\u00b8",
+    "name_ciawf": "Mauritius",
+    "name_de": "Mauritius",
+    "name_el": "\u00ce\u009c\u00ce\u00b1\u00cf\u0085\u00cf\u0081\u00ce\u00af\u00ce\u00ba\u00ce\u00b9\u00ce\u00bf\u00cf\u0082",
+    "name_en": "Mauritius",
+    "name_es": "Mauricio",
+    "name_fr": "Maurice",
+    "name_hi": "\u00e0\u00a4\u00ae\u00e0\u00a5\u0089\u00e0\u00a4\u00b0\u00e0\u00a4\u00bf\u00e0\u00a4\u00b6\u00e0\u00a4\u00b8",
+    "name_hu": "Mauritius",
+    "name_id": "Mauritius",
+    "name_it": "Mauritius",
+    "name_ja": "\u00e3\u0083\u00a2\u00e3\u0083\u00bc\u00e3\u0083\u00aa\u00e3\u0082\u00b7\u00e3\u0083\u00a3\u00e3\u0082\u00b9",
+    "name_ko": "\u00eb\u00aa\u00a8\u00eb\u00a6\u00ac\u00ec\u0085\u0094\u00ec\u008a\u00a4",
+    "name_len": "9",
+    "name_long": "Mauritius",
+    "name_nev": "Mauritius",
+    "name_nl": "Mauritius",
+    "name_pl": "Mauritius",
+    "name_pt": "Maur\u00c3\u00adcia",
+    "name_ru": "\u00d0\u009c\u00d0\u00b0\u00d0\u00b2\u00d1\u0080\u00d0\u00b8\u00d0\u00ba\u00d0\u00b8\u00d0\u00b9",
+    "name_sort": "Mauritius",
+    "name_sv": "Mauritius",
+    "name_tr": "Mauritius",
+    "name_vi": "Mauritius",
+    "name_zh": "\u00e6\u00af\u009b\u00e9\u0087\u008c\u00e6\u00b1\u0082\u00e6\u0096\u00af",
+    "ne_id": "1159321079",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "1356388",
+    "pop_rank": "12",
+    "pop_year": "2017",
+    "postal": "MU",
+    "record_type": "country",
+    "scalerank": "3",
+    "sov_a3": "MUS",
+    "sovereignt": "Mauritius",
+    "status": "officially-assigned",
+    "su_a3": "MUS",
+    "su_dif": "0",
+    "subunit": "Mauritius",
+    "tiny": "2",
+    "tld": [
+        ".mu"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Mauricius",
+            "official": "Mauricijsk\u00e1 republika"
+        },
+        "deu": {
+            "common": "Mauritius",
+            "official": "Republik Mauritius"
+        },
+        "est": {
+            "common": "Mauritius",
+            "official": "Mauritiuse Vabariik"
+        },
+        "fin": {
+            "common": "Mauritius",
+            "official": "Mauritiuksen tasavalta"
+        },
+        "fra": {
+            "common": "\u00cele Maurice",
+            "official": "R\u00e9publique de Maurice"
+        },
+        "hrv": {
+            "common": "Mauricijus",
+            "official": "Republika Mauricijus"
+        },
+        "hun": {
+            "common": "Mauritius",
+            "official": "Mauritiusi K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Mauritius",
+            "official": "Repubblica di Mauritius"
+        },
+        "jpn": {
+            "common": "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9",
+            "official": "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\ubaa8\ub9ac\uc154\uc2a4",
+            "official": "\ubaa8\ub9ac\uc154\uc2a4 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Mauritius",
+            "official": "Republiek Mauritius"
+        },
+        "per": {
+            "common": "\u0645\u0648\u0631\u06cc\u0633",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0648\u0631\u06cc\u0633"
+        },
+        "pol": {
+            "common": "Mauritius",
+            "official": "Republika Mauritiusu"
+        },
+        "por": {
+            "common": "Maur\u00edcio",
+            "official": "Rep\u00fablica das Maur\u00edcias"
+        },
+        "rus": {
+            "common": "\u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439"
+        },
+        "slk": {
+            "common": "Maur\u00edcius",
+            "official": "Maur\u00edcijsk\u00e1 republika"
+        },
+        "spa": {
+            "common": "Mauricio",
+            "official": "Rep\u00fablica de Mauricio"
+        },
+        "swe": {
+            "common": "Mauritius",
+            "official": "Republiken Mauritius"
+        },
+        "urd": {
+            "common": "\u0645\u0648\u0631\u06cc\u0634\u0633",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0631\u06cc\u0634\u0633"
+        },
+        "zho": {
+            "common": "\u6bdb\u91cc\u6c42\u65af",
+            "official": "\u6bdb\u91cc\u6c42\u65af\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "480",
+    "un_member": true,
+    "wb_a2": "MU",
+    "wb_a3": "MUS",
+    "wikidataid": "Q1027",
+    "wikipedia": "-99",
+    "woe_id": "23424894",
+    "woe_id_eh": "23424894",
+    "woe_note": "Exact WOE match as country"
+}

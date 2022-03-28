@@ -1,0 +1,323 @@
+{
+    "abbrev": "Greece",
+    "abbrev_len": "6",
+    "adm0_a3": "GRC",
+    "adm0_a3_is": "GRC",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "GRC",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Greece",
+    "alt_spellings": [
+        "GR",
+        "Ell\u00e1da",
+        "Hellenic Republic",
+        "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+    ],
+    "borders": [
+        "ALB",
+        "BGR",
+        "TUR",
+        "MKD"
+    ],
+    "brk_a3": "GRC",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Greece",
+    "calling_codes": [
+        "+30"
+    ],
+    "capital": [
+        "Athens"
+    ],
+    "capital_rinvex": "Athens",
+    "cca2": "GR",
+    "cca3": "GRC",
+    "ccn3": "300",
+    "cioc": "GRE",
+    "currencies": [
+        "EUR"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Greek",
+    "demonyms": {
+        "eng": {
+            "f": "Greek",
+            "m": "Greek"
+        },
+        "fra": {
+            "f": "Grecque",
+            "m": "Grec"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "30"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            10
+        ],
+        "national_prefix": null
+    },
+    "economy": "2. Developed region: nonG7",
+    "extra": {
+        "address_format": "{{recipient}}{{street}}{{postalcode}} {{city}}{{country}}",
+        "ar5": "OECD1990",
+        "cowc": "GRC",
+        "cown": 350,
+        "ds": "GR",
+        "edgar": "J3",
+        "emoji": "\ud83c\uddec\ud83c\uddf7",
+        "eu_member": true,
+        "fao": 84,
+        "fifa": "GRE",
+        "fips": "GR",
+        "gaul": 97,
+        "geonameid": 390903,
+        "imf": 174,
+        "ioc": "GRE",
+        "itu": "GRC",
+        "marc": "gr",
+        "vat_rates": {
+            "parking": null,
+            "reduced": [
+                6.5,
+                13
+            ],
+            "standard": 23,
+            "super_reduced": null
+        },
+        "wmo": "GR"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "GR",
+    "flag": {
+        "emoji": "\ud83c\uddec\ud83c\uddf7"
+    },
+    "formal_en": "Hellenic Republic",
+    "formal_fr": "",
+    "gdp_md_est": "290500.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 131990,
+        "borders": [
+            "ALB",
+            "BGR",
+            "TUR",
+            "MKD"
+        ],
+        "continent": {
+            "EU": "Europe"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "39 00 N",
+        "latitude_desc": "39.68437194824219",
+        "latlng": [
+            39,
+            22
+        ],
+        "longitude": "22 00 E",
+        "longitude_desc": "21.897409439086914",
+        "max_latitude": "44",
+        "max_longitude": "29.648056",
+        "min_latitude": "34.8",
+        "min_longitude": "19.381667",
+        "postal_code": true,
+        "region": "Europe",
+        "region_code": "150",
+        "region_un": "Europe",
+        "region_wb": "Europe & Central Asia",
+        "subregion": "Southern Europe",
+        "subregion_code": "039",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Greece",
+    "gu_a3": "GRC",
+    "homepart": "1",
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "0"
+        ]
+    },
+    "income_grp": "1. High income: OECD",
+    "independent": true,
+    "iso_3166_1_alpha2": "GR",
+    "iso_3166_1_alpha3": "GRC",
+    "iso_3166_1_numeric": "300",
+    "iso_a2": "GR",
+    "iso_a3": "GRC",
+    "iso_a3_eh": "GRC",
+    "iso_n3": "300",
+    "labelrank": "3",
+    "languages": {
+        "ell": "Greek"
+    },
+    "lastcensus": "2011",
+    "level": "2",
+    "long_len": "6",
+    "mapcolor7": "2",
+    "mapcolor8": "2",
+    "mapcolor9": "2",
+    "mapcolor13": "9",
+    "max_label": "8.0",
+    "min_label": "3.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Greece",
+        "native": {
+            "ell": {
+                "common": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+                "official": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+            }
+        },
+        "official": "Hellenic Republic"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00a7\u00d9\u0084\u00d9\u008a\u00d9\u0088\u00d9\u0086\u00d8\u00a7\u00d9\u0086",
+    "name_bn": "\u00e0\u00a6\u0097\u00e0\u00a7\u008d\u00e0\u00a6\u00b0\u00e0\u00a6\u00bf\u00e0\u00a6\u00b8",
+    "name_ciawf": "Greece",
+    "name_de": "Griechenland",
+    "name_el": "\u00ce\u0095\u00ce\u00bb\u00ce\u00bb\u00ce\u00ac\u00ce\u00b4\u00ce\u00b1",
+    "name_en": "Greece",
+    "name_es": "Grecia",
+    "name_fr": "Gr\u00c3\u00a8ce",
+    "name_hi": "\u00e0\u00a4\u00af\u00e0\u00a5\u0082\u00e0\u00a4\u00a8\u00e0\u00a4\u00be\u00e0\u00a4\u00a8",
+    "name_hu": "G\u00c3\u00b6r\u00c3\u00b6gorsz\u00c3\u00a1g",
+    "name_id": "Yunani",
+    "name_it": "Grecia",
+    "name_ja": "\u00e3\u0082\u00ae\u00e3\u0083\u00aa\u00e3\u0082\u00b7\u00e3\u0083\u00a3",
+    "name_ko": "\u00ea\u00b7\u00b8\u00eb\u00a6\u00ac\u00ec\u008a\u00a4",
+    "name_len": "6",
+    "name_long": "Greece",
+    "name_nev": "Greece",
+    "name_nl": "Griekenland",
+    "name_pl": "Grecja",
+    "name_pt": "Gr\u00c3\u00a9cia",
+    "name_ru": "\u00d0\u0093\u00d1\u0080\u00d0\u00b5\u00d1\u0086\u00d0\u00b8\u00d1\u008f",
+    "name_sort": "Greece",
+    "name_sv": "Grekland",
+    "name_tr": "Yunanistan",
+    "name_vi": "Hy L\u00e1\u00ba\u00a1p",
+    "name_zh": "\u00e5\u00b8\u008c\u00e8\u0085\u008a",
+    "ne_id": "1159320811",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "10768477",
+    "pop_rank": "14",
+    "pop_year": "2017",
+    "postal": "GR",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "GRC",
+    "sovereignt": "Greece",
+    "status": "officially-assigned",
+    "su_a3": "GRC",
+    "su_dif": "0",
+    "subunit": "Greece",
+    "tiny": "-99",
+    "tld": [
+        ".gr"
+    ],
+    "translations": {
+        "ces": {
+            "common": "\u0158ecko",
+            "official": "\u0158eck\u00e1 republika"
+        },
+        "deu": {
+            "common": "Griechenland",
+            "official": "Hellenische Republik"
+        },
+        "est": {
+            "common": "Kreeka",
+            "official": "Kreeka Vabariik"
+        },
+        "fin": {
+            "common": "Kreikka",
+            "official": "Helleenien tasavalta"
+        },
+        "fra": {
+            "common": "Gr\u00e8ce",
+            "official": "R\u00e9publique hell\u00e9nique"
+        },
+        "hrv": {
+            "common": "Gr\u010dka",
+            "official": "Helenska Republika"
+        },
+        "hun": {
+            "common": "G\u00f6r\u00f6gorsz\u00e1g",
+            "official": "G\u00f6r\u00f6g K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Grecia",
+            "official": "Repubblica ellenica"
+        },
+        "jpn": {
+            "common": "\u30ae\u30ea\u30b7\u30e3",
+            "official": "\u30ae\u30ea\u30b7\u30e3\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\uadf8\ub9ac\uc2a4",
+            "official": "\uadf8\ub9ac\uc2a4 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Griekenland",
+            "official": "Helleense Republiek"
+        },
+        "per": {
+            "common": "\u06cc\u0648\u0646\u0627\u0646",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06cc\u0648\u0646\u0627\u0646"
+        },
+        "pol": {
+            "common": "Grecja",
+            "official": "Republika Grecka"
+        },
+        "por": {
+            "common": "Gr\u00e9cia",
+            "official": "Rep\u00fablica Hel\u00e9nica"
+        },
+        "rus": {
+            "common": "\u0413\u0440\u0435\u0446\u0438\u044f",
+            "official": "\u0413\u0440\u0435\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        },
+        "slk": {
+            "common": "Gre\u00e9cko",
+            "official": "Gr\u00e9cka republika"
+        },
+        "spa": {
+            "common": "Grecia",
+            "official": "Rep\u00fablica Hel\u00e9nica"
+        },
+        "swe": {
+            "common": "Grekland",
+            "official": "Republiken Grekland"
+        },
+        "urd": {
+            "common": "\u06cc\u0648\u0646\u0627\u0646",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06c1\u06cc\u0644\u06cc\u0646\u06cc\u06c1"
+        },
+        "zho": {
+            "common": "\u5e0c\u814a",
+            "official": "\u5e0c\u814a\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "300",
+    "un_member": true,
+    "wb_a2": "GR",
+    "wb_a3": "GRC",
+    "wikidataid": "Q41",
+    "wikipedia": "-99",
+    "woe_id": "23424833",
+    "woe_id_eh": "23424833",
+    "woe_note": "Exact WOE match as country"
+}

@@ -1,0 +1,17 @@
+{
+    "america_lima": {
+        "abbreviations": [
+            "LMT",
+            "PET"
+        ],
+        "cca2": "PE",
+        "cca3": "PER",
+        "country_code": "PE",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "286",
+        "zone_name": "America\/Lima"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "america_kralendijk": {
+        "abbreviations": [
+            "AST",
+            "LMT"
+        ],
+        "cca2": "BQ",
+        "cca3": "BES",
+        "country_code": "BQ",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "62",
+        "zone_name": "America\/Kralendijk"
+    }
+}

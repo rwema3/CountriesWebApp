@@ -1,0 +1,303 @@
+{
+    "abbrev": "Tr.T.",
+    "abbrev_len": "5",
+    "adm0_a3": "TTO",
+    "adm0_a3_is": "TTO",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "TTO",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Trinidad and Tobago",
+    "alt_spellings": [
+        "TT",
+        "Republic of Trinidad and Tobago"
+    ],
+    "borders": [],
+    "brk_a3": "TTO",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Trinidad and Tobago",
+    "calling_codes": [
+        "+1868"
+    ],
+    "capital": [
+        "Port of Spain"
+    ],
+    "capital_rinvex": "Port of Spain",
+    "cca2": "TT",
+    "cca3": "TTO",
+    "ccn3": "780",
+    "cioc": "TTO",
+    "currencies": [
+        "TTD"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Trinidadian",
+    "demonyms": {
+        "eng": {
+            "f": "Trinidadian",
+            "m": "Trinidadian"
+        },
+        "fra": {
+            "f": "Trinidadienne",
+            "m": "Trinidadien"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "1868"
+        ],
+        "international_prefix": "011",
+        "national_destination_code_lengths": [
+            3
+        ],
+        "national_number_lengths": [
+            10
+        ],
+        "national_prefix": "1"
+    },
+    "economy": "6. Developing region",
+    "extra": {
+        "address_format": null,
+        "ar5": "LAM",
+        "cowc": "TRI",
+        "cown": 52,
+        "ds": "TT",
+        "edgar": "W5",
+        "emoji": "\ud83c\uddf9\ud83c\uddf9",
+        "eu_member": null,
+        "fao": 220,
+        "fifa": "TRI",
+        "fips": "TD",
+        "gaul": 246,
+        "geonameid": 3573591,
+        "imf": 369,
+        "ioc": "TTO",
+        "itu": "TRD",
+        "marc": "tr",
+        "vat_rates": null,
+        "wmo": "TD"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "TD",
+    "flag": {
+        "emoji": "\ud83c\uddf9\ud83c\uddf9"
+    },
+    "formal_en": "Republic of Trinidad and Tobago",
+    "formal_fr": "",
+    "gdp_md_est": "43570.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 5130,
+        "borders": [],
+        "continent": {
+            "NA": "North America"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "11 00 N",
+        "latitude_desc": "10.68574047088623",
+        "latlng": [
+            11,
+            -61
+        ],
+        "longitude": "61 00 W",
+        "longitude_desc": "-61.1640625",
+        "max_latitude": "20",
+        "max_longitude": "-60.5",
+        "min_latitude": "10.033333",
+        "min_longitude": "-74",
+        "postal_code": false,
+        "region": "Americas",
+        "region_code": "019",
+        "region_un": "Americas",
+        "region_wb": "Latin America & Caribbean",
+        "subregion": "Caribbean",
+        "subregion_code": "029",
+        "world_region": "AMER"
+    },
+    "geou_dif": "0",
+    "geounit": "Trinidad and Tobago",
+    "gu_a3": "TTO",
+    "homepart": "1",
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "868"
+        ]
+    },
+    "income_grp": "2. High income: nonOECD",
+    "independent": true,
+    "iso_3166_1_alpha2": "TT",
+    "iso_3166_1_alpha3": "TTO",
+    "iso_3166_1_numeric": "780",
+    "iso_a2": "TT",
+    "iso_a3": "TTO",
+    "iso_a3_eh": "TTO",
+    "iso_n3": "780",
+    "labelrank": "5",
+    "languages": {
+        "eng": "English"
+    },
+    "lastcensus": "2011",
+    "level": "2",
+    "long_len": "19",
+    "mapcolor7": "5",
+    "mapcolor8": "6",
+    "mapcolor9": "2",
+    "mapcolor13": "5",
+    "max_label": "9.5",
+    "min_label": "4.5",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Trinidad and Tobago",
+        "native": {
+            "eng": {
+                "common": "Trinidad and Tobago",
+                "official": "Republic of Trinidad and Tobago"
+            }
+        },
+        "official": "Republic of Trinidad and Tobago"
+    },
+    "name_alt": "",
+    "name_ar": "",
+    "name_bn": "",
+    "name_ciawf": "Trinidad and Tobago",
+    "name_de": "",
+    "name_el": "",
+    "name_en": "",
+    "name_es": "",
+    "name_fr": "",
+    "name_hi": "",
+    "name_hu": "",
+    "name_id": "",
+    "name_it": "",
+    "name_ja": "",
+    "name_ko": "",
+    "name_len": "19",
+    "name_long": "Trinidad and Tobago",
+    "name_nev": "Trinidad and Tobago",
+    "name_nl": "",
+    "name_pl": "",
+    "name_pt": "",
+    "name_ru": "",
+    "name_sort": "Trinidad and Tobago",
+    "name_sv": "",
+    "name_tr": "",
+    "name_vi": "",
+    "name_zh": "",
+    "ne_id": "1159321321",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "1218208",
+    "pop_rank": "12",
+    "pop_year": "2017",
+    "postal": "TT",
+    "record_type": "country",
+    "scalerank": "3",
+    "sov_a3": "TTO",
+    "sovereignt": "Trinidad and Tobago",
+    "status": "officially-assigned",
+    "su_a3": "TTO",
+    "su_dif": "0",
+    "subunit": "Trinidad and Tobago",
+    "tiny": "2",
+    "tld": [
+        ".tt"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Trinidad a Tobago",
+            "official": "Republika Trinidad a Tobago"
+        },
+        "deu": {
+            "common": "Trinidad und Tobago",
+            "official": "Republik Trinidad und Tobago"
+        },
+        "est": {
+            "common": "Trinidad ja Tobago",
+            "official": "Trinidadi ja Tobago Vabariik"
+        },
+        "fin": {
+            "common": "Trinidad ja Tobago",
+            "official": "Trinidadin ja Tobagon tasavalta"
+        },
+        "fra": {
+            "common": "Trinit\u00e9-et-Tobago",
+            "official": "R\u00e9publique de Trinit\u00e9-et-Tobago"
+        },
+        "hrv": {
+            "common": "Trinidad i Tobago",
+            "official": "Republika Trinidad i Tobago"
+        },
+        "hun": {
+            "common": "Trinidad \u00e9s Tobago",
+            "official": "Trinidad \u00e9s Tobago K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Trinidad e Tobago",
+            "official": "Repubblica di Trinidad e Tobago"
+        },
+        "jpn": {
+            "common": "\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u30fb\u30c8\u30d0\u30b4",
+            "official": "\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u00b7\u30c8\u30d0\u30b4\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc \ud1a0\ubc14\uace0",
+            "official": "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc \ud1a0\ubc14\uace0 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Trinidad en Tobago",
+            "official": "Republiek Trinidad en Tobago"
+        },
+        "per": {
+            "common": "\u062a\u0631\u06cc\u0646\u06cc\u062f\u0627\u062f \u0648 \u062a\u0648\u0628\u0627\u06af\u0648",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0631\u06cc\u0646\u06cc\u062f\u0627\u062f \u0648 \u062a\u0648\u0628\u0627\u06af\u0648"
+        },
+        "pol": {
+            "common": "Trynidad i Tobago",
+            "official": "Trynidad i Tobago"
+        },
+        "por": {
+            "common": "Trinidade e Tobago",
+            "official": "Rep\u00fablica de Trinidad e Tobago"
+        },
+        "rus": {
+            "common": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0438 \u0422\u043e\u0431\u0430\u0433\u043e",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0438 \u0422\u043e\u0431\u0430\u0433\u043e"
+        },
+        "slk": {
+            "common": "Trinidad a Tobago",
+            "official": "Republika Trinidad a Tobaga"
+        },
+        "spa": {
+            "common": "Trinidad y Tobago",
+            "official": "Rep\u00fablica de Trinidad y Tobago"
+        },
+        "swe": {
+            "common": "Trinidad och Tobago",
+            "official": "Republiken Trinidad och Tobago"
+        },
+        "urd": {
+            "common": "\u0679\u0631\u06cc\u0646\u06cc\u0688\u0627\u0688 \u0648 \u0679\u0648\u0628\u0627\u06af\u0648",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0679\u0631\u06cc\u0646\u06cc\u0688\u0627\u0688 \u0648 \u0679\u0648\u0628\u0627\u06af\u0648"
+        },
+        "zho": {
+            "common": "\u7279\u7acb\u5c3c\u8fbe\u548c\u591a\u5df4\u54e5",
+            "official": "\u7279\u7acb\u5c3c\u8fbe\u548c\u591a\u5df4\u54e5\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "780",
+    "un_member": true,
+    "wb_a2": "TT",
+    "wb_a3": "TTO",
+    "wikidataid": "Q754",
+    "wikipedia": "-99",
+    "woe_id": "23424958",
+    "woe_id_eh": "23424958",
+    "woe_note": "Exact WOE match as country"
+}

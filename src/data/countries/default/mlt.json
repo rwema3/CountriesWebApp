@@ -1,0 +1,317 @@
+{
+    "abbrev": "Malta",
+    "abbrev_len": "5",
+    "adm0_a3": "MLT",
+    "adm0_a3_is": "MLT",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "MLT",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Malta",
+    "alt_spellings": [
+        "MT",
+        "Republic of Malta",
+        "Repubblika ta' Malta"
+    ],
+    "borders": [],
+    "brk_a3": "MLT",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Malta",
+    "calling_codes": [
+        "+356"
+    ],
+    "capital": [
+        "Valletta"
+    ],
+    "capital_rinvex": "Valletta",
+    "cca2": "MT",
+    "cca3": "MLT",
+    "ccn3": "470",
+    "cioc": "MLT",
+    "currencies": [
+        "EUR"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Maltese",
+    "demonyms": {
+        "eng": {
+            "f": "Maltese",
+            "m": "Maltese"
+        },
+        "fra": {
+            "f": "Maltaise",
+            "m": "Maltais"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "356"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            8
+        ],
+        "national_prefix": "21"
+    },
+    "economy": "2. Developed region: nonG7",
+    "extra": {
+        "address_format": null,
+        "ar5": "EIT",
+        "cowc": "MLT",
+        "cown": 338,
+        "ds": "M",
+        "edgar": "O1",
+        "emoji": "\ud83c\uddf2\ud83c\uddf9",
+        "eu_member": true,
+        "fao": 134,
+        "fifa": "MLT",
+        "fips": "MT",
+        "gaul": 156,
+        "geonameid": 2562770,
+        "imf": 181,
+        "ioc": "MLT",
+        "itu": "MLT",
+        "marc": "mm",
+        "vat_rates": {
+            "parking": null,
+            "reduced": [
+                5,
+                7
+            ],
+            "standard": 18,
+            "super_reduced": null
+        },
+        "wmo": "ML"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "MT",
+    "flag": {
+        "emoji": "\ud83c\uddf2\ud83c\uddf9"
+    },
+    "formal_en": "Republic of Malta",
+    "formal_fr": "",
+    "gdp_md_est": "16320.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 316,
+        "borders": [],
+        "continent": {
+            "EU": "Europe"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "35 50 N",
+        "latitude_desc": "35.93336486816406",
+        "latlng": [
+            35.83333333,
+            14.58333333
+        ],
+        "longitude": "14 35 E",
+        "longitude_desc": "14.381033897399902",
+        "max_latitude": "36.081944",
+        "max_longitude": "14.575",
+        "min_latitude": "35.783889",
+        "min_longitude": "14.185556",
+        "postal_code": true,
+        "region": "Europe",
+        "region_code": "150",
+        "region_un": "Europe",
+        "region_wb": "Middle East & North Africa",
+        "subregion": "Southern Europe",
+        "subregion_code": "039",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Malta",
+    "gu_a3": "MLT",
+    "homepart": "1",
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "56"
+        ]
+    },
+    "income_grp": "2. High income: nonOECD",
+    "independent": true,
+    "iso_3166_1_alpha2": "MT",
+    "iso_3166_1_alpha3": "MLT",
+    "iso_3166_1_numeric": "470",
+    "iso_a2": "MT",
+    "iso_a3": "MLT",
+    "iso_a3_eh": "MLT",
+    "iso_n3": "470",
+    "labelrank": "5",
+    "languages": {
+        "eng": "English",
+        "mlt": "Maltese"
+    },
+    "lastcensus": "2005",
+    "level": "2",
+    "long_len": "5",
+    "mapcolor7": "1",
+    "mapcolor8": "4",
+    "mapcolor9": "1",
+    "mapcolor13": "8",
+    "max_label": "9.0",
+    "min_label": "4.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Malta",
+        "native": {
+            "eng": {
+                "common": "Malta",
+                "official": "Republic of Malta"
+            },
+            "mlt": {
+                "common": "Malta",
+                "official": "Repubblika ta ' Malta"
+            }
+        },
+        "official": "Republic of Malta"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d9\u0085\u00d8\u00a7\u00d9\u0084\u00d8\u00b7\u00d8\u00a7",
+    "name_bn": "\u00e0\u00a6\u00ae\u00e0\u00a6\u00be\u00e0\u00a6\u00b2\u00e0\u00a7\u008d\u00e0\u00a6\u009f\u00e0\u00a6\u00be",
+    "name_ciawf": "Malta",
+    "name_de": "Malta",
+    "name_el": "\u00ce\u009c\u00ce\u00ac\u00ce\u00bb\u00cf\u0084\u00ce\u00b1",
+    "name_en": "Malta",
+    "name_es": "Malta",
+    "name_fr": "Malte",
+    "name_hi": "\u00e0\u00a4\u00ae\u00e0\u00a4\u00be\u00e0\u00a4\u00b2\u00e0\u00a5\u008d\u00e0\u00a4\u009f\u00e0\u00a4\u00be",
+    "name_hu": "M\u00c3\u00a1lta",
+    "name_id": "Malta",
+    "name_it": "Malta",
+    "name_ja": "\u00e3\u0083\u009e\u00e3\u0083\u00ab\u00e3\u0082\u00bf",
+    "name_ko": "\u00eb\u00aa\u00b0\u00ed\u0083\u0080",
+    "name_len": "5",
+    "name_long": "Malta",
+    "name_nev": "Malta",
+    "name_nl": "Malta",
+    "name_pl": "Malta",
+    "name_pt": "Malta",
+    "name_ru": "\u00d0\u009c\u00d0\u00b0\u00d0\u00bb\u00d1\u008c\u00d1\u0082\u00d0\u00b0",
+    "name_sort": "Malta",
+    "name_sv": "Malta",
+    "name_tr": "Malta",
+    "name_vi": "Malta",
+    "name_zh": "\u00e9\u00a9\u00ac\u00e8\u0080\u00b3\u00e4\u00bb\u0096",
+    "ne_id": "1159321065",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "416338",
+    "pop_rank": "10",
+    "pop_year": "2017",
+    "postal": "M",
+    "record_type": "country",
+    "scalerank": "5",
+    "sov_a3": "MLT",
+    "sovereignt": "Malta",
+    "status": "officially-assigned",
+    "su_a3": "MLT",
+    "su_dif": "0",
+    "subunit": "Malta",
+    "tiny": "3",
+    "tld": [
+        ".mt"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Malta",
+            "official": "Maltsk\u00e1 republika"
+        },
+        "deu": {
+            "common": "Malta",
+            "official": "Republik Malta"
+        },
+        "est": {
+            "common": "Malta",
+            "official": "Malta Vabariik"
+        },
+        "fin": {
+            "common": "Malta",
+            "official": "Maltan tasavalta"
+        },
+        "fra": {
+            "common": "Malte",
+            "official": "R\u00e9publique de Malte"
+        },
+        "hrv": {
+            "common": "Malta",
+            "official": "Republika Malta"
+        },
+        "hun": {
+            "common": "M\u00e1lta",
+            "official": "M\u00e1ltai K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Malta",
+            "official": "Repubblica di Malta"
+        },
+        "jpn": {
+            "common": "\u30de\u30eb\u30bf",
+            "official": "\u30de\u30eb\u30bf\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\ubab0\ud0c0",
+            "official": "\ubab0\ud0c0 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Malta",
+            "official": "Republiek Malta"
+        },
+        "per": {
+            "common": "\u0645\u0627\u0644\u062a",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0627\u0644\u062a"
+        },
+        "pol": {
+            "common": "Malta",
+            "official": "Republika Malty"
+        },
+        "por": {
+            "common": "Malta",
+            "official": "Rep\u00fablica de Malta"
+        },
+        "rus": {
+            "common": "\u041c\u0430\u043b\u044c\u0442\u0430",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043b\u044c\u0442\u0430"
+        },
+        "slk": {
+            "common": "Malta",
+            "official": "Maltsk\u00e1 republika"
+        },
+        "spa": {
+            "common": "Malta",
+            "official": "Rep\u00fablica de Malta"
+        },
+        "swe": {
+            "common": "Malta",
+            "official": "Republiken Malta"
+        },
+        "urd": {
+            "common": "\u0645\u0627\u0644\u0679\u0627",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u0679\u0627"
+        },
+        "zho": {
+            "common": "\u9a6c\u8033\u4ed6",
+            "official": "\u9a6c\u8033\u4ed6\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "470",
+    "un_member": true,
+    "wb_a2": "MT",
+    "wb_a3": "MLT",
+    "wikidataid": "Q233",
+    "wikipedia": "-99",
+    "woe_id": "23424897",
+    "woe_id_eh": "23424897",
+    "woe_note": "Exact WOE match as country"
+}

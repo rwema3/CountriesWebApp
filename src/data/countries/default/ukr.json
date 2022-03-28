@@ -1,0 +1,321 @@
+{
+    "abbrev": "Ukr.",
+    "abbrev_len": "4",
+    "adm0_a3": "UKR",
+    "adm0_a3_is": "UKR",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "UKR",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Ukraine",
+    "alt_spellings": [
+        "UA",
+        "Ukrayina"
+    ],
+    "borders": [
+        "BLR",
+        "HUN",
+        "MDA",
+        "POL",
+        "ROU",
+        "RUS",
+        "SVK"
+    ],
+    "brk_a3": "UKR",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Ukraine",
+    "calling_codes": [
+        "+380"
+    ],
+    "capital": [
+        "Kyiv"
+    ],
+    "capital_rinvex": "Kyiv",
+    "cca2": "UA",
+    "cca3": "UKR",
+    "ccn3": "804",
+    "cioc": "UKR",
+    "currencies": [
+        "UAH"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Ukrainian",
+    "demonyms": {
+        "eng": {
+            "f": "Ukrainian",
+            "m": "Ukrainian"
+        },
+        "fra": {
+            "f": "Ukrainienne",
+            "m": "Ukrainien"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "380"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            8,
+            9
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "6. Developing region",
+    "extra": {
+        "address_format": "{{recipient}}{{street}}{{city}} {{region_short}}{{postalcode}}{{country}}",
+        "ar5": "EIT",
+        "cowc": "UKR",
+        "cown": 369,
+        "ds": "UA",
+        "edgar": "2H",
+        "emoji": "\ud83c\uddfa\ud83c\udde6",
+        "eu_member": null,
+        "fao": 230,
+        "fifa": "UKR",
+        "fips": "UP",
+        "gaul": 254,
+        "geonameid": 690791,
+        "imf": 926,
+        "ioc": "UKR",
+        "itu": "UKR",
+        "marc": "un",
+        "vat_rates": null,
+        "wmo": "UR"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "UP",
+    "flag": {
+        "emoji": "\ud83c\uddfa\ud83c\udde6"
+    },
+    "formal_en": "Ukraine",
+    "formal_fr": "",
+    "gdp_md_est": "352600.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 603500,
+        "borders": [
+            "BLR",
+            "HUN",
+            "MDA",
+            "POL",
+            "ROU",
+            "RUS",
+            "SVK"
+        ],
+        "continent": {
+            "EU": "Europe"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "49 00 N",
+        "latitude_desc": "48.92656326293945",
+        "latlng": [
+            49,
+            32
+        ],
+        "longitude": "32 00 E",
+        "longitude_desc": "31.47578239440918",
+        "max_latitude": "63.4",
+        "max_longitude": "68.85",
+        "min_latitude": "37.8",
+        "min_longitude": "20.933333",
+        "postal_code": true,
+        "region": "Europe",
+        "region_code": "150",
+        "region_un": "Europe",
+        "region_wb": "Europe & Central Asia",
+        "subregion": "Eastern Europe",
+        "subregion_code": "151",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Ukraine",
+    "gu_a3": "UKR",
+    "homepart": "1",
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "80"
+        ]
+    },
+    "income_grp": "4. Lower middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "UA",
+    "iso_3166_1_alpha3": "UKR",
+    "iso_3166_1_numeric": "804",
+    "iso_a2": "UA",
+    "iso_a3": "UKR",
+    "iso_a3_eh": "UKR",
+    "iso_n3": "804",
+    "labelrank": "3",
+    "languages": {
+        "ukr": "Ukrainian"
+    },
+    "lastcensus": "2001",
+    "level": "2",
+    "long_len": "7",
+    "mapcolor7": "5",
+    "mapcolor8": "1",
+    "mapcolor9": "6",
+    "mapcolor13": "3",
+    "max_label": "7.0",
+    "min_label": "3.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Ukraine",
+        "native": {
+            "ukr": {
+                "common": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+                "official": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430"
+            }
+        },
+        "official": "Ukraine"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00a3\u00d9\u0088\u00d9\u0083\u00d8\u00b1\u00d8\u00a7\u00d9\u0086\u00d9\u008a\u00d8\u00a7",
+    "name_bn": "\u00e0\u00a6\u0087\u00e0\u00a6\u0089\u00e0\u00a6\u0095\u00e0\u00a7\u008d\u00e0\u00a6\u00b0\u00e0\u00a7\u0087\u00e0\u00a6\u00a8",
+    "name_ciawf": "Ukraine",
+    "name_de": "Ukraine",
+    "name_el": "\u00ce\u009f\u00cf\u0085\u00ce\u00ba\u00cf\u0081\u00ce\u00b1\u00ce\u00bd\u00ce\u00af\u00ce\u00b1",
+    "name_en": "Ukraine",
+    "name_es": "Ucrania",
+    "name_fr": "Ukraine",
+    "name_hi": "\u00e0\u00a4\u00af\u00e0\u00a5\u0081\u00e0\u00a4\u0095\u00e0\u00a5\u008d\u00e0\u00a4\u00b0\u00e0\u00a5\u0087\u00e0\u00a4\u00a8",
+    "name_hu": "Ukrajna",
+    "name_id": "Ukraina",
+    "name_it": "Ucraina",
+    "name_ja": "\u00e3\u0082\u00a6\u00e3\u0082\u00af\u00e3\u0083\u00a9\u00e3\u0082\u00a4\u00e3\u0083\u008a",
+    "name_ko": "\u00ec\u009a\u00b0\u00ed\u0081\u00ac\u00eb\u009d\u00bc\u00ec\u009d\u00b4\u00eb\u0082\u0098",
+    "name_len": "7",
+    "name_long": "Ukraine",
+    "name_nev": "Ukraine",
+    "name_nl": "Oekra\u00c3\u00afne",
+    "name_pl": "Ukraina",
+    "name_pt": "Ucr\u00c3\u00a2nia",
+    "name_ru": "\u00d0\u00a3\u00d0\u00ba\u00d1\u0080\u00d0\u00b0\u00d0\u00b8\u00d0\u00bd\u00d0\u00b0",
+    "name_sort": "Ukraine",
+    "name_sv": "Ukraina",
+    "name_tr": "Ukrayna",
+    "name_vi": "Ukraina",
+    "name_zh": "\u00e4\u00b9\u008c\u00e5\u0085\u008b\u00e5\u0085\u00b0",
+    "ne_id": "1159321345",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "44033874",
+    "pop_rank": "15",
+    "pop_year": "2017",
+    "postal": "UA",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "UKR",
+    "sovereignt": "Ukraine",
+    "status": "officially-assigned",
+    "su_a3": "UKR",
+    "su_dif": "0",
+    "subunit": "Ukraine",
+    "tiny": "-99",
+    "tld": [
+        ".ua",
+        ".\u0443\u043a\u0440"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Ukrajina",
+            "official": "Ukrajina"
+        },
+        "deu": {
+            "common": "Ukraine",
+            "official": "Ukraine"
+        },
+        "est": {
+            "common": "Ukraina",
+            "official": "Ukraina"
+        },
+        "fin": {
+            "common": "Ukraina",
+            "official": "Ukraina"
+        },
+        "fra": {
+            "common": "Ukraine",
+            "official": "Ukraine"
+        },
+        "hrv": {
+            "common": "Ukrajina",
+            "official": "Ukrajina"
+        },
+        "hun": {
+            "common": "Ukrajna",
+            "official": "Ukrajna"
+        },
+        "ita": {
+            "common": "Ucraina",
+            "official": "Ucraina"
+        },
+        "jpn": {
+            "common": "\u30a6\u30af\u30e9\u30a4\u30ca",
+            "official": "\u30a6\u30af\u30e9\u30a4\u30ca"
+        },
+        "kor": {
+            "common": "\uc6b0\ud06c\ub77c\uc774\ub098",
+            "official": "\uc6b0\ud06c\ub77c\uc774\ub098"
+        },
+        "nld": {
+            "common": "Oekra\u00efne",
+            "official": "Oekra\u00efne"
+        },
+        "per": {
+            "common": "\u0627\u0648\u06a9\u0631\u0627\u06cc\u0646",
+            "official": "\u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
+        },
+        "pol": {
+            "common": "Ukraina",
+            "official": "Ukraina"
+        },
+        "por": {
+            "common": "Ucr\u00e2nia",
+            "official": "Ucr\u00e2nia"
+        },
+        "rus": {
+            "common": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430",
+            "official": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430"
+        },
+        "slk": {
+            "common": "Ukrajina",
+            "official": "Ukrajina"
+        },
+        "spa": {
+            "common": "Ucrania",
+            "official": "Ucrania"
+        },
+        "swe": {
+            "common": "Ukraina",
+            "official": "Ukraina"
+        },
+        "urd": {
+            "common": "\u06cc\u0648\u06a9\u0631\u06cc\u0646",
+            "official": "\u06cc\u0648\u06a9\u0631\u06cc\u0646"
+        },
+        "zho": {
+            "common": "\u4e4c\u514b\u5170",
+            "official": "\u4e4c\u514b\u5170"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "804",
+    "un_member": true,
+    "wb_a2": "UA",
+    "wb_a3": "UKR",
+    "wikidataid": "Q212",
+    "wikipedia": "-99",
+    "woe_id": "23424976",
+    "woe_id_eh": "23424976",
+    "woe_note": "Exact WOE match as country"
+}

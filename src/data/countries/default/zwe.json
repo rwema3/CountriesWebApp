@@ -1,0 +1,386 @@
+{
+    "abbrev": "Zimb.",
+    "abbrev_len": "5",
+    "adm0_a3": "ZWE",
+    "adm0_a3_is": "ZWE",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "ZWE",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Zimbabwe",
+    "alt_spellings": [
+        "ZW",
+        "Republic of Zimbabwe"
+    ],
+    "borders": [
+        "BWA",
+        "MOZ",
+        "ZAF",
+        "ZMB"
+    ],
+    "brk_a3": "ZWE",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Zimbabwe",
+    "calling_codes": [
+        "+263"
+    ],
+    "capital": [
+        "Harare"
+    ],
+    "capital_rinvex": "Harare",
+    "cca2": "ZW",
+    "cca3": "ZWE",
+    "ccn3": "716",
+    "cioc": "ZIM",
+    "currencies": [
+        "ZWL"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Zimbabwean",
+    "demonyms": {
+        "eng": {
+            "f": "Zimbabwean",
+            "m": "Zimbabwean"
+        },
+        "fra": {
+            "f": "Zimbabw\u00e9enne",
+            "m": "Zimbabw\u00e9en"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "263"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            8,
+            9,
+            10,
+            11
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "5. Emerging region: G20",
+    "extra": {
+        "address_format": null,
+        "ar5": "MAF",
+        "cowc": "ZIM",
+        "cown": 552,
+        "ds": "ZW",
+        "edgar": "Y5",
+        "emoji": "\ud83c\uddff\ud83c\uddfc",
+        "eu_member": null,
+        "fao": 181,
+        "fifa": "ZIM",
+        "fips": "ZI",
+        "gaul": 271,
+        "geonameid": 878675,
+        "imf": 698,
+        "ioc": "ZIM",
+        "itu": "ZWE",
+        "marc": "rh",
+        "vat_rates": null,
+        "wmo": "ZW"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "ZI",
+    "flag": {
+        "emoji": "\ud83c\uddff\ud83c\uddfc"
+    },
+    "formal_en": "Republic of Zimbabwe",
+    "formal_fr": "",
+    "gdp_md_est": "28330.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 390757,
+        "borders": [
+            "BWA",
+            "MOZ",
+            "ZAF",
+            "ZMB"
+        ],
+        "continent": {
+            "AF": "Africa"
+        },
+        "independent": "Yes",
+        "landlocked": true,
+        "latitude": "20 00 S",
+        "latitude_desc": "-19.000280380249023",
+        "latlng": [
+            -20,
+            30
+        ],
+        "longitude": "30 00 E",
+        "longitude_desc": "29.86876106262207",
+        "max_latitude": "-15.6",
+        "max_longitude": "33.05",
+        "min_latitude": "-22.316667",
+        "min_longitude": "25.333333",
+        "postal_code": false,
+        "region": "Africa",
+        "region_code": "002",
+        "region_un": "Africa",
+        "region_wb": "Sub-Saharan Africa",
+        "subregion": "Eastern Africa",
+        "subregion_code": "014",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Zimbabwe",
+    "gu_a3": "ZWE",
+    "homepart": "1",
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "63"
+        ]
+    },
+    "income_grp": "5. Low income",
+    "independent": true,
+    "iso_3166_1_alpha2": "ZW",
+    "iso_3166_1_alpha3": "ZWE",
+    "iso_3166_1_numeric": "716",
+    "iso_a2": "ZW",
+    "iso_a3": "ZWE",
+    "iso_a3_eh": "ZWE",
+    "iso_n3": "716",
+    "labelrank": "3",
+    "languages": {
+        "bwg": "Chibarwe",
+        "eng": "English",
+        "kck": "Kalanga",
+        "khi": "Khoisan",
+        "ndc": "Ndau",
+        "nde": "Northern Ndebele",
+        "nya": "Chewa",
+        "sna": "Shona",
+        "sot": "Sotho",
+        "toi": "Tonga",
+        "tsn": "Tswana",
+        "tso": "Tsonga",
+        "ven": "Venda",
+        "xho": "Xhosa",
+        "zib": "Zimbabwean Sign Language"
+    },
+    "lastcensus": "2002",
+    "level": "2",
+    "long_len": "8",
+    "mapcolor7": "1",
+    "mapcolor8": "5",
+    "mapcolor9": "3",
+    "mapcolor13": "9",
+    "max_label": "8.0",
+    "min_label": "3.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Zimbabwe",
+        "native": {
+            "bwg": {
+                "common": "Zimbabwe",
+                "official": "Republic of Zimbabwe"
+            },
+            "eng": {
+                "common": "Zimbabwe",
+                "official": "Republic of Zimbabwe"
+            },
+            "kck": {
+                "common": "Zimbabwe",
+                "official": "Republic of Zimbabwe"
+            },
+            "khi": {
+                "common": "Zimbabwe",
+                "official": "Republic of Zimbabwe"
+            },
+            "ndc": {
+                "common": "Zimbabwe",
+                "official": "Republic of Zimbabwe"
+            },
+            "nde": {
+                "common": "Zimbabwe",
+                "official": "Republic of Zimbabwe"
+            },
+            "nya": {
+                "common": "Zimbabwe",
+                "official": "Republic of Zimbabwe"
+            },
+            "sna": {
+                "common": "Zimbabwe",
+                "official": "Republic of Zimbabwe"
+            },
+            "sot": {
+                "common": "Zimbabwe",
+                "official": "Republic of Zimbabwe"
+            },
+            "toi": {
+                "common": "Zimbabwe",
+                "official": "Republic of Zimbabwe"
+            },
+            "tsn": {
+                "common": "Zimbabwe",
+                "official": "Republic of Zimbabwe"
+            },
+            "tso": {
+                "common": "Zimbabwe",
+                "official": "Republic of Zimbabwe"
+            },
+            "ven": {
+                "common": "Zimbabwe",
+                "official": "Republic of Zimbabwe"
+            },
+            "xho": {
+                "common": "Zimbabwe",
+                "official": "Republic of Zimbabwe"
+            },
+            "zib": {
+                "common": "Zimbabwe",
+                "official": "Republic of Zimbabwe"
+            }
+        },
+        "official": "Republic of Zimbabwe"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00b2\u00d9\u008a\u00d9\u0085\u00d8\u00a8\u00d8\u00a7\u00d8\u00a8\u00d9\u0088\u00d9\u008a",
+    "name_bn": "\u00e0\u00a6\u009c\u00e0\u00a6\u00bf\u00e0\u00a6\u00ae\u00e0\u00a7\u008d\u00e0\u00a6\u00ac\u00e0\u00a6\u00be\u00e0\u00a6\u00ac\u00e0\u00a7\u0081\u00e0\u00a6\u00af\u00e0\u00a6\u00bc\u00e0\u00a7\u0087",
+    "name_ciawf": "Zimbabwe",
+    "name_de": "Simbabwe",
+    "name_el": "\u00ce\u0096\u00ce\u00b9\u00ce\u00bc\u00cf\u0080\u00ce\u00ac\u00ce\u00bc\u00cf\u0080\u00ce\u00bf\u00cf\u0085\u00ce\u00b5",
+    "name_en": "Zimbabwe",
+    "name_es": "Zimbabue",
+    "name_fr": "Zimbabwe",
+    "name_hi": "\u00e0\u00a4\u009c\u00e0\u00a4\u00bc\u00e0\u00a4\u00bf\u00e0\u00a4\u00ae\u00e0\u00a5\u008d\u00e0\u00a4\u00ac\u00e0\u00a4\u00be\u00e0\u00a4\u00ac\u00e0\u00a5\u008d\u00e0\u00a4\u00b5\u00e0\u00a5\u0087",
+    "name_hu": "Zimbabwe",
+    "name_id": "Zimbabwe",
+    "name_it": "Zimbabwe",
+    "name_ja": "\u00e3\u0082\u00b8\u00e3\u0083\u00b3\u00e3\u0083\u0090\u00e3\u0083\u0096\u00e3\u0082\u00a8",
+    "name_ko": "\u00ec\u00a7\u0090\u00eb\u00b0\u0094\u00eb\u00b8\u008c\u00ec\u009b\u00a8",
+    "name_len": "8",
+    "name_long": "Zimbabwe",
+    "name_nev": "Zimbabwe",
+    "name_nl": "Zimbabwe",
+    "name_pl": "Zimbabwe",
+    "name_pt": "Zimb\u00c3\u00a1bue",
+    "name_ru": "\u00d0\u0097\u00d0\u00b8\u00d0\u00bc\u00d0\u00b1\u00d0\u00b0\u00d0\u00b1\u00d0\u00b2\u00d0\u00b5",
+    "name_sort": "Zimbabwe",
+    "name_sv": "Zimbabwe",
+    "name_tr": "Zimbabve",
+    "name_vi": "Zimbabwe",
+    "name_zh": "\u00e8\u00be\u009b\u00e5\u00b7\u00b4\u00e5\u00a8\u0081",
+    "ne_id": "1159321441",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "13805084",
+    "pop_rank": "14",
+    "pop_year": "2017",
+    "postal": "ZW",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "ZWE",
+    "sovereignt": "Zimbabwe",
+    "status": "officially-assigned",
+    "su_a3": "ZWE",
+    "su_dif": "0",
+    "subunit": "Zimbabwe",
+    "tiny": "-99",
+    "tld": [
+        ".zw"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Zimbabwe",
+            "official": "Zimbabwsk\u00e1 republika"
+        },
+        "deu": {
+            "common": "Simbabwe",
+            "official": "Republik Simbabwe"
+        },
+        "est": {
+            "common": "Zimbabwe",
+            "official": "Zimbabwe Vabariik"
+        },
+        "fin": {
+            "common": "Zimbabwe",
+            "official": "Zimbabwen tasavalta"
+        },
+        "fra": {
+            "common": "Zimbabwe",
+            "official": "R\u00e9publique du Zimbabwe"
+        },
+        "hrv": {
+            "common": "Zimbabve",
+            "official": "Republika Zimbabve"
+        },
+        "hun": {
+            "common": "Zimbabwe",
+            "official": "Zimbabwei K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Zimbabwe",
+            "official": "Repubblica dello Zimbabwe"
+        },
+        "jpn": {
+            "common": "\u30b8\u30f3\u30d0\u30d6\u30a8",
+            "official": "\u30b8\u30f3\u30d0\u30d6\u30a8\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\uc9d0\ubc14\ube0c\uc6e8",
+            "official": "\uc9d0\ubc14\ube0c\uc6e8 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Zimbabwe",
+            "official": "Republiek Zimbabwe"
+        },
+        "per": {
+            "common": "\u0632\u06cc\u0645\u0628\u0627\u0628\u0648\u0647",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0632\u06cc\u0645\u0628\u0627\u0628\u0648\u0647"
+        },
+        "pol": {
+            "common": "Zimbabwe",
+            "official": "Republika Zimbabwe"
+        },
+        "por": {
+            "common": "Zimbabwe",
+            "official": "Rep\u00fablica do Zimbabwe"
+        },
+        "rus": {
+            "common": "\u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435"
+        },
+        "slk": {
+            "common": "Zimbabwe",
+            "official": "Zimbabwianska republika"
+        },
+        "spa": {
+            "common": "Zimbabue",
+            "official": "Rep\u00fablica de Zimbabue"
+        },
+        "swe": {
+            "common": "Zimbabwe",
+            "official": "Republiken Zimbabwe"
+        },
+        "urd": {
+            "common": "\u0632\u0645\u0628\u0627\u0628\u0648\u06d2",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0632\u0645\u0628\u0627\u0628\u0648\u06d2"
+        },
+        "zho": {
+            "common": "\u6d25\u5df4\u5e03\u97e6",
+            "official": "\u6d25\u5df4\u5e03\u97e6\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "716",
+    "un_member": true,
+    "wb_a2": "ZW",
+    "wb_a3": "ZWE",
+    "wikidataid": "Q954",
+    "wikipedia": "-99",
+    "woe_id": "23425004",
+    "woe_id_eh": "23425004",
+    "woe_note": "Exact WOE match as country"
+}

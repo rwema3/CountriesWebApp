@@ -1,0 +1,321 @@
+{
+    "abbrev": "Col.",
+    "abbrev_len": "4",
+    "adm0_a3": "COL",
+    "adm0_a3_is": "COL",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "COL",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Colombia",
+    "alt_spellings": [
+        "CO",
+        "Republic of Colombia",
+        "Rep\u00fablica de Colombia"
+    ],
+    "borders": [
+        "BRA",
+        "ECU",
+        "PAN",
+        "PER",
+        "VEN"
+    ],
+    "brk_a3": "COL",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Colombia",
+    "calling_codes": [
+        "+57"
+    ],
+    "capital": [
+        "Bogot\u00e1"
+    ],
+    "capital_rinvex": "Bogot\u00e1",
+    "cca2": "CO",
+    "cca3": "COL",
+    "ccn3": "170",
+    "cioc": "COL",
+    "currencies": [
+        "COP"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Colombian",
+    "demonyms": {
+        "eng": {
+            "f": "Colombian",
+            "m": "Colombian"
+        },
+        "fra": {
+            "f": "Colombienne",
+            "m": "Colombien"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "57"
+        ],
+        "international_prefix": "005",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            9,
+            10
+        ],
+        "national_prefix": "05"
+    },
+    "economy": "6. Developing region",
+    "extra": {
+        "address_format": null,
+        "ar5": "LAM",
+        "cowc": "COL",
+        "cown": 100,
+        "ds": "CO",
+        "edgar": "F8",
+        "emoji": "\ud83c\udde8\ud83c\uddf4",
+        "eu_member": null,
+        "fao": 44,
+        "fifa": "COL",
+        "fips": "CO",
+        "gaul": 57,
+        "geonameid": 3686110,
+        "imf": 233,
+        "ioc": "COL",
+        "itu": "CLM",
+        "marc": "ck",
+        "vat_rates": null,
+        "wmo": "CO"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "CO",
+    "flag": {
+        "emoji": "\ud83c\udde8\ud83c\uddf4"
+    },
+    "formal_en": "Republic of Colombia",
+    "formal_fr": "",
+    "gdp_md_est": "688000.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 1141748,
+        "borders": [
+            "BRA",
+            "ECU",
+            "PAN",
+            "PER",
+            "VEN"
+        ],
+        "continent": {
+            "SA": "South America"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "4 00 N",
+        "latitude_desc": "3.9976072311401367",
+        "latlng": [
+            4,
+            -72
+        ],
+        "longitude": "72 00 W",
+        "longitude_desc": "-73.27796936035156",
+        "max_latitude": "13.383333",
+        "max_longitude": "-66.854722",
+        "min_latitude": "-4.214722",
+        "min_longitude": "-81.85",
+        "postal_code": true,
+        "region": "Americas",
+        "region_code": "019",
+        "region_un": "Americas",
+        "region_wb": "Latin America & Caribbean",
+        "subregion": "South America",
+        "subregion_code": "005",
+        "world_region": "AMER"
+    },
+    "geou_dif": "0",
+    "geounit": "Colombia",
+    "gu_a3": "COL",
+    "homepart": "1",
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "7"
+        ]
+    },
+    "income_grp": "3. Upper middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "CO",
+    "iso_3166_1_alpha3": "COL",
+    "iso_3166_1_numeric": "170",
+    "iso_a2": "CO",
+    "iso_a3": "COL",
+    "iso_a3_eh": "COL",
+    "iso_n3": "170",
+    "labelrank": "2",
+    "languages": {
+        "spa": "Spanish"
+    },
+    "lastcensus": "2006",
+    "level": "2",
+    "long_len": "8",
+    "mapcolor7": "2",
+    "mapcolor8": "1",
+    "mapcolor9": "3",
+    "mapcolor13": "1",
+    "max_label": "7.0",
+    "min_label": "2.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Colombia",
+        "native": {
+            "spa": {
+                "common": "Colombia",
+                "official": "Rep\u00fablica de Colombia"
+            }
+        },
+        "official": "Republic of Colombia"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d9\u0083\u00d9\u0088\u00d9\u0084\u00d9\u0088\u00d9\u0085\u00d8\u00a8\u00d9\u008a\u00d8\u00a7",
+    "name_bn": "\u00e0\u00a6\u0095\u00e0\u00a6\u00b2\u00e0\u00a6\u00ae\u00e0\u00a7\u008d\u00e0\u00a6\u00ac\u00e0\u00a6\u00bf\u00e0\u00a6\u00af\u00e0\u00a6\u00bc\u00e0\u00a6\u00be",
+    "name_ciawf": "Colombia",
+    "name_de": "Kolumbien",
+    "name_el": "\u00ce\u009a\u00ce\u00bf\u00ce\u00bb\u00ce\u00bf\u00ce\u00bc\u00ce\u00b2\u00ce\u00af\u00ce\u00b1",
+    "name_en": "Colombia",
+    "name_es": "Colombia",
+    "name_fr": "Colombie",
+    "name_hi": "\u00e0\u00a4\u0095\u00e0\u00a5\u008b\u00e0\u00a4\u00b2\u00e0\u00a4\u00ae\u00e0\u00a5\u008d\u00e0\u00a4\u00ac\u00e0\u00a4\u00bf\u00e0\u00a4\u00af\u00e0\u00a4\u00be",
+    "name_hu": "Kolumbia",
+    "name_id": "Kolombia",
+    "name_it": "Colombia",
+    "name_ja": "\u00e3\u0082\u00b3\u00e3\u0083\u00ad\u00e3\u0083\u00b3\u00e3\u0083\u0093\u00e3\u0082\u00a2",
+    "name_ko": "\u00ec\u00bd\u009c\u00eb\u00a1\u00ac\u00eb\u00b9\u0084\u00ec\u0095\u0084",
+    "name_len": "8",
+    "name_long": "Colombia",
+    "name_nev": "Colombia",
+    "name_nl": "Colombia",
+    "name_pl": "Kolumbia",
+    "name_pt": "Col\u00c3\u00b4mbia",
+    "name_ru": "\u00d0\u009a\u00d0\u00be\u00d0\u00bb\u00d1\u0083\u00d0\u00bc\u00d0\u00b1\u00d0\u00b8\u00d1\u008f",
+    "name_sort": "Colombia",
+    "name_sv": "Colombia",
+    "name_tr": "Kolombiya",
+    "name_vi": "Colombia",
+    "name_zh": "\u00e5\u0093\u00a5\u00e4\u00bc\u00a6\u00e6\u00af\u0094\u00e4\u00ba\u009a",
+    "ne_id": "1159320517",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "47698524",
+    "pop_rank": "15",
+    "pop_year": "2017",
+    "postal": "CO",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "COL",
+    "sovereignt": "Colombia",
+    "status": "officially-assigned",
+    "su_a3": "COL",
+    "su_dif": "0",
+    "subunit": "Colombia",
+    "tiny": "-99",
+    "tld": [
+        ".co"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Kolumbie",
+            "official": "Kolumbijsk\u00e1 republika"
+        },
+        "cym": {
+            "common": "Colombia",
+            "official": "Republic of Colombia"
+        },
+        "deu": {
+            "common": "Kolumbien",
+            "official": "Republik Kolumbien"
+        },
+        "est": {
+            "common": "Colombia",
+            "official": "Colombia Vabariik"
+        },
+        "fin": {
+            "common": "Kolumbia",
+            "official": "Kolumbian tasavalta"
+        },
+        "fra": {
+            "common": "Colombie",
+            "official": "R\u00e9publique de Colombie"
+        },
+        "hrv": {
+            "common": "Kolumbija",
+            "official": "Republika Kolumbija"
+        },
+        "hun": {
+            "common": "Kolumbia",
+            "official": "Kolumbiai K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Colombia",
+            "official": "Repubblica di Colombia"
+        },
+        "jpn": {
+            "common": "\u30b3\u30ed\u30f3\u30d3\u30a2",
+            "official": "\u30b3\u30ed\u30f3\u30d3\u30a2\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\ucf5c\ub86c\ube44\uc544",
+            "official": "\ucf5c\ub86c\ube44\uc544 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Colombia",
+            "official": "Republiek Colombia"
+        },
+        "per": {
+            "common": "\u06a9\u0644\u0645\u0628\u06cc\u0627",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0644\u0645\u0628\u06cc\u0627"
+        },
+        "pol": {
+            "common": "Kolumbia",
+            "official": "Republika Kolumbii"
+        },
+        "por": {
+            "common": "Col\u00f4mbia",
+            "official": "Rep\u00fablica da Col\u00f4mbia"
+        },
+        "rus": {
+            "common": "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f"
+        },
+        "slk": {
+            "common": "Kolumbia",
+            "official": "Kolumbijsk\u00e1 republika"
+        },
+        "spa": {
+            "common": "Colombia",
+            "official": "Rep\u00fablica de Colombia"
+        },
+        "swe": {
+            "common": "Colombia",
+            "official": "Republiken Colombia"
+        },
+        "urd": {
+            "common": "\u06a9\u0648\u0644\u0645\u0628\u06cc\u0627",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0644\u0645\u0628\u06cc\u0627"
+        },
+        "zho": {
+            "common": "\u54e5\u4f26\u6bd4\u4e9a",
+            "official": "\u54e5\u4f26\u6bd4\u4e9a\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "170",
+    "un_member": true,
+    "wb_a2": "CO",
+    "wb_a3": "COL",
+    "wikidataid": "Q739",
+    "wikipedia": "-99",
+    "woe_id": "23424787",
+    "woe_id_eh": "23424787",
+    "woe_note": "Exact WOE match as country"
+}

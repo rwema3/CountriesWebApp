@@ -1,0 +1,66 @@
+{
+    "asia_jakarta": {
+        "abbreviations": [
+            "BMT",
+            "LMT",
+            "WIB"
+        ],
+        "cca2": "ID",
+        "cca3": "IDN",
+        "country_code": "ID",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "187",
+        "zone_name": "Asia\/Jakarta"
+    },
+    "asia_jayapura": {
+        "abbreviations": [
+            "LMT",
+            "WIT"
+        ],
+        "cca2": "ID",
+        "cca3": "IDN",
+        "country_code": "ID",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "188",
+        "zone_name": "Asia\/Jayapura"
+    },
+    "asia_makassar": {
+        "abbreviations": [
+            "LMT",
+            "MMT",
+            "WITA"
+        ],
+        "cca2": "ID",
+        "cca3": "IDN",
+        "country_code": "ID",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "189",
+        "zone_name": "Asia\/Makassar"
+    },
+    "asia_pontianak": {
+        "abbreviations": [
+            "LMT",
+            "PMT",
+            "WIB",
+            "WITA"
+        ],
+        "cca2": "ID",
+        "cca3": "IDN",
+        "country_code": "ID",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "190",
+        "zone_name": "Asia\/Pontianak"
+    }
+}

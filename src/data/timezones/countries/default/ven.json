@@ -1,0 +1,18 @@
+{
+    "america_caracas": {
+        "abbreviations": [
+            "CMT",
+            "LMT",
+            "VET"
+        ],
+        "cca2": "VE",
+        "cca3": "VEN",
+        "country_code": "VE",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "414",
+        "zone_name": "America\/Caracas"
+    }
+}

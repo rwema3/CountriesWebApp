@@ -1,0 +1,17 @@
+{
+    "asia_bahrain": {
+        "abbreviations": [
+            "AST",
+            "LMT"
+        ],
+        "cca2": "BH",
+        "cca3": "BHR",
+        "country_code": "BH",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "55",
+        "zone_name": "Asia\/Bahrain"
+    }
+}

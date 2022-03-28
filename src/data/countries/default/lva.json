@@ -1,0 +1,321 @@
+{
+    "abbrev": "Lat.",
+    "abbrev_len": "4",
+    "adm0_a3": "LVA",
+    "adm0_a3_is": "LVA",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "LVA",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Latvia",
+    "alt_spellings": [
+        "LV",
+        "Republic of Latvia",
+        "Latvijas Republika"
+    ],
+    "borders": [
+        "BLR",
+        "EST",
+        "LTU",
+        "RUS"
+    ],
+    "brk_a3": "LVA",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Latvia",
+    "calling_codes": [
+        "+371"
+    ],
+    "capital": [
+        "Riga"
+    ],
+    "capital_rinvex": "Riga",
+    "cca2": "LV",
+    "cca3": "LVA",
+    "ccn3": "428",
+    "cioc": "LAT",
+    "currencies": [
+        "EUR"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Latvian",
+    "demonyms": {
+        "eng": {
+            "f": "Latvian",
+            "m": "Latvian"
+        },
+        "fra": {
+            "f": "Lettone",
+            "m": "Letton"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "371"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            8
+        ],
+        "national_prefix": "8"
+    },
+    "economy": "2. Developed region: nonG7",
+    "extra": {
+        "address_format": null,
+        "ar5": "EIT",
+        "cowc": "LAT",
+        "cown": 367,
+        "ds": "LV",
+        "edgar": "1R",
+        "emoji": "\ud83c\uddf1\ud83c\uddfb",
+        "eu_member": true,
+        "fao": 119,
+        "fifa": "LVA",
+        "fips": "LG",
+        "gaul": 140,
+        "geonameid": 458258,
+        "imf": 941,
+        "ioc": "LAT",
+        "itu": "LVA",
+        "marc": "lv",
+        "vat_rates": {
+            "parking": null,
+            "reduced": [
+                12
+            ],
+            "standard": 21,
+            "super_reduced": null
+        },
+        "wmo": "LV"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "LG",
+    "flag": {
+        "emoji": "\ud83c\uddf1\ud83c\uddfb"
+    },
+    "formal_en": "Republic of Latvia",
+    "formal_fr": "",
+    "gdp_md_est": "50650.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 64559,
+        "borders": [
+            "BLR",
+            "EST",
+            "LTU",
+            "RUS"
+        ],
+        "continent": {
+            "EU": "Europe"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "57 00 N",
+        "latitude_desc": "56.86873245239258",
+        "latlng": [
+            57,
+            25
+        ],
+        "longitude": "25 00 E",
+        "longitude_desc": "24.84024429321289",
+        "max_latitude": "58.066667",
+        "max_longitude": "28.2",
+        "min_latitude": "55.7",
+        "min_longitude": "20.966667",
+        "postal_code": true,
+        "region": "Europe",
+        "region_code": "150",
+        "region_un": "Europe",
+        "region_wb": "Europe & Central Asia",
+        "subregion": "Northern Europe",
+        "subregion_code": "154",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Latvia",
+    "gu_a3": "LVA",
+    "homepart": "1",
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "71"
+        ]
+    },
+    "income_grp": "3. Upper middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "LV",
+    "iso_3166_1_alpha3": "LVA",
+    "iso_3166_1_numeric": "428",
+    "iso_a2": "LV",
+    "iso_a3": "LVA",
+    "iso_a3_eh": "LVA",
+    "iso_n3": "428",
+    "labelrank": "5",
+    "languages": {
+        "lav": "Latvian"
+    },
+    "lastcensus": "2011",
+    "level": "2",
+    "long_len": "6",
+    "mapcolor7": "4",
+    "mapcolor8": "7",
+    "mapcolor9": "6",
+    "mapcolor13": "13",
+    "max_label": "9.0",
+    "min_label": "4.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Latvia",
+        "native": {
+            "lav": {
+                "common": "Latvija",
+                "official": "Latvijas Republikas"
+            }
+        },
+        "official": "Republic of Latvia"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d9\u0084\u00d8\u00a7\u00d8\u00aa\u00d9\u0081\u00d9\u008a\u00d8\u00a7",
+    "name_bn": "\u00e0\u00a6\u00b2\u00e0\u00a6\u00be\u00e0\u00a6\u00a4\u00e0\u00a6\u00ad\u00e0\u00a6\u00bf\u00e0\u00a6\u00af\u00e0\u00a6\u00bc\u00e0\u00a6\u00be",
+    "name_ciawf": "Latvia",
+    "name_de": "Lettland",
+    "name_el": "\u00ce\u009b\u00ce\u00b5\u00cf\u0084\u00ce\u00bf\u00ce\u00bd\u00ce\u00af\u00ce\u00b1",
+    "name_en": "Latvia",
+    "name_es": "Letonia",
+    "name_fr": "Lettonie",
+    "name_hi": "\u00e0\u00a4\u00b2\u00e0\u00a4\u00be\u00e0\u00a4\u00a4\u00e0\u00a4\u00b5\u00e0\u00a4\u00bf\u00e0\u00a4\u00af\u00e0\u00a4\u00be",
+    "name_hu": "Lettorsz\u00c3\u00a1g",
+    "name_id": "Latvia",
+    "name_it": "Lettonia",
+    "name_ja": "\u00e3\u0083\u00a9\u00e3\u0083\u0088\u00e3\u0083\u0093\u00e3\u0082\u00a2",
+    "name_ko": "\u00eb\u009d\u00bc\u00ed\u008a\u00b8\u00eb\u00b9\u0084\u00ec\u0095\u0084",
+    "name_len": "6",
+    "name_long": "Latvia",
+    "name_nev": "Latvia",
+    "name_nl": "Letland",
+    "name_pl": "\u00c5\u0081otwa",
+    "name_pt": "Let\u00c3\u00b3nia",
+    "name_ru": "\u00d0\u009b\u00d0\u00b0\u00d1\u0082\u00d0\u00b2\u00d0\u00b8\u00d1\u008f",
+    "name_sort": "Latvia",
+    "name_sv": "Lettland",
+    "name_tr": "Letonya",
+    "name_vi": "Latvia",
+    "name_zh": "\u00e6\u008b\u0089\u00e8\u0084\u00ab\u00e7\u00b6\u00ad\u00e4\u00ba\u009e",
+    "ne_id": "1159321033",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "1944643",
+    "pop_rank": "12",
+    "pop_year": "2017",
+    "postal": "LV",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "LVA",
+    "sovereignt": "Latvia",
+    "status": "officially-assigned",
+    "su_a3": "LVA",
+    "su_dif": "0",
+    "subunit": "Latvia",
+    "tiny": "-99",
+    "tld": [
+        ".lv"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Loty\u0161sko",
+            "official": "Loty\u0161sk\u00e1 republika"
+        },
+        "deu": {
+            "common": "Lettland",
+            "official": "Republik Lettland"
+        },
+        "est": {
+            "common": "L\u00e4ti",
+            "official": "L\u00e4ti Vabariik"
+        },
+        "fin": {
+            "common": "Latvia",
+            "official": "Latvian tasavalta"
+        },
+        "fra": {
+            "common": "Lettonie",
+            "official": "R\u00e9publique de Lettonie"
+        },
+        "hrv": {
+            "common": "Latvija",
+            "official": "Republika Latvija"
+        },
+        "hun": {
+            "common": "Lettorsz\u00e1g",
+            "official": "Lett K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Lettonia",
+            "official": "Repubblica di Lettonia"
+        },
+        "jpn": {
+            "common": "\u30e9\u30c8\u30d3\u30a2",
+            "official": "\u30e9\u30c8\u30d3\u30a2\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\ub77c\ud2b8\ube44\uc544",
+            "official": "\ub77c\ud2b8\ube44\uc544 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Letland",
+            "official": "Republiek Letland"
+        },
+        "per": {
+            "common": "\u0644\u062a\u0648\u0646\u06cc",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0644\u062a\u0648\u0646\u06cc"
+        },
+        "pol": {
+            "common": "\u0141otwa",
+            "official": "Republika \u0141otewska"
+        },
+        "por": {
+            "common": "Let\u00f3nia",
+            "official": "Rep\u00fablica da Let\u00f3nia"
+        },
+        "rus": {
+            "common": "\u041b\u0430\u0442\u0432\u0438\u044f",
+            "official": "\u041b\u0430\u0442\u0432\u0438\u0439\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        },
+        "slk": {
+            "common": "Loty\u0161sko",
+            "official": "Loty\u0161sk\u00e1 republika"
+        },
+        "spa": {
+            "common": "Letonia",
+            "official": "Rep\u00fablica de Letonia"
+        },
+        "swe": {
+            "common": "Lettland",
+            "official": "Republiken Lettland"
+        },
+        "urd": {
+            "common": "\u0644\u0679\u0648\u06cc\u0627",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0679\u0648\u06cc\u0627"
+        },
+        "zho": {
+            "common": "\u62c9\u8131\u7ef4\u4e9a",
+            "official": "\u62c9\u8131\u7ef4\u4e9a\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "428",
+    "un_member": true,
+    "wb_a2": "LV",
+    "wb_a3": "LVA",
+    "wikidataid": "Q211",
+    "wikipedia": "-99",
+    "woe_id": "23424874",
+    "woe_id_eh": "23424874",
+    "woe_note": "Exact WOE match as country"
+}

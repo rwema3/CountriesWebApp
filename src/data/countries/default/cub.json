@@ -1,0 +1,309 @@
+{
+    "abbrev": "Cuba",
+    "abbrev_len": "4",
+    "adm0_a3": "CUB",
+    "adm0_a3_is": "CUB",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "CUB",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Cuba",
+    "alt_spellings": [
+        "CU",
+        "Republic of Cuba",
+        "Rep\u00fablica de Cuba"
+    ],
+    "borders": [],
+    "brk_a3": "CUB",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Cuba",
+    "calling_codes": [
+        "+53"
+    ],
+    "capital": [
+        "Havana"
+    ],
+    "capital_rinvex": "Havana",
+    "cca2": "CU",
+    "cca3": "CUB",
+    "ccn3": "192",
+    "cioc": "CUB",
+    "currencies": [
+        "CUC",
+        "CUP"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Cuban",
+    "demonyms": {
+        "eng": {
+            "f": "Cuban",
+            "m": "Cuban"
+        },
+        "fra": {
+            "f": "Cubaine",
+            "m": "Cubain"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "53"
+        ],
+        "international_prefix": "119",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            8
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "5. Emerging region: G20",
+    "extra": {
+        "address_format": null,
+        "ar5": "LAM",
+        "cowc": "CUB",
+        "cown": 40,
+        "ds": "C",
+        "edgar": "G3",
+        "emoji": "\ud83c\udde8\ud83c\uddfa",
+        "eu_member": null,
+        "fao": 49,
+        "fifa": "CUB",
+        "fips": "CU",
+        "gaul": 63,
+        "geonameid": 3562981,
+        "imf": 928,
+        "ioc": "CUB",
+        "itu": "CUB",
+        "marc": "cu",
+        "vat_rates": null,
+        "wmo": "CU"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "CU",
+    "flag": {
+        "emoji": "\ud83c\udde8\ud83c\uddfa"
+    },
+    "formal_en": "Republic of Cuba",
+    "formal_fr": "",
+    "gdp_md_est": "132900.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 109884,
+        "borders": [],
+        "continent": {
+            "NA": "North America"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "21 30 N",
+        "latitude_desc": "22.066335678100586",
+        "latlng": [
+            21.5,
+            -80
+        ],
+        "longitude": "80 00 W",
+        "longitude_desc": "-79.4531478881836",
+        "max_latitude": "23.265833",
+        "max_longitude": "-74.135",
+        "min_latitude": "19.828056",
+        "min_longitude": "-84.950833",
+        "postal_code": true,
+        "region": "Americas",
+        "region_code": "019",
+        "region_un": "Americas",
+        "region_wb": "Latin America & Caribbean",
+        "subregion": "Caribbean",
+        "subregion_code": "029",
+        "world_region": "AMER"
+    },
+    "geou_dif": "0",
+    "geounit": "Cuba",
+    "gu_a3": "CUB",
+    "homepart": "1",
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "3"
+        ]
+    },
+    "income_grp": "3. Upper middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "CU",
+    "iso_3166_1_alpha3": "CUB",
+    "iso_3166_1_numeric": "192",
+    "iso_a2": "CU",
+    "iso_a3": "CUB",
+    "iso_a3_eh": "CUB",
+    "iso_n3": "192",
+    "labelrank": "3",
+    "languages": {
+        "spa": "Spanish"
+    },
+    "lastcensus": "2002",
+    "level": "2",
+    "long_len": "4",
+    "mapcolor7": "3",
+    "mapcolor8": "5",
+    "mapcolor9": "3",
+    "mapcolor13": "4",
+    "max_label": "8.0",
+    "min_label": "3.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Cuba",
+        "native": {
+            "spa": {
+                "common": "Cuba",
+                "official": "Rep\u00fablica de Cuba"
+            }
+        },
+        "official": "Republic of Cuba"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d9\u0083\u00d9\u0088\u00d8\u00a8\u00d8\u00a7",
+    "name_bn": "\u00e0\u00a6\u0095\u00e0\u00a6\u00bf\u00e0\u00a6\u0089\u00e0\u00a6\u00ac\u00e0\u00a6\u00be",
+    "name_ciawf": "Cuba",
+    "name_de": "Kuba",
+    "name_el": "\u00ce\u009a\u00ce\u00bf\u00cf\u008d\u00ce\u00b2\u00ce\u00b1",
+    "name_en": "Cuba",
+    "name_es": "Cuba",
+    "name_fr": "Cuba",
+    "name_hi": "\u00e0\u00a4\u0095\u00e0\u00a5\u008d\u00e0\u00a4\u00af\u00e0\u00a5\u0082\u00e0\u00a4\u00ac\u00e0\u00a4\u00be",
+    "name_hu": "Kuba",
+    "name_id": "Kuba",
+    "name_it": "Cuba",
+    "name_ja": "\u00e3\u0082\u00ad\u00e3\u0083\u00a5\u00e3\u0083\u00bc\u00e3\u0083\u0090",
+    "name_ko": "\u00ec\u00bf\u00a0\u00eb\u00b0\u0094",
+    "name_len": "4",
+    "name_long": "Cuba",
+    "name_nev": "Cuba",
+    "name_nl": "Cuba",
+    "name_pl": "Kuba",
+    "name_pt": "Cuba",
+    "name_ru": "\u00d0\u009a\u00d1\u0083\u00d0\u00b1\u00d0\u00b0",
+    "name_sort": "Cuba",
+    "name_sv": "Kuba",
+    "name_tr": "K\u00c3\u00bcba",
+    "name_vi": "Cuba",
+    "name_zh": "\u00e5\u008f\u00a4\u00e5\u00b7\u00b4",
+    "ne_id": "1159320527",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "11147407",
+    "pop_rank": "14",
+    "pop_year": "2017",
+    "postal": "CU",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "CUB",
+    "sovereignt": "Cuba",
+    "status": "officially-assigned",
+    "su_a3": "CUB",
+    "su_dif": "0",
+    "subunit": "Cuba",
+    "tiny": "-99",
+    "tld": [
+        ".cu"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Kuba",
+            "official": "Kub\u00e1nsk\u00e1 republika"
+        },
+        "cym": {
+            "common": "Ciwba",
+            "official": "Republic of Cuba"
+        },
+        "deu": {
+            "common": "Kuba",
+            "official": "Republik Kuba"
+        },
+        "est": {
+            "common": "Kuuba",
+            "official": "Kuuba Vabariik"
+        },
+        "fin": {
+            "common": "Kuuba",
+            "official": "Kuuban tasavalta"
+        },
+        "fra": {
+            "common": "Cuba",
+            "official": "R\u00e9publique de Cuba"
+        },
+        "hrv": {
+            "common": "Kuba",
+            "official": "Republika Kuba"
+        },
+        "hun": {
+            "common": "Kuba",
+            "official": "Kubai K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Cuba",
+            "official": "Repubblica di Cuba"
+        },
+        "jpn": {
+            "common": "\u30ad\u30e5\u30fc\u30d0",
+            "official": "\u30ad\u30e5\u30fc\u30d0\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\ucfe0\ubc14",
+            "official": "\ucfe0\ubc14 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Cuba",
+            "official": "Republiek Cuba"
+        },
+        "per": {
+            "common": "\u06a9\u0648\u0628\u0627",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0648\u0628\u0627"
+        },
+        "pol": {
+            "common": "Kuba",
+            "official": "Republika Kuby"
+        },
+        "por": {
+            "common": "Cuba",
+            "official": "Rep\u00fablica de Cuba"
+        },
+        "rus": {
+            "common": "\u041a\u0443\u0431\u0430",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0443\u0431\u0430"
+        },
+        "slk": {
+            "common": "Kuba",
+            "official": "Kub\u00e1nska republika"
+        },
+        "spa": {
+            "common": "Cuba",
+            "official": "Rep\u00fablica de Cuba"
+        },
+        "swe": {
+            "common": "Kuba",
+            "official": "Republiken Kuba"
+        },
+        "urd": {
+            "common": "\u06a9\u06cc\u0648\u0628\u0627",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0648\u0628\u0627"
+        },
+        "zho": {
+            "common": "\u53e4\u5df4",
+            "official": "\u53e4\u5df4\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "192",
+    "un_member": true,
+    "wb_a2": "CU",
+    "wb_a3": "CUB",
+    "wikidataid": "Q241",
+    "wikipedia": "-99",
+    "woe_id": "23424793",
+    "woe_id_eh": "23424793",
+    "woe_note": "Exact WOE match as country"
+}

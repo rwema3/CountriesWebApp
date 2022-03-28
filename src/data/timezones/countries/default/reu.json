@@ -1,0 +1,17 @@
+{
+    "indian_reunion": {
+        "abbreviations": [
+            "LMT",
+            "RET"
+        ],
+        "cca2": "RE",
+        "cca3": "REU",
+        "country_code": "RE",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "306",
+        "zone_name": "Indian\/Reunion"
+    }
+}

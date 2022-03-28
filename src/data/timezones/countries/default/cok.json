@@ -1,0 +1,17 @@
+{
+    "pacific_rarotonga": {
+        "abbreviations": [
+            "CKT",
+            "LMT"
+        ],
+        "cca2": "CK",
+        "cca3": "COK",
+        "country_code": "CK",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "119",
+        "zone_name": "Pacific\/Rarotonga"
+    }
+}

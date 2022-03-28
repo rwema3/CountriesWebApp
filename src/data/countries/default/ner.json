@@ -1,0 +1,319 @@
+{
+    "abbrev": "Niger",
+    "abbrev_len": "5",
+    "adm0_a3": "NER",
+    "adm0_a3_is": "NER",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "NER",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Niger",
+    "alt_spellings": [
+        "NE",
+        "Nijar"
+    ],
+    "borders": [
+        "DZA",
+        "BEN",
+        "BFA",
+        "TCD",
+        "LBY",
+        "MLI",
+        "NGA"
+    ],
+    "brk_a3": "NER",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Niger",
+    "calling_codes": [
+        "+227"
+    ],
+    "capital": [
+        "Niamey"
+    ],
+    "capital_rinvex": "Niamey",
+    "cca2": "NE",
+    "cca3": "NER",
+    "ccn3": "562",
+    "cioc": "NIG",
+    "currencies": [
+        "XOF"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Nigerien",
+    "demonyms": {
+        "eng": {
+            "f": "Nigerien",
+            "m": "Nigerien"
+        },
+        "fra": {
+            "f": "Nig\u00e9rienne",
+            "m": "Nig\u00e9rien"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "227"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            8
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "7. Least developed region",
+    "extra": {
+        "address_format": null,
+        "ar5": "MAF",
+        "cowc": "NIR",
+        "cown": 436,
+        "ds": "RN",
+        "edgar": "Q4",
+        "emoji": "\ud83c\uddf3\ud83c\uddea",
+        "eu_member": null,
+        "fao": 158,
+        "fifa": "NIG",
+        "fips": "NG",
+        "gaul": 181,
+        "geonameid": 2440476,
+        "imf": 692,
+        "ioc": "NIG",
+        "itu": "NGR",
+        "marc": "ng",
+        "vat_rates": null,
+        "wmo": "NR"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "NG",
+    "flag": {
+        "emoji": "\ud83c\uddf3\ud83c\uddea"
+    },
+    "formal_en": "Republic of Niger",
+    "formal_fr": "",
+    "gdp_md_est": "20150.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 1267000,
+        "borders": [
+            "DZA",
+            "BEN",
+            "BFA",
+            "TCD",
+            "LBY",
+            "MLI",
+            "NGA"
+        ],
+        "continent": {
+            "AF": "Africa"
+        },
+        "independent": "Yes",
+        "landlocked": true,
+        "latitude": "16 00 N",
+        "latitude_desc": "17.424074172973633",
+        "latlng": [
+            16,
+            8
+        ],
+        "longitude": "8 00 E",
+        "longitude_desc": "9.400633811950684",
+        "max_latitude": "26",
+        "max_longitude": "16",
+        "min_latitude": "11.716667",
+        "min_longitude": "0.233333",
+        "postal_code": true,
+        "region": "Africa",
+        "region_code": "002",
+        "region_un": "Africa",
+        "region_wb": "Sub-Saharan Africa",
+        "subregion": "Western Africa",
+        "subregion_code": "011",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Niger",
+    "gu_a3": "NER",
+    "homepart": "1",
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "27"
+        ]
+    },
+    "income_grp": "5. Low income",
+    "independent": true,
+    "iso_3166_1_alpha2": "NE",
+    "iso_3166_1_alpha3": "NER",
+    "iso_3166_1_numeric": "562",
+    "iso_a2": "NE",
+    "iso_a3": "NER",
+    "iso_a3_eh": "NER",
+    "iso_n3": "562",
+    "labelrank": "3",
+    "languages": {
+        "fra": "French"
+    },
+    "lastcensus": "2001",
+    "level": "2",
+    "long_len": "5",
+    "mapcolor7": "4",
+    "mapcolor8": "5",
+    "mapcolor9": "3",
+    "mapcolor13": "13",
+    "max_label": "8.0",
+    "min_label": "3.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Niger",
+        "native": {
+            "fra": {
+                "common": "Niger",
+                "official": "R\u00e9publique du Niger"
+            }
+        },
+        "official": "Republic of Niger"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00a7\u00d9\u0084\u00d9\u0086\u00d9\u008a\u00d8\u00ac\u00d8\u00b1",
+    "name_bn": "\u00e0\u00a6\u00a8\u00e0\u00a6\u00be\u00e0\u00a6\u0087\u00e0\u00a6\u009c\u00e0\u00a6\u00be\u00e0\u00a6\u00b0",
+    "name_ciawf": "Niger",
+    "name_de": "Niger",
+    "name_el": "\u00ce\u009d\u00ce\u00af\u00ce\u00b3\u00ce\u00b7\u00cf\u0081\u00ce\u00b1\u00cf\u0082",
+    "name_en": "Niger",
+    "name_es": "N\u00c3\u00adger",
+    "name_fr": "Niger",
+    "name_hi": "\u00e0\u00a4\u00a8\u00e0\u00a4\u00be\u00e0\u00a4\u0087\u00e0\u00a4\u009c\u00e0\u00a4\u00b0",
+    "name_hu": "Niger",
+    "name_id": "Niger",
+    "name_it": "Niger",
+    "name_ja": "\u00e3\u0083\u008b\u00e3\u0082\u00b8\u00e3\u0082\u00a7\u00e3\u0083\u00bc\u00e3\u0083\u00ab",
+    "name_ko": "\u00eb\u008b\u0088\u00ec\u00a0\u009c\u00eb\u00a5\u00b4",
+    "name_len": "5",
+    "name_long": "Niger",
+    "name_nev": "Niger",
+    "name_nl": "Niger",
+    "name_pl": "Niger",
+    "name_pt": "N\u00c3\u00adger",
+    "name_ru": "\u00d0\u009d\u00d0\u00b8\u00d0\u00b3\u00d0\u00b5\u00d1\u0080",
+    "name_sort": "Niger",
+    "name_sv": "Niger",
+    "name_tr": "Nijer",
+    "name_vi": "Niger",
+    "name_zh": "\u00e5\u00b0\u00bc\u00e6\u0097\u00a5\u00e5\u00b0\u0094",
+    "ne_id": "1159321087",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "19245344",
+    "pop_rank": "14",
+    "pop_year": "2017",
+    "postal": "NE",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "NER",
+    "sovereignt": "Niger",
+    "status": "officially-assigned",
+    "su_a3": "NER",
+    "su_dif": "0",
+    "subunit": "Niger",
+    "tiny": "-99",
+    "tld": [
+        ".ne"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Niger",
+            "official": "Nigersk\u00e1 republika"
+        },
+        "deu": {
+            "common": "Niger",
+            "official": "Republik Niger"
+        },
+        "est": {
+            "common": "Niger",
+            "official": "Nigeri Vabariik"
+        },
+        "fin": {
+            "common": "Niger",
+            "official": "Nigerin tasavalta"
+        },
+        "fra": {
+            "common": "Niger",
+            "official": "R\u00e9publique du Niger"
+        },
+        "hrv": {
+            "common": "Niger",
+            "official": "Republika Niger"
+        },
+        "hun": {
+            "common": "Niger",
+            "official": "Nigeri K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Niger",
+            "official": "Repubblica del Niger"
+        },
+        "jpn": {
+            "common": "\u30cb\u30b8\u30a7\u30fc\u30eb",
+            "official": "\u30cb\u30b8\u30a7\u30fc\u30eb\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\ub2c8\uc81c\ub974",
+            "official": "\ub2c8\uc81c\ub974 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Niger",
+            "official": "Republiek Niger"
+        },
+        "per": {
+            "common": "\u0646\u06cc\u062c\u0631",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0646\u06cc\u062c\u0631"
+        },
+        "pol": {
+            "common": "Niger",
+            "official": "Republika Nigru"
+        },
+        "por": {
+            "common": "N\u00edger",
+            "official": "Rep\u00fablica do N\u00edger"
+        },
+        "rus": {
+            "common": "\u041d\u0438\u0433\u0435\u0440",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041d\u0438\u0433\u0435\u0440"
+        },
+        "slk": {
+            "common": "Niger",
+            "official": "Nig\u00e9rsk\u00e1 republika"
+        },
+        "spa": {
+            "common": "N\u00edger",
+            "official": "Rep\u00fablica de N\u00edger"
+        },
+        "swe": {
+            "common": "Niger",
+            "official": "Republiken Niger"
+        },
+        "urd": {
+            "common": "\u0646\u0627\u0626\u062c\u0631",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0627\u0626\u062c\u0631"
+        },
+        "zho": {
+            "common": "\u5c3c\u65e5\u5c14",
+            "official": "\u5c3c\u65e5\u5c14\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "562",
+    "un_member": true,
+    "wb_a2": "NE",
+    "wb_a3": "NER",
+    "wikidataid": "Q1032",
+    "wikipedia": "-99",
+    "woe_id": "23424906",
+    "woe_id_eh": "23424906",
+    "woe_note": "Exact WOE match as country"
+}

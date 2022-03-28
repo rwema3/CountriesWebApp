@@ -1,0 +1,321 @@
+{
+    "abbrev": "Slo.",
+    "abbrev_len": "4",
+    "adm0_a3": "SVN",
+    "adm0_a3_is": "SVN",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "SVN",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Slovenia",
+    "alt_spellings": [
+        "SI",
+        "Republic of Slovenia",
+        "Republika Slovenija"
+    ],
+    "borders": [
+        "AUT",
+        "HRV",
+        "ITA",
+        "HUN"
+    ],
+    "brk_a3": "SVN",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Slovenia",
+    "calling_codes": [
+        "+386"
+    ],
+    "capital": [
+        "Ljubljana"
+    ],
+    "capital_rinvex": "Ljubljana",
+    "cca2": "SI",
+    "cca3": "SVN",
+    "ccn3": "705",
+    "cioc": "SLO",
+    "currencies": [
+        "EUR"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Slovene",
+    "demonyms": {
+        "eng": {
+            "f": "Slovene",
+            "m": "Slovene"
+        },
+        "fra": {
+            "f": "Slov\u00e8ne",
+            "m": "Slov\u00e8ne"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "386"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            8
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "2. Developed region: nonG7",
+    "extra": {
+        "address_format": "{{recipient}}{{street}}{{postalcode}} {{city}}{{country}}",
+        "ar5": "EIT",
+        "cowc": "SLV",
+        "cown": 349,
+        "ds": "SLO",
+        "edgar": "2A",
+        "emoji": "\ud83c\uddf8\ud83c\uddee",
+        "eu_member": true,
+        "fao": 198,
+        "fifa": "SVN",
+        "fips": "SI",
+        "gaul": 224,
+        "geonameid": 3190538,
+        "imf": 961,
+        "ioc": "SLO",
+        "itu": "SVN",
+        "marc": "xv",
+        "vat_rates": {
+            "parking": null,
+            "reduced": [
+                9.5
+            ],
+            "standard": 22,
+            "super_reduced": null
+        },
+        "wmo": "LJ"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "SI",
+    "flag": {
+        "emoji": "\ud83c\uddf8\ud83c\uddee"
+    },
+    "formal_en": "Republic of Slovenia",
+    "formal_fr": "",
+    "gdp_md_est": "68350.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 20273,
+        "borders": [
+            "AUT",
+            "HRV",
+            "ITA",
+            "HUN"
+        ],
+        "continent": {
+            "EU": "Europe"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "46 07 N",
+        "latitude_desc": "46.1202392578125",
+        "latlng": [
+            46.11666666,
+            14.81666666
+        ],
+        "longitude": "14 49 E",
+        "longitude_desc": "14.820664405822754",
+        "max_latitude": "46.866667",
+        "max_longitude": "17.466667",
+        "min_latitude": "45.083333",
+        "min_longitude": "13.426667",
+        "postal_code": true,
+        "region": "Europe",
+        "region_code": "150",
+        "region_un": "Europe",
+        "region_wb": "Europe & Central Asia",
+        "subregion": "Southern Europe",
+        "subregion_code": "039",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Slovenia",
+    "gu_a3": "SVN",
+    "homepart": "1",
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "86"
+        ]
+    },
+    "income_grp": "1. High income: OECD",
+    "independent": true,
+    "iso_3166_1_alpha2": "SI",
+    "iso_3166_1_alpha3": "SVN",
+    "iso_3166_1_numeric": "705",
+    "iso_a2": "SI",
+    "iso_a3": "SVN",
+    "iso_a3_eh": "SVN",
+    "iso_n3": "705",
+    "labelrank": "6",
+    "languages": {
+        "slv": "Slovene"
+    },
+    "lastcensus": "2011",
+    "level": "2",
+    "long_len": "8",
+    "mapcolor7": "2",
+    "mapcolor8": "3",
+    "mapcolor9": "2",
+    "mapcolor13": "12",
+    "max_label": "10.0",
+    "min_label": "5.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Slovenia",
+        "native": {
+            "slv": {
+                "common": "Slovenija",
+                "official": "Republika Slovenija"
+            }
+        },
+        "official": "Republic of Slovenia"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00b3\u00d9\u0084\u00d9\u0088\u00d9\u0081\u00d9\u008a\u00d9\u0086\u00d9\u008a\u00d8\u00a7",
+    "name_bn": "\u00e0\u00a6\u00b8\u00e0\u00a7\u008d\u00e0\u00a6\u00b2\u00e0\u00a7\u008b\u00e0\u00a6\u00ad\u00e0\u00a7\u0087\u00e0\u00a6\u00a8\u00e0\u00a6\u00bf\u00e0\u00a6\u00af\u00e0\u00a6\u00bc\u00e0\u00a6\u00be",
+    "name_ciawf": "Slovenia",
+    "name_de": "Slowenien",
+    "name_el": "\u00ce\u00a3\u00ce\u00bb\u00ce\u00bf\u00ce\u00b2\u00ce\u00b5\u00ce\u00bd\u00ce\u00af\u00ce\u00b1",
+    "name_en": "Slovenia",
+    "name_es": "Eslovenia",
+    "name_fr": "Slov\u00c3\u00a9nie",
+    "name_hi": "\u00e0\u00a4\u00b8\u00e0\u00a5\u008d\u00e0\u00a4\u00b2\u00e0\u00a5\u008b\u00e0\u00a4\u00b5\u00e0\u00a5\u0087\u00e0\u00a4\u00a8\u00e0\u00a4\u00bf\u00e0\u00a4\u00af\u00e0\u00a4\u00be",
+    "name_hu": "Szlov\u00c3\u00a9nia",
+    "name_id": "Slovenia",
+    "name_it": "Slovenia",
+    "name_ja": "\u00e3\u0082\u00b9\u00e3\u0083\u00ad\u00e3\u0083\u0099\u00e3\u0083\u008b\u00e3\u0082\u00a2",
+    "name_ko": "\u00ec\u008a\u00ac\u00eb\u00a1\u009c\u00eb\u00b2\u00a0\u00eb\u008b\u0088\u00ec\u0095\u0084",
+    "name_len": "8",
+    "name_long": "Slovenia",
+    "name_nev": "Slovenia",
+    "name_nl": "Sloveni\u00c3\u00ab",
+    "name_pl": "S\u00c5\u0082owenia",
+    "name_pt": "Eslov\u00c3\u00a9nia",
+    "name_ru": "\u00d0\u00a1\u00d0\u00bb\u00d0\u00be\u00d0\u00b2\u00d0\u00b5\u00d0\u00bd\u00d0\u00b8\u00d1\u008f",
+    "name_sort": "Slovenia",
+    "name_sv": "Slovenien",
+    "name_tr": "Slovenya",
+    "name_vi": "Slovenia",
+    "name_zh": "\u00e6\u0096\u00af\u00e6\u00b4\u009b\u00e6\u0096\u0087\u00e5\u00b0\u00bc\u00e4\u00ba\u009a",
+    "ne_id": "1159321285",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "1972126",
+    "pop_rank": "12",
+    "pop_year": "2017",
+    "postal": "SLO",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "SVN",
+    "sovereignt": "Slovenia",
+    "status": "officially-assigned",
+    "su_a3": "SVN",
+    "su_dif": "0",
+    "subunit": "Slovenia",
+    "tiny": "-99",
+    "tld": [
+        ".si"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Slovinsko",
+            "official": "Slovinsk\u00e1 republika"
+        },
+        "deu": {
+            "common": "Slowenien",
+            "official": "Republik Slowenien"
+        },
+        "est": {
+            "common": "Sloveenia",
+            "official": "Sloveenia Vabariik"
+        },
+        "fin": {
+            "common": "Slovenia",
+            "official": "Slovenian tasavalta"
+        },
+        "fra": {
+            "common": "Slov\u00e9nie",
+            "official": "R\u00e9publique de Slov\u00e9nie"
+        },
+        "hrv": {
+            "common": "Slovenija",
+            "official": "Republika Slovenija"
+        },
+        "hun": {
+            "common": "Szlov\u00e9nia",
+            "official": "Szlov\u00e9n K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Slovenia",
+            "official": "Repubblica di Slovenia"
+        },
+        "jpn": {
+            "common": "\u30b9\u30ed\u30d9\u30cb\u30a2",
+            "official": "\u30b9\u30ed\u30d9\u30cb\u30a2\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\uc2ac\ub85c\ubca0\ub2c8\uc544",
+            "official": "\uc2ac\ub85c\ubca0\ub2c8\uc544 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Sloveni\u00eb",
+            "official": "Republiek Sloveni\u00eb"
+        },
+        "per": {
+            "common": "\u0627\u0633\u0644\u0648\u0648\u0646\u06cc",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0648\u0648\u0646\u06cc"
+        },
+        "pol": {
+            "common": "S\u0142owenia",
+            "official": "Republika S\u0142owenii"
+        },
+        "por": {
+            "common": "Eslov\u00e9nia",
+            "official": "Rep\u00fablica da Eslov\u00e9nia"
+        },
+        "rus": {
+            "common": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f"
+        },
+        "slk": {
+            "common": "Slovinsko",
+            "official": "Slovinsk\u00e1 republika"
+        },
+        "spa": {
+            "common": "Eslovenia",
+            "official": "Rep\u00fablica de Eslovenia"
+        },
+        "swe": {
+            "common": "Slovenien",
+            "official": "Republiken Slovenien"
+        },
+        "urd": {
+            "common": "\u0633\u0644\u0648\u0648\u06cc\u0646\u06cc\u0627",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0644\u0648\u0648\u06cc\u0646\u06cc\u0627"
+        },
+        "zho": {
+            "common": "\u65af\u6d1b\u6587\u5c3c\u4e9a",
+            "official": "\u65af\u6d1b\u6587\u5c3c\u4e9a\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "705",
+    "un_member": true,
+    "wb_a2": "SI",
+    "wb_a3": "SVN",
+    "wikidataid": "Q215",
+    "wikipedia": "-99",
+    "woe_id": "23424945",
+    "woe_id_eh": "23424945",
+    "woe_note": "Exact WOE match as country"
+}

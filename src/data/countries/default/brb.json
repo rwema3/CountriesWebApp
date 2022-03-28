@@ -1,0 +1,306 @@
+{
+    "abbrev": "Barb.",
+    "abbrev_len": "5",
+    "adm0_a3": "BRB",
+    "adm0_a3_is": "BRB",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "BRB",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Barbados",
+    "alt_spellings": [
+        "BB"
+    ],
+    "borders": [],
+    "brk_a3": "BRB",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Barbados",
+    "calling_codes": [
+        "+1246"
+    ],
+    "capital": [
+        "Bridgetown"
+    ],
+    "capital_rinvex": "Bridgetown",
+    "cca2": "BB",
+    "cca3": "BRB",
+    "ccn3": "052",
+    "cioc": "BAR",
+    "currencies": [
+        "BBD"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Barbadian",
+    "demonyms": {
+        "eng": {
+            "f": "Barbadian",
+            "m": "Barbadian"
+        },
+        "fra": {
+            "f": "Barbadienne",
+            "m": "Barbadien"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "1246"
+        ],
+        "international_prefix": "011",
+        "national_destination_code_lengths": [
+            3
+        ],
+        "national_number_lengths": [
+            10
+        ],
+        "national_prefix": "1"
+    },
+    "economy": "6. Developing region",
+    "extra": {
+        "address_format": null,
+        "ar5": "LAM",
+        "cowc": "BAR",
+        "cown": 53,
+        "ds": "BDS",
+        "edgar": "C8",
+        "emoji": "\ud83c\udde7\ud83c\udde7",
+        "eu_member": null,
+        "fao": 14,
+        "fifa": "BRB",
+        "fips": "BB",
+        "gaul": 24,
+        "geonameid": 3374084,
+        "imf": 316,
+        "ioc": "BAR",
+        "itu": "BRB",
+        "marc": "bb",
+        "vat_rates": null,
+        "wmo": "BR"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "BB",
+    "flag": {
+        "emoji": "\ud83c\udde7\ud83c\udde7"
+    },
+    "formal_en": "Barbados",
+    "formal_fr": "",
+    "gdp_md_est": "4804.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 430,
+        "borders": [],
+        "continent": {
+            "NA": "North America"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "13 10 N",
+        "latitude_desc": "13.178098678588867",
+        "latlng": [
+            13.16666666,
+            -59.53333333
+        ],
+        "longitude": "59 32 W",
+        "longitude_desc": "-59.5485954284668",
+        "max_latitude": "13.333333",
+        "max_longitude": "-59.416667",
+        "min_latitude": "13.033333",
+        "min_longitude": "-59.65",
+        "postal_code": true,
+        "region": "Americas",
+        "region_code": "019",
+        "region_un": "Americas",
+        "region_wb": "Latin America & Caribbean",
+        "subregion": "Caribbean",
+        "subregion_code": "029",
+        "world_region": "AMER"
+    },
+    "geou_dif": "0",
+    "geounit": "Barbados",
+    "gu_a3": "BRB",
+    "homepart": "1",
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "246"
+        ]
+    },
+    "income_grp": "2. High income: nonOECD",
+    "independent": true,
+    "iso_3166_1_alpha2": "BB",
+    "iso_3166_1_alpha3": "BRB",
+    "iso_3166_1_numeric": "052",
+    "iso_a2": "BB",
+    "iso_a3": "BRB",
+    "iso_a3_eh": "BRB",
+    "iso_n3": "052",
+    "labelrank": "5",
+    "languages": {
+        "eng": "English"
+    },
+    "lastcensus": "2010",
+    "level": "2",
+    "long_len": "8",
+    "mapcolor7": "4",
+    "mapcolor8": "1",
+    "mapcolor9": "5",
+    "mapcolor13": "3",
+    "max_label": "9.5",
+    "min_label": "4.5",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Barbados",
+        "native": {
+            "eng": {
+                "common": "Barbados",
+                "official": "Barbados"
+            }
+        },
+        "official": "Barbados"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00a8\u00d8\u00a7\u00d8\u00b1\u00d8\u00a8\u00d8\u00a7\u00d8\u00af\u00d9\u0088\u00d8\u00b3",
+    "name_bn": "\u00e0\u00a6\u00ac\u00e0\u00a6\u00be\u00e0\u00a6\u00b0\u00e0\u00a7\u008d\u00e0\u00a6\u00ac\u00e0\u00a6\u00be\u00e0\u00a6\u00a1\u00e0\u00a7\u008b\u00e0\u00a6\u00b8",
+    "name_ciawf": "Barbados",
+    "name_de": "Barbados",
+    "name_el": "\u00ce\u009c\u00cf\u0080\u00ce\u00b1\u00cf\u0081\u00ce\u00bc\u00cf\u0080\u00ce\u00ac\u00ce\u00bd\u00cf\u0084\u00ce\u00bf\u00cf\u0082",
+    "name_en": "Barbados",
+    "name_es": "Barbados",
+    "name_fr": "Barbade",
+    "name_hi": "\u00e0\u00a4\u00ac\u00e0\u00a4\u00be\u00e0\u00a4\u00b0\u00e0\u00a4\u00ac\u00e0\u00a4\u00be\u00e0\u00a4\u00a1\u00e0\u00a5\u008b\u00e0\u00a4\u00b8",
+    "name_hu": "Barbados",
+    "name_id": "Barbados",
+    "name_it": "Barbados",
+    "name_ja": "\u00e3\u0083\u0090\u00e3\u0083\u00ab\u00e3\u0083\u0090\u00e3\u0083\u0089\u00e3\u0082\u00b9",
+    "name_ko": "\u00eb\u00b0\u0094\u00eb\u00b2\u00a0\u00ec\u009d\u00b4\u00eb\u008f\u0084\u00ec\u008a\u00a4",
+    "name_len": "8",
+    "name_long": "Barbados",
+    "name_nev": "Barbados",
+    "name_nl": "Barbados",
+    "name_pl": "Barbados",
+    "name_pt": "Barbados",
+    "name_ru": "\u00d0\u0091\u00d0\u00b0\u00d1\u0080\u00d0\u00b1\u00d0\u00b0\u00d0\u00b4\u00d0\u00be\u00d1\u0081",
+    "name_sort": "Barbados",
+    "name_sv": "Barbados",
+    "name_tr": "Barbados",
+    "name_vi": "Barbados",
+    "name_zh": "\u00e5\u00b7\u00b4\u00e5\u00b7\u00b4\u00e5\u00a4\u009a\u00e6\u0096\u00af",
+    "ne_id": "1159320449",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "292336",
+    "pop_rank": "10",
+    "pop_year": "2017",
+    "postal": "BB",
+    "record_type": "country",
+    "scalerank": "3",
+    "sov_a3": "BRB",
+    "sovereignt": "Barbados",
+    "status": "officially-assigned",
+    "su_a3": "BRB",
+    "su_dif": "0",
+    "subunit": "Barbados",
+    "tiny": "3",
+    "tld": [
+        ".bb"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Barbados",
+            "official": "Barbados"
+        },
+        "cym": {
+            "common": "Barbados",
+            "official": "Barbados"
+        },
+        "deu": {
+            "common": "Barbados",
+            "official": "Barbados"
+        },
+        "est": {
+            "common": "Barbados",
+            "official": "Barbados"
+        },
+        "fin": {
+            "common": "Barbados",
+            "official": "Barbados"
+        },
+        "fra": {
+            "common": "Barbade",
+            "official": "Barbade"
+        },
+        "hrv": {
+            "common": "Barbados",
+            "official": "Barbados"
+        },
+        "hun": {
+            "common": "Barbados",
+            "official": "Barbados"
+        },
+        "ita": {
+            "common": "Barbados",
+            "official": "Barbados"
+        },
+        "jpn": {
+            "common": "\u30d0\u30eb\u30d0\u30c9\u30b9",
+            "official": "\u30d0\u30eb\u30d0\u30c9\u30b9"
+        },
+        "kor": {
+            "common": "\ubc14\ubca0\uc774\ub3c4\uc2a4",
+            "official": "\ubc14\ubca0\uc774\ub3c4\uc2a4"
+        },
+        "nld": {
+            "common": "Barbados",
+            "official": "Barbados"
+        },
+        "per": {
+            "common": "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633",
+            "official": "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+        },
+        "pol": {
+            "common": "Barbados",
+            "official": "Barbados"
+        },
+        "por": {
+            "common": "Barbados",
+            "official": "Barbados"
+        },
+        "rus": {
+            "common": "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441",
+            "official": "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+        },
+        "slk": {
+            "common": "Barbados",
+            "official": "Barbados"
+        },
+        "spa": {
+            "common": "Barbados",
+            "official": "Barbados"
+        },
+        "swe": {
+            "common": "Barbados",
+            "official": "Barbados"
+        },
+        "urd": {
+            "common": "\u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633",
+            "official": "\u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633"
+        },
+        "zho": {
+            "common": "\u5df4\u5df4\u591a\u65af",
+            "official": "\u5df4\u5df4\u591a\u65af"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "052",
+    "un_member": true,
+    "wb_a2": "BB",
+    "wb_a3": "BRB",
+    "wikidataid": "Q244",
+    "wikipedia": "-99",
+    "woe_id": "23424754",
+    "woe_id_eh": "23424754",
+    "woe_note": "Exact WOE match as country"
+}

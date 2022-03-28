@@ -1,0 +1,344 @@
+{
+    "abbrev": "Cz.",
+    "abbrev_len": "3",
+    "adm0_a3": "CZE",
+    "adm0_a3_is": "CZE",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "CZE",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Czechia",
+    "alt_spellings": [
+        "CZ",
+        "\u010cesk\u00e1 republika",
+        "\u010cesko"
+    ],
+    "borders": [
+        "AUT",
+        "DEU",
+        "POL",
+        "SVK"
+    ],
+    "brk_a3": "CZE",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Czechia",
+    "calling_codes": [
+        "+420"
+    ],
+    "capital": [
+        "Prague"
+    ],
+    "capital_rinvex": "Prague",
+    "cca2": "CZ",
+    "cca3": "CZE",
+    "ccn3": "203",
+    "cioc": "CZE",
+    "currencies": [
+        "CZK"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Czech",
+    "demonyms": {
+        "eng": {
+            "f": "Czech",
+            "m": "Czech"
+        },
+        "fra": {
+            "f": "Tch\u00e8que",
+            "m": "Tch\u00e8que"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "420"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            9
+        ],
+        "national_prefix": null
+    },
+    "economy": "2. Developed region: nonG7",
+    "extra": {
+        "address_format": "{{recipient}}{{street}}{{postalcode}} {{city}}{{country}}",
+        "ar5": "EIT",
+        "cowc": "CZR",
+        "cown": 316,
+        "ds": "CZ",
+        "edgar": "2N",
+        "emoji": "\ud83c\udde8\ud83c\uddff",
+        "eu_member": true,
+        "fao": 167,
+        "fifa": "CZE",
+        "fips": "EZ",
+        "gaul": 65,
+        "geonameid": 3077311,
+        "imf": 935,
+        "ioc": "CZE",
+        "itu": "CZE",
+        "marc": "xr",
+        "vat_rates": {
+            "parking": null,
+            "reduced": [
+                15
+            ],
+            "standard": 21,
+            "super_reduced": null
+        },
+        "wmo": "CZ"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "EZ",
+    "flag": {
+        "emoji": "\ud83c\udde8\ud83c\uddff"
+    },
+    "formal_en": "Czech Republic",
+    "formal_fr": "la R\u00c3\u00a9publique tch\u00c3\u00a8que",
+    "gdp_md_est": "350900.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 78865,
+        "borders": [
+            "AUT",
+            "DEU",
+            "POL",
+            "SVK"
+        ],
+        "continent": {
+            "EU": "Europe"
+        },
+        "independent": "Yes",
+        "landlocked": true,
+        "latitude": "49 45 N",
+        "latitude_desc": "49.739105224609375",
+        "latlng": [
+            49.75,
+            15.5
+        ],
+        "longitude": "15 30 E",
+        "longitude_desc": "15.331501007080078",
+        "max_latitude": "59.65",
+        "max_longitude": "25.5",
+        "min_latitude": "40.65",
+        "min_longitude": "12.116667",
+        "postal_code": true,
+        "region": "Europe",
+        "region_code": "150",
+        "region_un": "Europe",
+        "region_wb": "Europe & Central Asia",
+        "subregion": "Eastern Europe",
+        "subregion_code": "151",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Czechia",
+    "gu_a3": "CZE",
+    "homepart": "1",
+    "idd": {
+        "root": "+4",
+        "suffixes": [
+            "20"
+        ]
+    },
+    "income_grp": "1. High income: OECD",
+    "independent": true,
+    "iso_3166_1_alpha2": "CZ",
+    "iso_3166_1_alpha3": "CZE",
+    "iso_3166_1_numeric": "203",
+    "iso_a2": "CZ",
+    "iso_a3": "CZE",
+    "iso_a3_eh": "CZE",
+    "iso_n3": "203",
+    "labelrank": "5",
+    "languages": {
+        "ces": "Czech",
+        "slk": "Slovak"
+    },
+    "lastcensus": "2011",
+    "level": "2",
+    "long_len": "14",
+    "mapcolor7": "1",
+    "mapcolor8": "1",
+    "mapcolor9": "2",
+    "mapcolor13": "6",
+    "max_label": "9.0",
+    "min_label": "4.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Czechia",
+        "native": {
+            "ces": {
+                "common": "\u010cesko",
+                "official": "\u010desk\u00e1 republika"
+            },
+            "slk": {
+                "common": "\u010cesko",
+                "official": "\u010cesk\u00e1 republika"
+            }
+        },
+        "official": "Czech Republic"
+    },
+    "name_alt": "\u00c4\u008cesko",
+    "name_ar": "\u00d8\u00a7\u00d9\u0084\u00d8\u00aa\u00d8\u00b4\u00d9\u008a\u00d9\u0083",
+    "name_bn": "\u00e0\u00a6\u009a\u00e0\u00a7\u0087\u00e0\u00a6\u0095 \u00e0\u00a6\u00aa\u00e0\u00a7\u008d\u00e0\u00a6\u00b0\u00e0\u00a6\u009c\u00e0\u00a6\u00be\u00e0\u00a6\u00a4\u00e0\u00a6\u00a8\u00e0\u00a7\u008d\u00e0\u00a6\u00a4\u00e0\u00a7\u008d\u00e0\u00a6\u00b0",
+    "name_ciawf": "Czechia",
+    "name_de": "Tschechien",
+    "name_el": "\u00ce\u00a4\u00cf\u0083\u00ce\u00b5\u00cf\u0087\u00ce\u00af\u00ce\u00b1",
+    "name_en": "Czech Republic",
+    "name_es": "Rep\u00c3\u00bablica Checa",
+    "name_fr": "R\u00c3\u00a9publique tch\u00c3\u00a8que",
+    "name_hi": "\u00e0\u00a4\u009a\u00e0\u00a5\u0087\u00e0\u00a4\u0095 \u00e0\u00a4\u0097\u00e0\u00a4\u00a3\u00e0\u00a4\u00b0\u00e0\u00a4\u00be\u00e0\u00a4\u009c\u00e0\u00a5\u008d\u00e0\u00a4\u00af",
+    "name_hu": "Csehorsz\u00c3\u00a1g",
+    "name_id": "Republik Ceko",
+    "name_it": "Repubblica Ceca",
+    "name_ja": "\u00e3\u0083\u0081\u00e3\u0082\u00a7\u00e3\u0082\u00b3",
+    "name_ko": "\u00ec\u00b2\u00b4\u00ec\u00bd\u0094",
+    "name_len": "7",
+    "name_long": "Czech Republic",
+    "name_nev": "Czechia",
+    "name_nl": "Tsjechi\u00c3\u00ab",
+    "name_pl": "Czechy",
+    "name_pt": "Rep\u00c3\u00bablica Checa",
+    "name_rinvex": {
+        "common": "Czech Republic",
+        "native": {
+            "ces": {
+                "common": "\u010cesk\u00e1 republika",
+                "official": "\u010desk\u00e1 republika"
+            },
+            "slk": {
+                "common": "\u010cesk\u00e1 republika",
+                "official": "\u010cesk\u00e1 republika"
+            }
+        },
+        "official": "Czech Republic"
+    },
+    "name_ru": "\u00d0\u00a7\u00d0\u00b5\u00d1\u0085\u00d0\u00b8\u00d1\u008f",
+    "name_sort": "Czechia",
+    "name_sv": "Tjeckien",
+    "name_tr": "\u00c3\u0087ek Cumhuriyeti",
+    "name_vi": "C\u00e1\u00bb\u0099ng h\u00c3\u00b2a S\u00c3\u00a9c",
+    "name_zh": "\u00e6\u008d\u00b7\u00e5\u0085\u008b",
+    "ne_id": "1159320535",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "10674723",
+    "pop_rank": "14",
+    "pop_year": "2017",
+    "postal": "CZ",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "CZE",
+    "sovereignt": "Czechia",
+    "status": "officially-assigned",
+    "su_a3": "CZE",
+    "su_dif": "0",
+    "subunit": "Czechia",
+    "tiny": "-99",
+    "tld": [
+        ".cz"
+    ],
+    "translations": {
+        "ces": {
+            "common": "\u010cesko",
+            "official": "\u010cesk\u00e1 republika"
+        },
+        "cym": {
+            "common": "Y Weriniaeth Tsiec",
+            "official": "Czech Republic"
+        },
+        "deu": {
+            "common": "Tschechische Republik",
+            "official": "Tschechische Republik"
+        },
+        "est": {
+            "common": "T\u0161ehhi",
+            "official": "T\u0161ehhi Vabariik"
+        },
+        "fin": {
+            "common": "T\u0161ekki",
+            "official": "T\u0161ekin tasavalta"
+        },
+        "fra": {
+            "common": "R\u00e9publique tch\u00e8que",
+            "official": "R\u00e9publique tch\u00e8que"
+        },
+        "hrv": {
+            "common": "\u010ce\u0161ka",
+            "official": "\u010ce\u0161ka"
+        },
+        "hun": {
+            "common": "Csehorsz\u00e1g",
+            "official": "Cseh K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Repubblica Ceca",
+            "official": "Repubblica Ceca"
+        },
+        "jpn": {
+            "common": "\u30c1\u30a7\u30b3",
+            "official": "\u30c1\u30a7\u30b3\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\uccb4\ucf54",
+            "official": "\uccb4\ucf54"
+        },
+        "nld": {
+            "common": "Tsjechi\u00eb",
+            "official": "Tsjechische Republiek"
+        },
+        "per": {
+            "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u06a9",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u06a9"
+        },
+        "pol": {
+            "common": "Czechy",
+            "official": "Republika Czeska"
+        },
+        "por": {
+            "common": "Rep\u00fablica Checa",
+            "official": "Rep\u00fablica Checa"
+        },
+        "rus": {
+            "common": "\u0427\u0435\u0445\u0438\u044f",
+            "official": "\u0427\u0435\u0448\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        },
+        "slk": {
+            "common": "\u010cesko",
+            "official": "\u010cesk\u00e1 republika"
+        },
+        "spa": {
+            "common": "Rep\u00fablica Checa",
+            "official": "Rep\u00fablica Checa"
+        },
+        "swe": {
+            "common": "Tjeckien",
+            "official": "Republiken Tjeckien"
+        },
+        "urd": {
+            "common": "\u0686\u064a\u06a9",
+            "official": "\u0686\u064a\u06a9 \u062c\u0645\u06c1\u0648\u0631\u064a\u06c1"
+        },
+        "zho": {
+            "common": "\u6377\u514b",
+            "official": "\u6377\u514b\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "203",
+    "un_member": true,
+    "wb_a2": "CZ",
+    "wb_a3": "CZE",
+    "wikidataid": "Q213",
+    "wikipedia": "-99",
+    "woe_id": "23424810",
+    "woe_id_eh": "23424810",
+    "woe_note": "Exact WOE match as country"
+}

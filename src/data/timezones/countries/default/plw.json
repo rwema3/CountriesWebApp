@@ -1,0 +1,17 @@
+{
+    "pacific_palau": {
+        "abbreviations": [
+            "LMT",
+            "PWT"
+        ],
+        "cca2": "PW",
+        "cca3": "PLW",
+        "country_code": "PW",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "303",
+        "zone_name": "Pacific\/Palau"
+    }
+}

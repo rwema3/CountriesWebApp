@@ -1,0 +1,84 @@
+{
+    "1": {
+        "abbreviation": "MST",
+        "dst": "0",
+        "gmt_offset": "-25200",
+        "time_start": "-2717643600",
+        "zone_id": "405"
+    },
+    "2": {
+        "abbreviation": "MDT",
+        "dst": "1",
+        "gmt_offset": "-21600",
+        "time_start": "-1633273200",
+        "zone_id": "405"
+    },
+    "3": {
+        "abbreviation": "MST",
+        "dst": "0",
+        "gmt_offset": "-25200",
+        "time_start": "-1615132800",
+        "zone_id": "405"
+    },
+    "4": {
+        "abbreviation": "MDT",
+        "dst": "1",
+        "gmt_offset": "-21600",
+        "time_start": "-1601823600",
+        "zone_id": "405"
+    },
+    "5": {
+        "abbreviation": "MST",
+        "dst": "0",
+        "gmt_offset": "-25200",
+        "time_start": "-1583683200",
+        "zone_id": "405"
+    },
+    "6": {
+        "abbreviation": "MWT",
+        "dst": "1",
+        "gmt_offset": "-21600",
+        "time_start": "-880210800",
+        "zone_id": "405"
+    },
+    "7": {
+        "abbreviation": "MST",
+        "dst": "0",
+        "gmt_offset": "-25200",
+        "time_start": "-820519140",
+        "zone_id": "405"
+    },
+    "8": {
+        "abbreviation": "MWT",
+        "dst": "1",
+        "gmt_offset": "-21600",
+        "time_start": "-812653140",
+        "zone_id": "405"
+    },
+    "9": {
+        "abbreviation": "MST",
+        "dst": "0",
+        "gmt_offset": "-25200",
+        "time_start": "-796845540",
+        "zone_id": "405"
+    },
+    "10": {
+        "abbreviation": "MDT",
+        "dst": "1",
+        "gmt_offset": "-21600",
+        "time_start": "-84380400",
+        "zone_id": "405"
+    },
+    "11": {
+        "abbreviation": "MST",
+        "dst": "0",
+        "gmt_offset": "-25200",
+        "time_start": "-68659200",
+        "zone_id": "405"
+    },
+    "abbreviation": "LMT",
+    "dst": "0",
+    "gmt_offset": "-26898",
+    "time_start": "-2717643601",
+    "zone_id": "405"
+}

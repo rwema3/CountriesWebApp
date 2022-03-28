@@ -1,0 +1,302 @@
+{
+    "abbrev": "St.V.G.",
+    "abbrev_len": "7",
+    "adm0_a3": "VCT",
+    "adm0_a3_is": "VCT",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "VCT",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Saint Vincent and the Grenadines",
+    "alt_spellings": [
+        "VC"
+    ],
+    "borders": [],
+    "brk_a3": "VCT",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "St. Vin. and Gren.",
+    "calling_codes": [
+        "+1784"
+    ],
+    "capital": [
+        "Kingstown"
+    ],
+    "capital_rinvex": "Kingstown",
+    "cca2": "VC",
+    "cca3": "VCT",
+    "ccn3": "670",
+    "cioc": "VIN",
+    "currencies": [
+        "XCD"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Saint Vincentian",
+    "demonyms": {
+        "eng": {
+            "f": "Saint Vincentian",
+            "m": "Saint Vincentian"
+        },
+        "fra": {
+            "f": "Vincentaise",
+            "m": "Vincentais"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "1784"
+        ],
+        "international_prefix": "011",
+        "national_destination_code_lengths": [
+            3
+        ],
+        "national_number_lengths": [
+            10
+        ],
+        "national_prefix": "1"
+    },
+    "economy": "6. Developing region",
+    "extra": {
+        "address_format": null,
+        "ar5": "LAM",
+        "cowc": "SVG",
+        "cown": 57,
+        "ds": "WV",
+        "edgar": "V1",
+        "emoji": "\ud83c\uddfb\ud83c\udde8",
+        "eu_member": null,
+        "fao": 191,
+        "fifa": "VIN",
+        "fips": "VC",
+        "gaul": 211,
+        "geonameid": 3577815,
+        "imf": 364,
+        "ioc": "VIN",
+        "itu": "VCT",
+        "marc": "xm",
+        "vat_rates": null,
+        "wmo": "VG"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "VC",
+    "flag": {
+        "emoji": "\ud83c\uddfb\ud83c\udde8"
+    },
+    "formal_en": "Saint Vincent and the Grenadines",
+    "formal_fr": "",
+    "gdp_md_est": "1241.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 389,
+        "borders": [],
+        "continent": {
+            "NA": "North America"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "13 15 N",
+        "latitude_desc": "13.217251777648926",
+        "latlng": [
+            13.25,
+            -61.2
+        ],
+        "longitude": "61 12 W",
+        "longitude_desc": "-61.19344711303711",
+        "max_latitude": "13.366667",
+        "max_longitude": "-61.116667",
+        "min_latitude": "12.533333",
+        "min_longitude": "-61.433333",
+        "postal_code": true,
+        "region": "Americas",
+        "region_code": "019",
+        "region_un": "Americas",
+        "region_wb": "Latin America & Caribbean",
+        "subregion": "Caribbean",
+        "subregion_code": "029",
+        "world_region": "AMER"
+    },
+    "geou_dif": "0",
+    "geounit": "Saint Vincent and the Grenadines",
+    "gu_a3": "VCT",
+    "homepart": "1",
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "784"
+        ]
+    },
+    "income_grp": "3. Upper middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "VC",
+    "iso_3166_1_alpha3": "VCT",
+    "iso_3166_1_numeric": "670",
+    "iso_a2": "VC",
+    "iso_a3": "VCT",
+    "iso_a3_eh": "VCT",
+    "iso_n3": "670",
+    "labelrank": "6",
+    "languages": {
+        "eng": "English"
+    },
+    "lastcensus": "2011",
+    "level": "2",
+    "long_len": "32",
+    "mapcolor7": "1",
+    "mapcolor8": "1",
+    "mapcolor9": "5",
+    "mapcolor13": "7",
+    "max_label": "10.0",
+    "min_label": "5.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Saint Vincent and the Grenadines",
+        "native": {
+            "eng": {
+                "common": "Saint Vincent and the Grenadines",
+                "official": "Saint Vincent and the Grenadines"
+            }
+        },
+        "official": "Saint Vincent and the Grenadines"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00b3\u00d8\u00a7\u00d9\u0086\u00d8\u00aa \u00d9\u0081\u00d9\u008a\u00d9\u0086\u00d8\u00b3\u00d9\u0086\u00d8\u00aa \u00d9\u0088\u00d8\u00a7\u00d9\u0084\u00d8\u00ba\u00d8\u00b1\u00d9\u008a\u00d9\u0086\u00d8\u00a7\u00d8\u00af\u00d9\u008a\u00d9\u0086",
+    "name_bn": "\u00e0\u00a6\u00b8\u00e0\u00a7\u0087\u00e0\u00a6\u00a8\u00e0\u00a7\u008d\u00e0\u00a6\u009f \u00e0\u00a6\u00ad\u00e0\u00a6\u00bf\u00e0\u00a6\u00a8\u00e0\u00a6\u00b8\u00e0\u00a7\u0087\u00e0\u00a6\u00a8\u00e0\u00a7\u008d\u00e0\u00a6\u009f \u00e0\u00a6\u0093 \u00e0\u00a6\u0097\u00e0\u00a7\u008d\u00e0\u00a6\u00b0\u00e0\u00a7\u0087\u00e0\u00a6\u00a8\u00e0\u00a6\u00be\u00e0\u00a6\u00a1\u00e0\u00a6\u00be\u00e0\u00a6\u0087\u00e0\u00a6\u00a8 \u00e0\u00a6\u00a6\u00e0\u00a7\u008d\u00e0\u00a6\u00ac\u00e0\u00a7\u0080\u00e0\u00a6\u00aa\u00e0\u00a6\u00aa\u00e0\u00a7\u0081\u00e0\u00a6\u009e\u00e0\u00a7\u008d\u00e0\u00a6\u009c",
+    "name_ciawf": "Saint Vincent and the Grenadines",
+    "name_de": "St. Vincent und die Grenadinen",
+    "name_el": "\u00ce\u0086\u00ce\u00b3\u00ce\u00b9\u00ce\u00bf\u00cf\u0082 \u00ce\u0092\u00ce\u00b9\u00ce\u00ba\u00ce\u00ad\u00ce\u00bd\u00cf\u0084\u00ce\u00b9\u00ce\u00bf\u00cf\u0082 \u00ce\u00ba\u00ce\u00b1\u00ce\u00b9 \u00ce\u0093\u00cf\u0081\u00ce\u00b5\u00ce\u00bd\u00ce\u00b1\u00ce\u00b4\u00ce\u00af\u00ce\u00bd\u00ce\u00b5\u00cf\u0082",
+    "name_en": "Saint Vincent and the Grenadines",
+    "name_es": "San Vicente y las Granadinas",
+    "name_fr": "Saint-Vincent-et-les-Grenadines",
+    "name_hi": "\u00e0\u00a4\u00b8\u00e0\u00a4\u00a8\u00e0\u00a5\u008d\u00e0\u00a4\u00a4 \u00e0\u00a4\u00b5\u00e0\u00a4\u00bf\u00e0\u00a4\u00a8\u00e0\u00a5\u008d\u00e0\u00a4\u00b8\u00e0\u00a5\u0087\u00e0\u00a4\u00a3\u00e0\u00a5\u008d\u00e0\u00a4\u009f \u00e0\u00a4\u0094\u00e0\u00a4\u00b0 \u00e0\u00a4\u0097\u00e0\u00a5\u008d\u00e0\u00a4\u00b0\u00e0\u00a5\u0087\u00e0\u00a4\u00a8\u00e0\u00a4\u00be\u00e0\u00a4\u00a1\u00e0\u00a4\u00be\u00e0\u00a4\u0087\u00e0\u00a4\u00a8\u00e0\u00a5\u008d\u00e0\u00a4\u00b8",
+    "name_hu": "Saint Vincent \u00c3\u00a9s a Grenadine-szigetek",
+    "name_id": "Saint Vincent dan Grenadines",
+    "name_it": "Saint Vincent e Grenadine",
+    "name_ja": "\u00e3\u0082\u00bb\u00e3\u0083\u00b3\u00e3\u0083\u0088\u00e3\u0083\u0093\u00e3\u0083\u00b3\u00e3\u0082\u00bb\u00e3\u0083\u00b3\u00e3\u0083\u0088\u00e3\u0083\u00bb\u00e3\u0082\u00b0\u00e3\u0083\u00ac\u00e3\u0083\u008a\u00e3\u0083\u0087\u00e3\u0082\u00a3\u00e3\u0083\u00bc\u00e3\u0083\u00b3",
+    "name_ko": "\u00ec\u0084\u00b8\u00ec\u009d\u00b8\u00ed\u008a\u00b8\u00eb\u00b9\u0088\u00ec\u0084\u00bc\u00ed\u008a\u00b8 \u00ea\u00b7\u00b8\u00eb\u00a0\u0088\u00eb\u0082\u0098\u00eb\u0094\u0098",
+    "name_len": "18",
+    "name_long": "Saint Vincent and the Grenadines",
+    "name_nev": "St. Vin. and Gren.",
+    "name_nl": "Saint Vincent en de Grenadines",
+    "name_pl": "Saint Vincent i Grenadyny",
+    "name_pt": "S\u00c3\u00a3o Vicente e Granadinas",
+    "name_ru": "\u00d0\u00a1\u00d0\u00b5\u00d0\u00bd\u00d1\u0082-\u00d0\u0092\u00d0\u00b8\u00d0\u00bd\u00d1\u0081\u00d0\u00b5\u00d0\u00bd\u00d1\u0082 \u00d0\u00b8 \u00d0\u0093\u00d1\u0080\u00d0\u00b5\u00d0\u00bd\u00d0\u00b0\u00d0\u00b4\u00d0\u00b8\u00d0\u00bd\u00d1\u008b",
+    "name_sort": "St. Vincent and the Grenadines",
+    "name_sv": "Saint Vincent och Grenadinerna",
+    "name_tr": "Saint Vincent ve Grenadinler",
+    "name_vi": "Saint Vincent v\u00c3\u00a0 Grenadines",
+    "name_zh": "\u00e5\u009c\u00a3\u00e6\u0096\u0087\u00e6\u00a3\u00ae\u00e7\u0089\u00b9\u00e5\u0092\u008c\u00e6\u00a0\u00bc\u00e6\u009e\u0097\u00e7\u00ba\u00b3\u00e4\u00b8\u0081\u00e6\u0096\u00af",
+    "ne_id": "1159321409",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "102089",
+    "pop_rank": "9",
+    "pop_year": "2017",
+    "postal": "VC",
+    "record_type": "country",
+    "scalerank": "6",
+    "sov_a3": "VCT",
+    "sovereignt": "Saint Vincent and the Grenadines",
+    "status": "officially-assigned",
+    "su_a3": "VCT",
+    "su_dif": "0",
+    "subunit": "Saint Vincent and the Grenadines",
+    "tiny": "-99",
+    "tld": [
+        ".vc"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Svat\u00fd Vincenc a Grenadiny",
+            "official": "Svat\u00fd Vincenc a Grenadiny"
+        },
+        "deu": {
+            "common": "Saint Vincent und die Grenadinen",
+            "official": "St. Vincent und die Grenadinen"
+        },
+        "est": {
+            "common": "Saint Vincent",
+            "official": "Saint Vincent ja Grenadiinid"
+        },
+        "fin": {
+            "common": "Saint Vincent ja Grenadiinit",
+            "official": "Saint Vincent ja Grenadiinit"
+        },
+        "fra": {
+            "common": "Saint-Vincent-et-les-Grenadines",
+            "official": "Saint-Vincent-et-les Grenadines"
+        },
+        "hrv": {
+            "common": "Sveti Vincent i Grenadini",
+            "official": "Sveti Vincent i Grenadini"
+        },
+        "hun": {
+            "common": "Saint Vincent \u00e9s a Grenadine-szigetek",
+            "official": "Saint Vincent \u00e9s a Grenadine-szigetek"
+        },
+        "ita": {
+            "common": "Saint Vincent e Grenadine",
+            "official": "Saint Vincent e Grenadine"
+        },
+        "jpn": {
+            "common": "\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u304a\u3088\u3073\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3\u8af8\u5cf6",
+            "official": "\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u304a\u3088\u3073\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3\u8af8\u5cf6"
+        },
+        "kor": {
+            "common": "\uc138\uc778\ud2b8\ube48\uc13c\ud2b8 \uadf8\ub808\ub098\ub518",
+            "official": "\uc138\uc778\ud2b8\ube48\uc13c\ud2b8 \uadf8\ub808\ub098\ub518"
+        },
+        "nld": {
+            "common": "Saint Vincent en de Grenadines",
+            "official": "Saint Vincent en de Grenadines"
+        },
+        "per": {
+            "common": "\u0633\u0646\u062a \u0648\u06cc\u0646\u0633\u0646\u062a \u0648 \u06af\u0631\u0646\u0627\u062f\u06cc\u0646\u200c\u0647\u0627",
+            "official": "\u0633\u0646\u062a \u0648\u06cc\u0646\u0633\u0646\u062a \u0648 \u06af\u0631\u0646\u0627\u062f\u06cc\u0646\u200c\u0647\u0627"
+        },
+        "pol": {
+            "common": "Saint Vincent i Grenadyny",
+            "official": "Saint Vincent i Grenadyny"
+        },
+        "por": {
+            "common": "S\u00e3o Vincente e Granadinas",
+            "official": "S\u00e3o Vicente e Granadinas"
+        },
+        "rus": {
+            "common": "\u0421\u0435\u043d\u0442-\u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0438 \u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u044b",
+            "official": "\u0421\u0435\u043d\u0442-\u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0438 \u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u044b"
+        },
+        "slk": {
+            "common": "Sv\u00e4t\u00fd Vincent a Grenad\u00edny",
+            "official": "Sv\u00e4t\u00fd Vincent a Grenad\u00edny"
+        },
+        "spa": {
+            "common": "San Vicente y Granadinas",
+            "official": "San Vicente y las Granadinas"
+        },
+        "swe": {
+            "common": "Saint Vincent och Grenadinerna",
+            "official": "Saint Vincent och Grenadinerna"
+        },
+        "urd": {
+            "common": "\u0633\u06cc\u0646\u0679 \u0648\u06cc\u0646\u0633\u06cc\u0646\u0679 \u0648 \u06af\u0631\u06cc\u0646\u0627\u0688\u0627\u0626\u0646\u0632",
+            "official": "\u0633\u06cc\u0646\u0679 \u0648\u06cc\u0646\u0633\u06cc\u0646\u0679 \u0648 \u06af\u0631\u06cc\u0646\u0627\u0688\u0627\u0626\u0646\u0632"
+        },
+        "zho": {
+            "common": "\u5723\u6587\u68ee\u7279\u548c\u683c\u6797\u7eb3\u4e01\u65af",
+            "official": "\u5723\u6587\u68ee\u7279\u548c\u683c\u6797\u7eb3\u4e01\u65af"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "670",
+    "un_member": true,
+    "wb_a2": "VC",
+    "wb_a3": "VCT",
+    "wikidataid": "Q757",
+    "wikipedia": "-99",
+    "woe_id": "23424981",
+    "woe_id_eh": "23424981",
+    "woe_note": "Exact WOE match as country"
+}

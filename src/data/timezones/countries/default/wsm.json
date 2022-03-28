@@ -1,0 +1,17 @@
+{
+    "pacific_apia": {
+        "abbreviations": [
+            "LMT",
+            "WST"
+        ],
+        "cca2": "WS",
+        "cca3": "WSM",
+        "country_code": "WS",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "420",
+        "zone_name": "Pacific\/Apia"
+    }
+}

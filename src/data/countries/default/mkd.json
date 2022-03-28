@@ -1,0 +1,335 @@
+{
+    "abbrev": "Mkd.",
+    "abbrev_len": "4",
+    "adm0_a3": "MKD",
+    "adm0_a3_is": "MKD",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "MKD",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Macedonia",
+    "alt_spellings": [
+        "MK",
+        "The former Yugoslav Republic of Macedonia",
+        "Republic of North Macedonia",
+        "Macedonia, The Former Yugoslav Republic of",
+        "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
+    ],
+    "alt_spellings_rinvex": [
+        "MK",
+        "Macedonia, the Former Yugoslav Republic of",
+        "Republic of Macedonia",
+        "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
+    ],
+    "borders": [
+        "ALB",
+        "BGR",
+        "GRC",
+        "UNK",
+        "SRB"
+    ],
+    "brk_a3": "MKD",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Macedonia",
+    "calling_codes": [
+        "+389"
+    ],
+    "capital": [
+        "Skopje"
+    ],
+    "capital_rinvex": "Skopje",
+    "cca2": "MK",
+    "cca3": "MKD",
+    "ccn3": "807",
+    "cioc": "MKD",
+    "currencies": [
+        "MKD"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Macedonian",
+    "demonyms": {
+        "eng": {
+            "f": "Macedonian",
+            "m": "Macedonian"
+        },
+        "fra": {
+            "f": "Mac\u00e9donienne",
+            "m": "Mac\u00e9donien"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "389"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            7,
+            8
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "6. Developing region",
+    "extra": {
+        "address_format": "{{recipient}}{{street}}{{city}} {{postalcode}}{{country}}",
+        "ar5": "EIT",
+        "cowc": "MAC",
+        "cown": 343,
+        "ds": "MK",
+        "edgar": 0,
+        "emoji": "\ud83c\uddf2\ud83c\uddf0",
+        "eu_member": null,
+        "fao": 154,
+        "fifa": "MKD",
+        "fips": "MK",
+        "gaul": 241,
+        "geonameid": 718075,
+        "imf": 962,
+        "ioc": "MKD",
+        "itu": "MKD",
+        "marc": "xn",
+        "vat_rates": null,
+        "wmo": "MJ"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "MK",
+    "flag": {
+        "emoji": "\ud83c\uddf2\ud83c\uddf0"
+    },
+    "formal_en": "Former Yugoslav Republic of Macedonia",
+    "formal_fr": "",
+    "gdp_md_est": "29520.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 25713,
+        "borders": [
+            "ALB",
+            "BGR",
+            "GRC",
+            "UNK",
+            "SRB"
+        ],
+        "continent": {
+            "EU": "Europe"
+        },
+        "independent": "Yes",
+        "landlocked": true,
+        "latitude": "41 50 N",
+        "latitude_desc": "41.60045623779297",
+        "latlng": [
+            41.83333333,
+            22
+        ],
+        "longitude": "22 00 E",
+        "longitude_desc": "21.700895309448242",
+        "max_latitude": "42.373056",
+        "max_longitude": "23.033333",
+        "min_latitude": "40.866667",
+        "min_longitude": "20.459167",
+        "postal_code": true,
+        "region": "Europe",
+        "region_code": "150",
+        "region_un": "Europe",
+        "region_wb": "Europe & Central Asia",
+        "subregion": "Southern Europe",
+        "subregion_code": "039",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Macedonia",
+    "gu_a3": "MKD",
+    "homepart": "1",
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "89"
+        ]
+    },
+    "income_grp": "3. Upper middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "MK",
+    "iso_3166_1_alpha3": "MKD",
+    "iso_3166_1_numeric": "807",
+    "iso_a2": "MK",
+    "iso_a3": "MKD",
+    "iso_a3_eh": "MKD",
+    "iso_n3": "807",
+    "labelrank": "6",
+    "languages": {
+        "mkd": "Macedonian"
+    },
+    "lastcensus": "2010",
+    "level": "2",
+    "long_len": "9",
+    "mapcolor7": "5",
+    "mapcolor8": "3",
+    "mapcolor9": "7",
+    "mapcolor13": "3",
+    "max_label": "10.0",
+    "min_label": "5.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "North Macedonia",
+        "native": {
+            "mkd": {
+                "common": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
+            }
+        },
+        "official": "Republic of North Macedonia"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00ac\u00d9\u0085\u00d9\u0087\u00d9\u0088\u00d8\u00b1\u00d9\u008a\u00d8\u00a9 \u00d9\u0085\u00d9\u0082\u00d8\u00af\u00d9\u0088\u00d9\u0086\u00d9\u008a\u00d8\u00a7",
+    "name_bn": "\u00e0\u00a6\u00ae\u00e0\u00a7\u008d\u00e0\u00a6\u00af\u00e0\u00a6\u00be\u00e0\u00a6\u00b8\u00e0\u00a7\u0087\u00e0\u00a6\u00a1\u00e0\u00a7\u008b\u00e0\u00a6\u00a8\u00e0\u00a6\u00bf\u00e0\u00a6\u00af\u00e0\u00a6\u00bc\u00e0\u00a6\u00be \u00e0\u00a6\u00aa\u00e0\u00a7\u008d\u00e0\u00a6\u00b0\u00e0\u00a6\u009c\u00e0\u00a6\u00be\u00e0\u00a6\u00a4\u00e0\u00a6\u00a8\u00e0\u00a7\u008d\u00e0\u00a6\u00a4\u00e0\u00a7\u008d\u00e0\u00a6\u00b0",
+    "name_ciawf": "Macedonia",
+    "name_de": "Mazedonien",
+    "name_el": "\u00cf\u0080\u00cf\u0081\u00cf\u008e\u00ce\u00b7\u00ce\u00bd \u00ce\u0093\u00ce\u00b9\u00ce\u00bf\u00cf\u0085\u00ce\u00b3\u00ce\u00ba\u00ce\u00bf\u00cf\u0083\u00ce\u00bb\u00ce\u00b1\u00ce\u00b2\u00ce\u00b9\u00ce\u00ba\u00ce\u00ae \u00ce\u0094\u00ce\u00b7\u00ce\u00bc\u00ce\u00bf\u00ce\u00ba\u00cf\u0081\u00ce\u00b1\u00cf\u0084\u00ce\u00af\u00ce\u00b1 \u00cf\u0084\u00ce\u00b7\u00cf\u0082 \u00ce\u009c\u00ce\u00b1\u00ce\u00ba\u00ce\u00b5\u00ce\u00b4\u00ce\u00bf\u00ce\u00bd\u00ce\u00af\u00ce\u00b1\u00cf\u0082",
+    "name_en": "Republic of Macedonia",
+    "name_es": "Rep\u00c3\u00bablica de Macedonia",
+    "name_fr": "R\u00c3\u00a9publique de Mac\u00c3\u00a9doine",
+    "name_hi": "\u00e0\u00a4\u00ae\u00e0\u00a5\u0088\u00e0\u00a4\u00b8\u00e0\u00a4\u00bf\u00e0\u00a4\u00a1\u00e0\u00a5\u008b\u00e0\u00a4\u00a8\u00e0\u00a4\u00bf\u00e0\u00a4\u00af\u00e0\u00a4\u00be",
+    "name_hu": "Maced\u00c3\u00b3nia",
+    "name_id": "Republik Makedonia",
+    "name_it": "Repubblica di Macedonia",
+    "name_ja": "\u00e3\u0083\u009e\u00e3\u0082\u00b1\u00e3\u0083\u0089\u00e3\u0083\u008b\u00e3\u0082\u00a2\u00e5\u0085\u00b1\u00e5\u0092\u008c\u00e5\u009b\u00bd",
+    "name_ko": "\u00eb\u00a7\u0088\u00ec\u00bc\u0080\u00eb\u008f\u0084\u00eb\u008b\u0088\u00ec\u0095\u0084 \u00ea\u00b3\u00b5\u00ed\u0099\u0094\u00ea\u00b5\u00ad",
+    "name_len": "9",
+    "name_long": "Macedonia",
+    "name_nev": "Macedonia",
+    "name_nl": "Macedoni\u00c3\u00ab",
+    "name_pl": "Macedonia",
+    "name_pt": "Rep\u00c3\u00bablica da Maced\u00c3\u00b3nia",
+    "name_rinvex": {
+        "common": "Macedonia",
+        "native": {
+            "mkd": {
+                "common": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
+            }
+        },
+        "official": "Republic of Macedonia"
+    },
+    "name_ru": "\u00d0\u00a0\u00d0\u00b5\u00d1\u0081\u00d0\u00bf\u00d1\u0083\u00d0\u00b1\u00d0\u00bb\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0 \u00d0\u009c\u00d0\u00b0\u00d0\u00ba\u00d0\u00b5\u00d0\u00b4\u00d0\u00be\u00d0\u00bd\u00d0\u00b8\u00d1\u008f",
+    "name_sort": "Macedonia, FYR",
+    "name_sv": "Makedonien",
+    "name_tr": "Makedonya Cumhuriyeti",
+    "name_vi": "C\u00e1\u00bb\u0099ng h\u00c3\u00b2a Macedonia",
+    "name_zh": "\u00e9\u00a6\u00ac\u00e5\u0085\u00b6\u00e9\u00a0\u0093\u00e5\u0085\u00b1\u00e5\u0092\u008c\u00e5\u009c\u008b",
+    "ne_id": "1159321061",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "2103721",
+    "pop_rank": "12",
+    "pop_year": "2017",
+    "postal": "MK",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "MKD",
+    "sovereignt": "Macedonia",
+    "status": "officially-assigned",
+    "su_a3": "MKD",
+    "su_dif": "0",
+    "subunit": "Macedonia",
+    "tiny": "-99",
+    "tld": [
+        ".mk"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Severn\u00ed Makedonie",
+            "official": "Republika Severn\u00ed Makedonie"
+        },
+        "deu": {
+            "common": "Mazedonien",
+            "official": "Republik Mazedonien"
+        },
+        "est": {
+            "common": "P\u00f5hja-Makedoonia",
+            "official": "P\u00f5hja-Makedoonia Vabariik"
+        },
+        "fin": {
+            "common": "Makedonia",
+            "official": "Makedonian tasavalta"
+        },
+        "fra": {
+            "common": "Mac\u00e9doine",
+            "official": "R\u00e9publique de Mac\u00e9doine"
+        },
+        "hrv": {
+            "common": "Makedonija",
+            "official": "Republika Makedonija"
+        },
+        "hun": {
+            "common": "\u00c9szak-Maced\u00f3nia",
+            "official": "\u00c9szak-maced\u00f3n K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Macedonia",
+            "official": "Repubblica di Macedonia"
+        },
+        "jpn": {
+            "common": "\u30de\u30b1\u30c9\u30cb\u30a2\u65e7\u30e6\u30fc\u30b4\u30b9\u30e9\u30d3\u30a2\u5171\u548c\u56fd",
+            "official": "\u30de\u30b1\u30c9\u30cb\u30a2\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\ubd81\ub9c8\ucf00\ub3c4\ub2c8\uc544",
+            "official": "\ubd81\ub9c8\ucf00\ub3c4\ub2c8\uc544 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Macedoni\u00eb",
+            "official": "Republic of Macedonia"
+        },
+        "per": {
+            "common": "\u0645\u0642\u062f\u0648\u0646\u06cc\u0647 \u0634\u0645\u0627\u0644\u06cc",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0642\u062f\u0648\u0646\u06cc\u0647 \u0634\u0645\u0627\u0644\u06cc"
+        },
+        "pol": {
+            "common": "Macedonia P\u00f3\u0142nocna",
+            "official": "Republika Macedonii P\u00f3\u0142nocnej"
+        },
+        "por": {
+            "common": "Maced\u00f3nia",
+            "official": "Rep\u00fablica da Maced\u00f3nia"
+        },
+        "rus": {
+            "common": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+        },
+        "slk": {
+            "common": "Severn\u00e9 Maced\u00f3nsko",
+            "official": "Severomaced\u00f3nska republika"
+        },
+        "spa": {
+            "common": "Macedonia",
+            "official": "Rep\u00fablica de Macedonia"
+        },
+        "swe": {
+            "common": "Nordmakedonien",
+            "official": "Republiken Nordmakedonien"
+        },
+        "urd": {
+            "common": "\u0634\u0645\u0627\u0644\u06cc \u0645\u0642\u062f\u0648\u0646\u06cc\u06c1",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0642\u062f\u0648\u0646\u06cc\u06c1"
+        },
+        "zho": {
+            "common": "\u5317\u99ac\u5176\u9813",
+            "official": "\u5317\u99ac\u5176\u9813\u5171\u548c\u570b"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "807",
+    "un_member": true,
+    "wb_a2": "MK",
+    "wb_a3": "MKD",
+    "wikidataid": "Q221",
+    "wikipedia": "-99",
+    "woe_id": "23424890",
+    "woe_id_eh": "23424890",
+    "woe_note": "Exact WOE match as country"
+}

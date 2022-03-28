@@ -1,0 +1,77 @@
+{
+    "1": {
+        "abbreviation": "LMT",
+        "dst": "0",
+        "gmt_offset": "36428",
+        "time_start": "-3944628428",
+        "zone_id": "155"
+    },
+    "2": {
+        "abbreviation": "CHUT",
+        "dst": "0",
+        "gmt_offset": "36000",
+        "time_start": "-2177489228",
+        "zone_id": "155"
+    },
+    "3": {
+        "abbreviation": "CHUT",
+        "dst": "0",
+        "gmt_offset": "36000",
+        "time_start": "-1743674401",
+        "zone_id": "155"
+    },
+    "4": {
+        "abbreviation": "CHUT",
+        "dst": "0",
+        "gmt_offset": "32400",
+        "time_start": "-1743674400",
+        "zone_id": "155"
+    },
+    "5": {
+        "abbreviation": "CHUT",
+        "dst": "0",
+        "gmt_offset": "32400",
+        "time_start": "-1606813201",
+        "zone_id": "155"
+    },
+    "6": {
+        "abbreviation": "CHUT",
+        "dst": "0",
+        "gmt_offset": "36000",
+        "time_start": "-1606813200",
+        "zone_id": "155"
+    },
+    "7": {
+        "abbreviation": "CHUT",
+        "dst": "0",
+        "gmt_offset": "36000",
+        "time_start": "-907408801",
+        "zone_id": "155"
+    },
+    "8": {
+        "abbreviation": "CHUT",
+        "dst": "0",
+        "gmt_offset": "32400",
+        "time_start": "-907408800",
+        "zone_id": "155"
+    },
+    "9": {
+        "abbreviation": "CHUT",
+        "dst": "0",
+        "gmt_offset": "32400",
+        "time_start": "-770634001",
+        "zone_id": "155"
+    },
+    "10": {
+        "abbreviation": "CHUT",
+        "dst": "0",
+        "gmt_offset": "36000",
+        "time_start": "-770634000",
+        "zone_id": "155"
+    },
+    "abbreviation": "LMT",
+    "dst": "0",
+    "gmt_offset": "-49972",
+    "time_start": "-3944628429",
+    "zone_id": "155"
+}

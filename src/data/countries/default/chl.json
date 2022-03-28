@@ -1,0 +1,318 @@
+{
+    "abbrev": "Chile",
+    "abbrev_len": "5",
+    "adm0_a3": "CHL",
+    "adm0_a3_is": "CHL",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "CHL",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Chile",
+    "alt_spellings": [
+        "CL",
+        "Republic of Chile",
+        "Rep\u00fablica de Chile"
+    ],
+    "borders": [
+        "ARG",
+        "BOL",
+        "PER"
+    ],
+    "brk_a3": "CHL",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Chile",
+    "calling_codes": [
+        "+56"
+    ],
+    "capital": [
+        "Santiago"
+    ],
+    "capital_rinvex": "Santiago",
+    "cca2": "CL",
+    "cca3": "CHL",
+    "ccn3": "152",
+    "cioc": "CHI",
+    "currencies": [
+        "CLF",
+        "CLP"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Chilean",
+    "demonyms": {
+        "eng": {
+            "f": "Chilean",
+            "m": "Chilean"
+        },
+        "fra": {
+            "f": "Chilienne",
+            "m": "Chilien"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "56"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            8,
+            9
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "5. Emerging region: G20",
+    "extra": {
+        "address_format": null,
+        "ar5": "LAM",
+        "cowc": "CHL",
+        "cown": 155,
+        "ds": "RCH",
+        "edgar": "F3",
+        "emoji": "\ud83c\udde8\ud83c\uddf1",
+        "eu_member": null,
+        "fao": 40,
+        "fifa": "CHI",
+        "fips": "CI",
+        "gaul": 51,
+        "geonameid": 3895114,
+        "imf": 228,
+        "ioc": "CHI",
+        "itu": "CHL",
+        "marc": "cl",
+        "vat_rates": null,
+        "wmo": "CH"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "CI",
+    "flag": {
+        "emoji": "\ud83c\udde8\ud83c\uddf1"
+    },
+    "formal_en": "Republic of Chile",
+    "formal_fr": "",
+    "gdp_md_est": "436100.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 756102,
+        "borders": [
+            "ARG",
+            "BOL",
+            "PER"
+        ],
+        "continent": {
+            "SA": "South America"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "30 00 S",
+        "latitude_desc": "-35.78622817993164",
+        "latlng": [
+            -30,
+            -71
+        ],
+        "longitude": "71 00 W",
+        "longitude_desc": "-71.67467498779297",
+        "max_latitude": "-17.53",
+        "max_longitude": "-66.433333",
+        "min_latitude": "-56.533333",
+        "min_longitude": "-109.466667",
+        "postal_code": true,
+        "region": "Americas",
+        "region_code": "019",
+        "region_un": "Americas",
+        "region_wb": "Latin America & Caribbean",
+        "subregion": "South America",
+        "subregion_code": "005",
+        "world_region": "AMER"
+    },
+    "geou_dif": "0",
+    "geounit": "Chile",
+    "gu_a3": "CHL",
+    "homepart": "1",
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "6"
+        ]
+    },
+    "income_grp": "3. Upper middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "CL",
+    "iso_3166_1_alpha3": "CHL",
+    "iso_3166_1_numeric": "152",
+    "iso_a2": "CL",
+    "iso_a3": "CHL",
+    "iso_a3_eh": "CHL",
+    "iso_n3": "152",
+    "labelrank": "2",
+    "languages": {
+        "spa": "Spanish"
+    },
+    "lastcensus": "2002",
+    "level": "2",
+    "long_len": "5",
+    "mapcolor7": "5",
+    "mapcolor8": "1",
+    "mapcolor9": "5",
+    "mapcolor13": "9",
+    "max_label": "6.7",
+    "min_label": "1.7",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Chile",
+        "native": {
+            "spa": {
+                "common": "Chile",
+                "official": "Rep\u00fablica de Chile"
+            }
+        },
+        "official": "Republic of Chile"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00aa\u00d8\u00b4\u00d9\u008a\u00d9\u0084\u00d9\u008a",
+    "name_bn": "\u00e0\u00a6\u009a\u00e0\u00a6\u00bf\u00e0\u00a6\u00b2\u00e0\u00a6\u00bf",
+    "name_ciawf": "Chile",
+    "name_de": "Chile",
+    "name_el": "\u00ce\u00a7\u00ce\u00b9\u00ce\u00bb\u00ce\u00ae",
+    "name_en": "Chile",
+    "name_es": "Chile",
+    "name_fr": "Chili",
+    "name_hi": "\u00e0\u00a4\u009a\u00e0\u00a4\u00bf\u00e0\u00a4\u00b2\u00e0\u00a5\u0080",
+    "name_hu": "Chile",
+    "name_id": "Chili",
+    "name_it": "Cile",
+    "name_ja": "\u00e3\u0083\u0081\u00e3\u0083\u00aa",
+    "name_ko": "\u00ec\u00b9\u00a0\u00eb\u00a0\u0088",
+    "name_len": "5",
+    "name_long": "Chile",
+    "name_nev": "Chile",
+    "name_nl": "Chili",
+    "name_pl": "Chile",
+    "name_pt": "Chile",
+    "name_ru": "\u00d0\u00a7\u00d0\u00b8\u00d0\u00bb\u00d0\u00b8",
+    "name_sort": "Chile",
+    "name_sv": "Chile",
+    "name_tr": "\u00c5\u009eili",
+    "name_vi": "Chile",
+    "name_zh": "\u00e6\u0099\u00ba\u00e5\u0088\u00a9",
+    "ne_id": "1159320493",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "17789267",
+    "pop_rank": "14",
+    "pop_year": "2017",
+    "postal": "CL",
+    "record_type": "country",
+    "scalerank": "6",
+    "sov_a3": "CHL",
+    "sovereignt": "Chile",
+    "status": "officially-assigned",
+    "su_a3": "CHL",
+    "su_dif": "0",
+    "subunit": "Chile",
+    "tiny": "-99",
+    "tld": [
+        ".cl"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Chile",
+            "official": "Chilsk\u00e1 republika"
+        },
+        "cym": {
+            "common": "Chile",
+            "official": "Republic of Chile"
+        },
+        "deu": {
+            "common": "Chile",
+            "official": "Republik Chile"
+        },
+        "est": {
+            "common": "T\u0161iili",
+            "official": "T\u0161iili Vabariik"
+        },
+        "fin": {
+            "common": "Chile",
+            "official": "Chilen tasavalta"
+        },
+        "fra": {
+            "common": "Chili",
+            "official": "R\u00e9publique du Chili"
+        },
+        "hrv": {
+            "common": "\u010cile",
+            "official": "Republika \u010cile"
+        },
+        "hun": {
+            "common": "Chile",
+            "official": "Chilei K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Cile",
+            "official": "Repubblica del Cile"
+        },
+        "jpn": {
+            "common": "\u30c1\u30ea",
+            "official": "\u30c1\u30ea\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\uce60\ub808",
+            "official": "\uce60\ub808 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Chili",
+            "official": "Republiek Chili"
+        },
+        "per": {
+            "common": "\u0634\u06cc\u0644\u06cc",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0634\u06cc\u0644\u06cc"
+        },
+        "pol": {
+            "common": "Chile",
+            "official": "Republika Chile"
+        },
+        "por": {
+            "common": "Chile",
+            "official": "Rep\u00fablica do Chile"
+        },
+        "rus": {
+            "common": "\u0427\u0438\u043b\u0438",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0427\u0438\u043b\u0438"
+        },
+        "slk": {
+            "common": "\u010cile",
+            "official": "\u010c\u00edlska republika"
+        },
+        "spa": {
+            "common": "Chile",
+            "official": "Rep\u00fablica de Chile"
+        },
+        "swe": {
+            "common": "Chile",
+            "official": "Republiken Chile"
+        },
+        "urd": {
+            "common": "\u0686\u0644\u06cc",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u0644\u06cc"
+        },
+        "zho": {
+            "common": "\u667a\u5229",
+            "official": "\u667a\u5229\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "152",
+    "un_member": true,
+    "wb_a2": "CL",
+    "wb_a3": "CHL",
+    "wikidataid": "Q298",
+    "wikipedia": "-99",
+    "woe_id": "23424782",
+    "woe_id_eh": "23424782",
+    "woe_note": "Exact WOE match as country"
+}

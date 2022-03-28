@@ -1,0 +1,42 @@
+{
+    "1": {
+        "abbreviation": "LINT",
+        "dst": "0",
+        "gmt_offset": "-38400",
+        "time_start": "-2177415040",
+        "zone_id": "208"
+    },
+    "2": {
+        "abbreviation": "LINT",
+        "dst": "0",
+        "gmt_offset": "-38400",
+        "time_start": "307622399",
+        "zone_id": "208"
+    },
+    "3": {
+        "abbreviation": "LINT",
+        "dst": "0",
+        "gmt_offset": "-36000",
+        "time_start": "307622400",
+        "zone_id": "208"
+    },
+    "4": {
+        "abbreviation": "LINT",
+        "dst": "0",
+        "gmt_offset": "-36000",
+        "time_start": "788867999",
+        "zone_id": "208"
+    },
+    "5": {
+        "abbreviation": "LINT",
+        "dst": "0",
+        "gmt_offset": "50400",
+        "time_start": "788868000",
+        "zone_id": "208"
+    },
+    "abbreviation": "LMT",
+    "dst": "0",
+    "gmt_offset": "-37760",
+    "time_start": "-2177415041",
+    "zone_id": "208"
+}

@@ -1,0 +1,17 @@
+{
+    "asia_thimphu": {
+        "abbreviations": [
+            "BTT",
+            "LMT"
+        ],
+        "cca2": "BT",
+        "cca3": "BTN",
+        "country_code": "BT",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "80",
+        "zone_name": "Asia\/Thimphu"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "1": {
+        "abbreviation": "MMT",
+        "dst": "0",
+        "gmt_offset": "-2588",
+        "time_start": "-2776979812",
+        "zone_id": "228"
+    },
+    "2": {
+        "abbreviation": "MMT",
+        "dst": "0",
+        "gmt_offset": "-2670",
+        "time_start": "-1604359012",
+        "zone_id": "228"
+    },
+    "3": {
+        "abbreviation": "GMT",
+        "dst": "0",
+        "gmt_offset": "0",
+        "time_start": "63593070",
+        "zone_id": "228"
+    },
+    "abbreviation": "LMT",
+    "dst": "0",
+    "gmt_offset": "-2588",
+    "time_start": "-2776979813",
+    "zone_id": "228"
+}

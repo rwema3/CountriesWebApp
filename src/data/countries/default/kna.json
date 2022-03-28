@@ -1,0 +1,313 @@
+{
+    "abbrev": "St.K.N.",
+    "abbrev_len": "7",
+    "adm0_a3": "KNA",
+    "adm0_a3_is": "KNA",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "KNA",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Saint Kitts and Nevis",
+    "alt_spellings": [
+        "KN",
+        "Federation of Saint Christopher and Nevis"
+    ],
+    "borders": [],
+    "brk_a3": "KNA",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Saint Kitts and Nevis",
+    "calling_codes": [
+        "+1869"
+    ],
+    "capital": [
+        "Basseterre"
+    ],
+    "capital_rinvex": "Basseterre",
+    "cca2": "KN",
+    "cca3": "KNA",
+    "ccn3": "659",
+    "cioc": "SKN",
+    "currencies": [
+        "XCD"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Kittitian or Nevisian",
+    "demonyms": {
+        "eng": {
+            "f": "Kittitian or Nevisian",
+            "m": "Kittitian or Nevisian"
+        },
+        "fra": {
+            "f": "Kittitienne-et-nevicienne",
+            "m": "Kittitien-et-nevicien"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "1869"
+        ],
+        "international_prefix": "011",
+        "national_destination_code_lengths": [
+            3
+        ],
+        "national_number_lengths": [
+            10
+        ],
+        "national_prefix": "1"
+    },
+    "economy": "6. Developing region",
+    "extra": {
+        "address_format": null,
+        "ar5": "LAM",
+        "cowc": "SKN",
+        "cown": 60,
+        "ds": 0,
+        "edgar": "U7",
+        "emoji": "\ud83c\uddf0\ud83c\uddf3",
+        "eu_member": null,
+        "fao": 188,
+        "fifa": "SKN",
+        "fips": "SC",
+        "gaul": 208,
+        "geonameid": 3575174,
+        "imf": 361,
+        "ioc": "SKN",
+        "itu": "KNA",
+        "marc": "xd",
+        "vat_rates": null,
+        "wmo": "AT"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "SC",
+    "flag": {
+        "emoji": "\ud83c\uddf0\ud83c\uddf3"
+    },
+    "formal_en": "Federation of Saint Kitts and Nevis",
+    "formal_fr": "",
+    "gdp_md_est": "1427.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 261,
+        "borders": [],
+        "continent": {
+            "NA": "North America"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "17 20 N",
+        "latitude_desc": "17.24447250366211",
+        "latlng": [
+            17.33333333,
+            -62.75
+        ],
+        "longitude": "62 45 W",
+        "longitude_desc": "-62.643184661865234",
+        "max_latitude": "17.416667",
+        "max_longitude": "-62.516667",
+        "min_latitude": "17.1",
+        "min_longitude": "-62.85",
+        "postal_code": false,
+        "region": "Americas",
+        "region_code": "019",
+        "region_un": "Americas",
+        "region_wb": "Latin America & Caribbean",
+        "subregion": "Caribbean",
+        "subregion_code": "029",
+        "world_region": "AMER"
+    },
+    "geou_dif": "0",
+    "geounit": "Saint Kitts and Nevis",
+    "gu_a3": "KNA",
+    "homepart": "1",
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "869"
+        ]
+    },
+    "income_grp": "2. High income: nonOECD",
+    "independent": true,
+    "iso_3166_1_alpha2": "KN",
+    "iso_3166_1_alpha3": "KNA",
+    "iso_3166_1_numeric": "659",
+    "iso_a2": "KN",
+    "iso_a3": "KNA",
+    "iso_a3_eh": "KNA",
+    "iso_n3": "659",
+    "labelrank": "6",
+    "languages": {
+        "eng": "English"
+    },
+    "lastcensus": "2011",
+    "level": "2",
+    "long_len": "21",
+    "mapcolor7": "1",
+    "mapcolor8": "4",
+    "mapcolor9": "1",
+    "mapcolor13": "8",
+    "max_label": "10.0",
+    "min_label": "5.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Saint Kitts and Nevis",
+        "native": {
+            "eng": {
+                "common": "Saint Kitts and Nevis",
+                "official": "Federation of Saint Christopher and Nevis"
+            }
+        },
+        "official": "Federation of Saint Christopher and Nevis"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00b3\u00d8\u00a7\u00d9\u0086\u00d8\u00aa \u00d9\u0083\u00d9\u008a\u00d8\u00aa\u00d8\u00b3 \u00d9\u0088\u00d9\u0086\u00d9\u008a\u00d9\u0081\u00d9\u008a\u00d8\u00b3",
+    "name_bn": "\u00e0\u00a6\u00b8\u00e0\u00a7\u0087\u00e0\u00a6\u00a8\u00e0\u00a7\u008d\u00e0\u00a6\u009f \u00e0\u00a6\u0095\u00e0\u00a6\u00bf\u00e0\u00a6\u009f\u00e0\u00a7\u008d\u00e2\u0080\u008c\u00e0\u00a6\u00b8 \u00e0\u00a6\u0093 \u00e0\u00a6\u00a8\u00e0\u00a7\u0087\u00e0\u00a6\u00ad\u00e0\u00a6\u00bf\u00e0\u00a6\u00b8",
+    "name_ciawf": "Saint Kitts and Nevis",
+    "name_de": "St. Kitts und Nevis",
+    "name_el": "\u00ce\u0086\u00ce\u00b3\u00ce\u00b9\u00ce\u00bf\u00cf\u0082 \u00ce\u00a7\u00cf\u0081\u00ce\u00b9\u00cf\u0083\u00cf\u0084\u00cf\u008c\u00cf\u0086\u00ce\u00bf\u00cf\u0081\u00ce\u00bf\u00cf\u0082 \u00ce\u00ba\u00ce\u00b1\u00ce\u00b9 \u00ce\u009d\u00ce\u00ad\u00ce\u00b2\u00ce\u00b9\u00cf\u0082",
+    "name_en": "Saint Kitts and Nevis",
+    "name_es": "San Crist\u00c3\u00b3bal y Nieves",
+    "name_fr": "Saint-Christophe-et-Ni\u00c3\u00a9v\u00c3\u00a8s",
+    "name_hi": "\u00e0\u00a4\u00b8\u00e0\u00a4\u00a8\u00e0\u00a5\u008d\u00e0\u00a4\u00a4 \u00e0\u00a4\u0095\u00e0\u00a4\u00bf\u00e0\u00a4\u009f\u00e0\u00a5\u008d\u00e0\u00a4\u00b8 \u00e0\u00a4\u0094\u00e0\u00a4\u00b0 \u00e0\u00a4\u00a8\u00e0\u00a5\u0087\u00e0\u00a4\u00b5\u00e0\u00a4\u00bf\u00e0\u00a4\u00b8",
+    "name_hu": "Saint Kitts \u00c3\u00a9s Nevis",
+    "name_id": "Saint Kitts dan Nevis",
+    "name_it": "Saint Kitts e Nevis",
+    "name_ja": "\u00e3\u0082\u00bb\u00e3\u0083\u00b3\u00e3\u0083\u0088\u00e3\u0082\u00af\u00e3\u0083\u00aa\u00e3\u0082\u00b9\u00e3\u0083\u0088\u00e3\u0083\u0095\u00e3\u0082\u00a1\u00e3\u0083\u00bc\u00e3\u0083\u00bb\u00e3\u0083\u008d\u00e3\u0082\u00a4\u00e3\u0083\u0093\u00e3\u0082\u00b9",
+    "name_ko": "\u00ec\u0084\u00b8\u00ec\u009d\u00b8\u00ed\u008a\u00b8\u00ed\u0082\u00a4\u00ec\u00b8\u00a0 \u00eb\u0084\u00a4\u00eb\u00b9\u0084\u00ec\u008a\u00a4",
+    "name_len": "19",
+    "name_long": "Saint Kitts and Nevis",
+    "name_nev": "St. Kitts and Nevis",
+    "name_nl": "Saint Kitts en Nevis",
+    "name_pl": "Saint Kitts i Nevis",
+    "name_pt": "S\u00c3\u00a3o Crist\u00c3\u00b3v\u00c3\u00a3o e Nevis",
+    "name_rinvex": {
+        "common": "Saint Kitts and Nevis",
+        "native": {
+            "eng": {
+                "common": "Saint Kitts and Nevis",
+                "official": "Federation of Saint Christopher and Nevisa"
+            }
+        },
+        "official": "Federation of Saint Christopher and Nevisa"
+    },
+    "name_ru": "\u00d0\u00a1\u00d0\u00b5\u00d0\u00bd\u00d1\u0082-\u00d0\u009a\u00d0\u00b8\u00d1\u0082\u00d1\u0081 \u00d0\u00b8 \u00d0\u009d\u00d0\u00b5\u00d0\u00b2\u00d0\u00b8\u00d1\u0081",
+    "name_sort": "St. Kitts and Nevis",
+    "name_sv": "Saint Kitts och Nevis",
+    "name_tr": "Saint Kitts ve Nevis",
+    "name_vi": "Saint Kitts v\u00c3\u00a0 Nevis",
+    "name_zh": "\u00e8\u0081\u0096\u00e5\u0085\u008b\u00e9\u0087\u008c\u00e6\u0096\u00af\u00e5\u00a4\u009a\u00e7\u00a6\u008f\u00e8\u0088\u0087\u00e5\u00b0\u00bc\u00e7\u00b6\u00ad\u00e6\u0096\u00af",
+    "ne_id": "1159320983",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "52715",
+    "pop_rank": "8",
+    "pop_year": "2017",
+    "postal": "KN",
+    "record_type": "country",
+    "scalerank": "3",
+    "sov_a3": "KNA",
+    "sovereignt": "Saint Kitts and Nevis",
+    "status": "officially-assigned",
+    "su_a3": "KNA",
+    "su_dif": "0",
+    "subunit": "Saint Kitts and Nevis",
+    "tiny": "4",
+    "tld": [
+        ".kn"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Svat\u00fd Kry\u0161tof a Nevis",
+            "official": "Federace Sv. Kry\u0161tof a Nevis"
+        },
+        "deu": {
+            "common": "Saint Christopher und Nevis",
+            "official": "F\u00f6deration von Saint Kitts und Nevisa"
+        },
+        "est": {
+            "common": "Saint Kitts ja Nevis",
+            "official": "Saint Kittsi ja Nevise F\u00f6deratsioon"
+        },
+        "fin": {
+            "common": "Saint Kitts ja Nevis",
+            "official": "Saint Christopherin ja Nevisin federaatio"
+        },
+        "fra": {
+            "common": "Saint-Christophe-et-Ni\u00e9v\u00e8s",
+            "official": "F\u00e9d\u00e9ration de Saint -Christophe-et Nevisa"
+        },
+        "hrv": {
+            "common": "Sveti Kristof i Nevis",
+            "official": "Federacija Sv.Kristofora i Nevisa"
+        },
+        "hun": {
+            "common": "Saint Kitts \u00e9s Nevis",
+            "official": "Saint Christopher \u00e9s Nevis \u00c1llamsz\u00f6vets\u00e9g"
+        },
+        "ita": {
+            "common": "Saint Kitts e Nevis",
+            "official": "Federazione di Saint Christopher e Nevisa"
+        },
+        "jpn": {
+            "common": "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc\u30fb\u30cd\u30a4\u30d3\u30b9",
+            "official": "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fcNevisa\u9023\u76df"
+        },
+        "kor": {
+            "common": "\uc138\uc778\ud2b8\ud0a4\uce20 \ub124\ube44\uc2a4",
+            "official": "\uc138\uc778\ud2b8\ud0a4\uce20 \ub124\ube44\uc2a4 \uc5f0\ubc29"
+        },
+        "nld": {
+            "common": "Saint Kitts en Nevis",
+            "official": "Federatie van Saint Kitts en Nevisa"
+        },
+        "per": {
+            "common": "\u0633\u0646\u062a \u06a9\u06cc\u062a\u0633 \u0648 \u0646\u0648\u06cc\u0633",
+            "official": "\u0641\u062f\u0631\u0627\u0633\u06cc\u0648\u0646 \u0633\u0646\u062a \u06a9\u06cc\u062a\u0633 \u0648 \u0646\u0648\u06cc\u0633"
+        },
+        "pol": {
+            "common": "Saint Kitts i Nevis",
+            "official": "Federacja Saint Kitts i Nevis"
+        },
+        "por": {
+            "common": "S\u00e3o Crist\u00f3v\u00e3o e Nevis",
+            "official": "Federa\u00e7\u00e3o de S\u00e3o Crist\u00f3v\u00e3o e Nevisa"
+        },
+        "rus": {
+            "common": "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0438 \u041d\u0435\u0432\u0438\u0441",
+            "official": "\u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f \u0421\u0435\u043d\u0442-\u041a\u0440\u0438\u0441\u0442\u043e\u0444\u0435\u0440 \u0438 Nevisa"
+        },
+        "slk": {
+            "common": "Sv\u00e4t\u00fd Kri\u0161tof a Nevis",
+            "official": "Feder\u0ee1cia Sv\u00e4t\u00e9ho Kri\u0161tofa a Nevisu"
+        },
+        "spa": {
+            "common": "San Crist\u00f3bal y Nieves",
+            "official": "Federaci\u00f3n de San Crist\u00f3bal y Nevisa"
+        },
+        "swe": {
+            "common": "Saint Kitts och Nevis",
+            "official": "Federationen Saint Kitts och Nevis"
+        },
+        "urd": {
+            "common": "\u0633\u06cc\u0646\u0679 \u06a9\u06cc\u0679\u0632 \u0648 \u0646\u0627\u0648\u06cc\u0633",
+            "official": "\u0648\u0641\u0627\u0642\u0650 \u0633\u06cc\u0646\u0679 \u06a9\u06cc\u0679\u0632 \u0648 \u0646\u0627\u0648\u06cc\u0633"
+        },
+        "zho": {
+            "common": "\u5723\u57fa\u8328\u548c\u5c3c\u7ef4\u65af",
+            "official": "\u5723\u514b\u91cc\u65af\u6258\u5f17\u548c\u5c3c\u7ef4\u65af\u8054\u90a6"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "659",
+    "un_member": true,
+    "wb_a2": "KN",
+    "wb_a3": "KNA",
+    "wikidataid": "Q763",
+    "wikipedia": "-99",
+    "woe_id": "23424940",
+    "woe_id_eh": "23424940",
+    "woe_note": "Exact WOE match as country"
+}

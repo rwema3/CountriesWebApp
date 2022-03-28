@@ -1,0 +1,17 @@
+{
+    "pacific_pitcairn": {
+        "abbreviations": [
+            "LMT",
+            "PST"
+        ],
+        "cca2": "PN",
+        "cca3": "PCN",
+        "country_code": "PN",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "296",
+        "zone_name": "Pacific\/Pitcairn"
+    }
+}

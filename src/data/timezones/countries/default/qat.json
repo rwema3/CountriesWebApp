@@ -1,0 +1,17 @@
+{
+    "asia_qatar": {
+        "abbreviations": [
+            "AST",
+            "LMT"
+        ],
+        "cca2": "QA",
+        "cca3": "QAT",
+        "country_code": "QA",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "305",
+        "zone_name": "Asia\/Qatar"
+    }
+}

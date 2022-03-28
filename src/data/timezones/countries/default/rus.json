@@ -1,0 +1,411 @@
+{
+    "asia_anadyr": {
+        "abbreviations": [
+            "ANAT",
+            "LMT"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "309",
+        "zone_name": "Asia\/Anadyr"
+    },
+    "asia_barnaul": {
+        "abbreviations": [
+            "KRAT",
+            "LMT"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "310",
+        "zone_name": "Asia\/Barnaul"
+    },
+    "asia_chita": {
+        "abbreviations": [
+            "LMT",
+            "YAKT"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "311",
+        "zone_name": "Asia\/Chita"
+    },
+    "asia_irkutsk": {
+        "abbreviations": [
+            "IMT",
+            "IRKT",
+            "LMT"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "312",
+        "zone_name": "Asia\/Irkutsk"
+    },
+    "asia_kamchatka": {
+        "abbreviations": [
+            "LMT",
+            "PETT"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "313",
+        "zone_name": "Asia\/Kamchatka"
+    },
+    "asia_khandyga": {
+        "abbreviations": [
+            "LMT",
+            "YAKT"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "314",
+        "zone_name": "Asia\/Khandyga"
+    },
+    "asia_krasnoyarsk": {
+        "abbreviations": [
+            "KRAT",
+            "LMT"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "315",
+        "zone_name": "Asia\/Krasnoyarsk"
+    },
+    "asia_magadan": {
+        "abbreviations": [
+            "LMT",
+            "MAGT"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "316",
+        "zone_name": "Asia\/Magadan"
+    },
+    "asia_novokuznetsk": {
+        "abbreviations": [
+            "KRAT",
+            "LMT"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "317",
+        "zone_name": "Asia\/Novokuznetsk"
+    },
+    "asia_novosibirsk": {
+        "abbreviations": [
+            "LMT",
+            "NOVT"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "318",
+        "zone_name": "Asia\/Novosibirsk"
+    },
+    "asia_omsk": {
+        "abbreviations": [
+            "LMT",
+            "OMST"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "319",
+        "zone_name": "Asia\/Omsk"
+    },
+    "asia_sakhalin": {
+        "abbreviations": [
+            "LMT",
+            "SAKT"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "320",
+        "zone_name": "Asia\/Sakhalin"
+    },
+    "asia_srednekolymsk": {
+        "abbreviations": [
+            "LMT",
+            "SRET"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "321",
+        "zone_name": "Asia\/Srednekolymsk"
+    },
+    "asia_tomsk": {
+        "abbreviations": [
+            "LMT",
+            "MSD+3",
+            "MSD+4",
+            "MSK+3"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "322",
+        "zone_name": "Asia\/Tomsk"
+    },
+    "asia_ust-_nera": {
+        "abbreviations": [
+            "LMT",
+            "VLAT"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "323",
+        "zone_name": "Asia\/Ust-Nera"
+    },
+    "asia_vladivostok": {
+        "abbreviations": [
+            "LMT",
+            "VLAT"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "324",
+        "zone_name": "Asia\/Vladivostok"
+    },
+    "asia_yakutsk": {
+        "abbreviations": [
+            "LMT",
+            "YAKT"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "325",
+        "zone_name": "Asia\/Yakutsk"
+    },
+    "asia_yekaterinburg": {
+        "abbreviations": [
+            "LMT",
+            "PMT",
+            "YEKT"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "326",
+        "zone_name": "Asia\/Yekaterinburg"
+    },
+    "europe_astrakhan": {
+        "abbreviations": [
+            "LMT",
+            "SAMT"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "327",
+        "zone_name": "Europe\/Astrakhan"
+    },
+    "europe_kaliningrad": {
+        "abbreviations": [
+            "CEST",
+            "CET",
+            "EEST",
+            "EET",
+            "LMT",
+            "MSD",
+            "MSK"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "328",
+        "zone_name": "Europe\/Kaliningrad"
+    },
+    "europe_kirov": {
+        "abbreviations": [
+            "LMT",
+            "MSD",
+            "MSD+1",
+            "MSK"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "329",
+        "zone_name": "Europe\/Kirov"
+    },
+    "europe_moscow": {
+        "abbreviations": [
+            "EEST",
+            "EET",
+            "LMT",
+            "MDST",
+            "MMT",
+            "MSD",
+            "MSK",
+            "MST"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "330",
+        "zone_name": "Europe\/Moscow"
+    },
+    "europe_samara": {
+        "abbreviations": [
+            "LMT",
+            "SAMT"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "331",
+        "zone_name": "Europe\/Samara"
+    },
+    "europe_saratov": {
+        "abbreviations": [
+            "LMT",
+            "MSD",
+            "MSD+1",
+            "MSK"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "332",
+        "zone_name": "Europe\/Saratov"
+    },
+    "europe_ulyanovsk": {
+        "abbreviations": [
+            "LMT",
+            "SAMT"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "333",
+        "zone_name": "Europe\/Ulyanovsk"
+    },
+    "europe_volgograd": {
+        "abbreviations": [
+            "LMT",
+            "MSK"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "country_code": "RU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "334",
+        "zone_name": "Europe\/Volgograd"
+    }
+}

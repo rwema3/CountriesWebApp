@@ -1,0 +1,17 @@
+{
+    "pacific_norfolk": {
+        "abbreviations": [
+            "LMT",
+            "NFT"
+        ],
+        "cca2": "NF",
+        "cca3": "NFK",
+        "country_code": "NF",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "274",
+        "zone_name": "Pacific\/Norfolk"
+    }
+}

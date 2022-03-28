@@ -1,0 +1,318 @@
+{
+    "abbrev": "Swe.",
+    "abbrev_len": "4",
+    "adm0_a3": "SWE",
+    "adm0_a3_is": "SWE",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "SWE",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Sweden",
+    "alt_spellings": [
+        "SE",
+        "Kingdom of Sweden",
+        "Konungariket Sverige"
+    ],
+    "borders": [
+        "FIN",
+        "NOR"
+    ],
+    "brk_a3": "SWE",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Sweden",
+    "calling_codes": [
+        "+46"
+    ],
+    "capital": [
+        "Stockholm"
+    ],
+    "capital_rinvex": "Stockholm",
+    "cca2": "SE",
+    "cca3": "SWE",
+    "ccn3": "752",
+    "cioc": "SWE",
+    "currencies": [
+        "SEK"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Swedish",
+    "demonyms": {
+        "eng": {
+            "f": "Swedish",
+            "m": "Swedish"
+        },
+        "fra": {
+            "f": "Su\u00e9doise",
+            "m": "Su\u00e9dois"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "46"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            9
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "2. Developed region: nonG7",
+    "extra": {
+        "address_format": "{{recipient}}{{street}}{{postalcode}} {{city}}{{country}}",
+        "ar5": "OECD1990",
+        "cowc": "SWD",
+        "cown": 380,
+        "ds": "S",
+        "edgar": "V7",
+        "emoji": "\ud83c\uddf8\ud83c\uddea",
+        "eu_member": true,
+        "fao": 210,
+        "fifa": "SWE",
+        "fips": "SW",
+        "gaul": 236,
+        "geonameid": 2661886,
+        "imf": 144,
+        "ioc": "SWE",
+        "itu": "S",
+        "marc": "sw",
+        "vat_rates": {
+            "parking": null,
+            "reduced": [
+                6,
+                12
+            ],
+            "standard": 25,
+            "super_reduced": null
+        },
+        "wmo": "SN"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "SW",
+    "flag": {
+        "emoji": "\ud83c\uddf8\ud83c\uddea"
+    },
+    "formal_en": "Kingdom of Sweden",
+    "formal_fr": "",
+    "gdp_md_est": "498100.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 450295,
+        "borders": [
+            "FIN",
+            "NOR"
+        ],
+        "continent": {
+            "EU": "Europe"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "62 00 N",
+        "latitude_desc": "62.67497253417969",
+        "latlng": [
+            62,
+            15
+        ],
+        "longitude": "15 00 E",
+        "longitude_desc": "16.798059463500977",
+        "max_latitude": "69.033333",
+        "max_longitude": "25",
+        "min_latitude": "46.758333",
+        "min_longitude": "10.958333",
+        "postal_code": true,
+        "region": "Europe",
+        "region_code": "150",
+        "region_un": "Europe",
+        "region_wb": "Europe & Central Asia",
+        "subregion": "Northern Europe",
+        "subregion_code": "154",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Sweden",
+    "gu_a3": "SWE",
+    "homepart": "1",
+    "idd": {
+        "root": "+4",
+        "suffixes": [
+            "6"
+        ]
+    },
+    "income_grp": "1. High income: OECD",
+    "independent": true,
+    "iso_3166_1_alpha2": "SE",
+    "iso_3166_1_alpha3": "SWE",
+    "iso_3166_1_numeric": "752",
+    "iso_a2": "SE",
+    "iso_a3": "SWE",
+    "iso_a3_eh": "SWE",
+    "iso_n3": "752",
+    "labelrank": "3",
+    "languages": {
+        "swe": "Swedish"
+    },
+    "lastcensus": "-99",
+    "level": "2",
+    "long_len": "6",
+    "mapcolor7": "1",
+    "mapcolor8": "4",
+    "mapcolor9": "2",
+    "mapcolor13": "4",
+    "max_label": "7.0",
+    "min_label": "3.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Sweden",
+        "native": {
+            "swe": {
+                "common": "Sverige",
+                "official": "Konungariket Sverige"
+            }
+        },
+        "official": "Kingdom of Sweden"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00a7\u00d9\u0084\u00d8\u00b3\u00d9\u0088\u00d9\u008a\u00d8\u00af",
+    "name_bn": "\u00e0\u00a6\u00b8\u00e0\u00a7\u0081\u00e0\u00a6\u0087\u00e0\u00a6\u00a1\u00e0\u00a7\u0087\u00e0\u00a6\u00a8",
+    "name_ciawf": "Sweden",
+    "name_de": "Schweden",
+    "name_el": "\u00ce\u00a3\u00ce\u00bf\u00cf\u0085\u00ce\u00b7\u00ce\u00b4\u00ce\u00af\u00ce\u00b1",
+    "name_en": "Sweden",
+    "name_es": "Suecia",
+    "name_fr": "Su\u00c3\u00a8de",
+    "name_hi": "\u00e0\u00a4\u00b8\u00e0\u00a5\u008d\u00e0\u00a4\u00b5\u00e0\u00a5\u0080\u00e0\u00a4\u00a1\u00e0\u00a4\u00a8",
+    "name_hu": "Sv\u00c3\u00a9dorsz\u00c3\u00a1g",
+    "name_id": "Swedia",
+    "name_it": "Svezia",
+    "name_ja": "\u00e3\u0082\u00b9\u00e3\u0082\u00a6\u00e3\u0082\u00a7\u00e3\u0083\u00bc\u00e3\u0083\u0087\u00e3\u0083\u00b3",
+    "name_ko": "\u00ec\u008a\u00a4\u00ec\u009b\u00a8\u00eb\u008d\u00b4",
+    "name_len": "6",
+    "name_long": "Sweden",
+    "name_nev": "Sweden",
+    "name_nl": "Zweden",
+    "name_pl": "Szwecja",
+    "name_pt": "Su\u00c3\u00a9cia",
+    "name_ru": "\u00d0\u00a8\u00d0\u00b2\u00d0\u00b5\u00d1\u0086\u00d0\u00b8\u00d1\u008f",
+    "name_sort": "Sweden",
+    "name_sv": "Sverige",
+    "name_tr": "\u00c4\u00b0sve\u00c3\u00a7",
+    "name_vi": "Th\u00e1\u00bb\u00a5y \u00c4\u0090i\u00e1\u00bb\u0083n",
+    "name_zh": "\u00e7\u0091\u009e\u00e5\u0085\u00b8",
+    "ne_id": "1159321287",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "9960487",
+    "pop_rank": "13",
+    "pop_year": "2017",
+    "postal": "S",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "SWE",
+    "sovereignt": "Sweden",
+    "status": "officially-assigned",
+    "su_a3": "SWE",
+    "su_dif": "0",
+    "subunit": "Sweden",
+    "tiny": "-99",
+    "tld": [
+        ".se"
+    ],
+    "translations": {
+        "ces": {
+            "common": "\u0160v\u00e9dsko",
+            "official": "\u0160v\u00e9dsk\u00e9 kr\u00e1lovstv\u00ed"
+        },
+        "deu": {
+            "common": "Schweden",
+            "official": "K\u00f6nigreich Schweden"
+        },
+        "est": {
+            "common": "Rootsi",
+            "official": "Rootsi Kuningriik"
+        },
+        "fin": {
+            "common": "Ruotsi",
+            "official": "Ruotsin kuningaskunta"
+        },
+        "fra": {
+            "common": "Su\u00e8de",
+            "official": "Royaume de Su\u00e8de"
+        },
+        "hrv": {
+            "common": "\u0160vedska",
+            "official": "Kraljevina \u0160vedska"
+        },
+        "hun": {
+            "common": "Sv\u00e9dorsz\u00e1g",
+            "official": "Sv\u00e9d Kir\u00e1lys\u00e1g"
+        },
+        "ita": {
+            "common": "Svezia",
+            "official": "Regno di Svezia"
+        },
+        "jpn": {
+            "common": "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3",
+            "official": "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3\u738b\u56fd"
+        },
+        "kor": {
+            "common": "\uc2a4\uc6e8\ub374",
+            "official": "\uc2a4\uc6e8\ub374 \uc655\uad6d"
+        },
+        "nld": {
+            "common": "Zweden",
+            "official": "Koninkrijk Zweden"
+        },
+        "per": {
+            "common": "\u0633\u0648\u0626\u062f",
+            "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0633\u0648\u0626\u062f"
+        },
+        "pol": {
+            "common": "Szwecja",
+            "official": "Kr\u00f3lestwo Szwecji"
+        },
+        "por": {
+            "common": "Su\u00e9cia",
+            "official": "Reino da Su\u00e9cia"
+        },
+        "rus": {
+            "common": "\u0428\u0432\u0435\u0446\u0438\u044f",
+            "official": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0428\u0432\u0435\u0446\u0438\u044f"
+        },
+        "slk": {
+            "common": "\u0160v\u00e9dsko",
+            "official": "\u0160v\u00e9dske kr\u00e1\u013eovstvo"
+        },
+        "spa": {
+            "common": "Suecia",
+            "official": "Reino de Suecia"
+        },
+        "swe": {
+            "common": "Sverige",
+            "official": "Konungariket Sverige"
+        },
+        "urd": {
+            "common": "\u0633\u0648\u06cc\u0688\u0646",
+            "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0633\u0648\u06cc\u0688\u0646"
+        },
+        "zho": {
+            "common": "\u745e\u5178",
+            "official": "\u745e\u5178\u738b\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "752",
+    "un_member": true,
+    "wb_a2": "SE",
+    "wb_a3": "SWE",
+    "wikidataid": "Q34",
+    "wikipedia": "-99",
+    "woe_id": "23424954",
+    "woe_id_eh": "23424954",
+    "woe_note": "Exact WOE match as country"
+}

@@ -1,0 +1,321 @@
+{
+    "abbrev": "Uga.",
+    "abbrev_len": "4",
+    "adm0_a3": "UGA",
+    "adm0_a3_is": "UGA",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "UGA",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Uganda",
+    "alt_spellings": [
+        "UG",
+        "Republic of Uganda",
+        "Jamhuri ya Uganda"
+    ],
+    "borders": [
+        "COD",
+        "KEN",
+        "RWA",
+        "SSD",
+        "TZA"
+    ],
+    "brk_a3": "UGA",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Uganda",
+    "calling_codes": [
+        "+256"
+    ],
+    "capital": [
+        "Kampala"
+    ],
+    "capital_rinvex": "Kampala",
+    "cca2": "UG",
+    "cca3": "UGA",
+    "ccn3": "800",
+    "cioc": "UGA",
+    "currencies": [
+        "UGX"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Ugandan",
+    "demonyms": {
+        "eng": {
+            "f": "Ugandan",
+            "m": "Ugandan"
+        },
+        "fra": {
+            "f": "Ougandaise",
+            "m": "Ougandais"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "256"
+        ],
+        "international_prefix": "000",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            9
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "7. Least developed region",
+    "extra": {
+        "address_format": null,
+        "ar5": "MAF",
+        "cowc": "UGA",
+        "cown": 500,
+        "ds": "EAU",
+        "edgar": "W9",
+        "emoji": "\ud83c\uddfa\ud83c\uddec",
+        "eu_member": null,
+        "fao": 226,
+        "fifa": "UGA",
+        "fips": "UG",
+        "gaul": 253,
+        "geonameid": 226074,
+        "imf": 746,
+        "ioc": "UGA",
+        "itu": "UGA",
+        "marc": "ug",
+        "vat_rates": null,
+        "wmo": "UG"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "UG",
+    "flag": {
+        "emoji": "\ud83c\uddfa\ud83c\uddec"
+    },
+    "formal_en": "Republic of Uganda",
+    "formal_fr": "",
+    "gdp_md_est": "84930.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 241550,
+        "borders": [
+            "COD",
+            "KEN",
+            "RWA",
+            "SSD",
+            "TZA"
+        ],
+        "continent": {
+            "AF": "Africa"
+        },
+        "independent": "Yes",
+        "landlocked": true,
+        "latitude": "1 00 N",
+        "latitude_desc": "1.2773280143737793",
+        "latlng": [
+            1,
+            32
+        ],
+        "longitude": "32 00 E",
+        "longitude_desc": "32.389984130859375",
+        "max_latitude": "4.166667",
+        "max_longitude": "34.95",
+        "min_latitude": "-1.433333",
+        "min_longitude": "29.583333",
+        "postal_code": false,
+        "region": "Africa",
+        "region_code": "002",
+        "region_un": "Africa",
+        "region_wb": "Sub-Saharan Africa",
+        "subregion": "Eastern Africa",
+        "subregion_code": "014",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Uganda",
+    "gu_a3": "UGA",
+    "homepart": "1",
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "56"
+        ]
+    },
+    "income_grp": "5. Low income",
+    "independent": true,
+    "iso_3166_1_alpha2": "UG",
+    "iso_3166_1_alpha3": "UGA",
+    "iso_3166_1_numeric": "800",
+    "iso_a2": "UG",
+    "iso_a3": "UGA",
+    "iso_a3_eh": "UGA",
+    "iso_n3": "800",
+    "labelrank": "3",
+    "languages": {
+        "eng": "English",
+        "swa": "Swahili"
+    },
+    "lastcensus": "2002",
+    "level": "2",
+    "long_len": "6",
+    "mapcolor7": "6",
+    "mapcolor8": "3",
+    "mapcolor9": "6",
+    "mapcolor13": "4",
+    "max_label": "8.0",
+    "min_label": "3.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Uganda",
+        "native": {
+            "eng": {
+                "common": "Uganda",
+                "official": "Republic of Uganda"
+            },
+            "swa": {
+                "common": "Uganda",
+                "official": "Republic of Uganda"
+            }
+        },
+        "official": "Republic of Uganda"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00a3\u00d9\u0088\u00d8\u00ba\u00d9\u0086\u00d8\u00af\u00d8\u00a7",
+    "name_bn": "\u00e0\u00a6\u0089\u00e0\u00a6\u0097\u00e0\u00a6\u00be\u00e0\u00a6\u00a8\u00e0\u00a7\u008d\u00e0\u00a6\u00a1\u00e0\u00a6\u00be",
+    "name_ciawf": "Uganda",
+    "name_de": "Uganda",
+    "name_el": "\u00ce\u009f\u00cf\u0085\u00ce\u00b3\u00ce\u00ba\u00ce\u00ac\u00ce\u00bd\u00cf\u0084\u00ce\u00b1",
+    "name_en": "Uganda",
+    "name_es": "Uganda",
+    "name_fr": "Ouganda",
+    "name_hi": "\u00e0\u00a4\u00af\u00e0\u00a5\u0081\u00e0\u00a4\u0097\u00e0\u00a4\u00be\u00e0\u00a4\u00a3\u00e0\u00a5\u008d\u00e0\u00a4\u00a1\u00e0\u00a4\u00be",
+    "name_hu": "Uganda",
+    "name_id": "Uganda",
+    "name_it": "Uganda",
+    "name_ja": "\u00e3\u0082\u00a6\u00e3\u0082\u00ac\u00e3\u0083\u00b3\u00e3\u0083\u0080",
+    "name_ko": "\u00ec\u009a\u00b0\u00ea\u00b0\u0084\u00eb\u008b\u00a4",
+    "name_len": "6",
+    "name_long": "Uganda",
+    "name_nev": "Uganda",
+    "name_nl": "Oeganda",
+    "name_pl": "Uganda",
+    "name_pt": "Uganda",
+    "name_ru": "\u00d0\u00a3\u00d0\u00b3\u00d0\u00b0\u00d0\u00bd\u00d0\u00b4\u00d0\u00b0",
+    "name_sort": "Uganda",
+    "name_sv": "Uganda",
+    "name_tr": "Uganda",
+    "name_vi": "Uganda",
+    "name_zh": "\u00e4\u00b9\u008c\u00e5\u00b9\u00b2\u00e8\u00be\u00be",
+    "ne_id": "1159321343",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "39570125",
+    "pop_rank": "15",
+    "pop_year": "2017",
+    "postal": "UG",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "UGA",
+    "sovereignt": "Uganda",
+    "status": "officially-assigned",
+    "su_a3": "UGA",
+    "su_dif": "0",
+    "subunit": "Uganda",
+    "tiny": "-99",
+    "tld": [
+        ".ug"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Uganda",
+            "official": "Ugandsk\u00e1 republika"
+        },
+        "deu": {
+            "common": "Uganda",
+            "official": "Republik Uganda"
+        },
+        "est": {
+            "common": "Uganda",
+            "official": "Uganda Vabariik"
+        },
+        "fin": {
+            "common": "Uganda",
+            "official": "Ugandan tasavalta"
+        },
+        "fra": {
+            "common": "Ouganda",
+            "official": "R\u00e9publique de l'Ouganda"
+        },
+        "hrv": {
+            "common": "Uganda",
+            "official": "Republika Uganda"
+        },
+        "hun": {
+            "common": "Uganda",
+            "official": "Ugandai K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Uganda",
+            "official": "Repubblica di Uganda"
+        },
+        "jpn": {
+            "common": "\u30a6\u30ac\u30f3\u30c0",
+            "official": "\u30a6\u30ac\u30f3\u30c0\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\uc6b0\uac04\ub2e4",
+            "official": "\uc6b0\uac04\ub2e4 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Oeganda",
+            "official": "Republiek Uganda"
+        },
+        "per": {
+            "common": "\u0627\u0648\u06af\u0627\u0646\u062f\u0627",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0648\u06af\u0627\u0646\u062f\u0627"
+        },
+        "pol": {
+            "common": "Uganda",
+            "official": "Republika Ugandy"
+        },
+        "por": {
+            "common": "Uganda",
+            "official": "Rep\u00fablica do Uganda"
+        },
+        "rus": {
+            "common": "\u0423\u0433\u0430\u043d\u0434\u0430",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0423\u0433\u0430\u043d\u0434\u0430"
+        },
+        "slk": {
+            "common": "Uganda",
+            "official": "Ugandsk\u00e1 republika"
+        },
+        "spa": {
+            "common": "Uganda",
+            "official": "Rep\u00fablica de Uganda"
+        },
+        "swe": {
+            "common": "Uganda",
+            "official": "Republiken Uganda"
+        },
+        "urd": {
+            "common": "\u06cc\u0648\u06af\u0646\u0688\u0627",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06cc\u0648\u06af\u0646\u0688\u0627"
+        },
+        "zho": {
+            "common": "\u4e4c\u5e72\u8fbe",
+            "official": "\u4e4c\u5e72\u8fbe\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "800",
+    "un_member": true,
+    "wb_a2": "UG",
+    "wb_a3": "UGA",
+    "wikidataid": "Q1036",
+    "wikipedia": "-99",
+    "woe_id": "23424974",
+    "woe_id_eh": "23424974",
+    "woe_note": "Exact WOE match as country"
+}

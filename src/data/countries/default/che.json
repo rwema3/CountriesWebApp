@@ -1,0 +1,337 @@
+{
+    "abbrev": "Switz.",
+    "abbrev_len": "6",
+    "adm0_a3": "CHE",
+    "adm0_a3_is": "CHE",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "CHE",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Switzerland",
+    "alt_spellings": [
+        "CH",
+        "Swiss Confederation",
+        "Schweiz",
+        "Suisse",
+        "Svizzera",
+        "Svizra"
+    ],
+    "borders": [
+        "AUT",
+        "FRA",
+        "ITA",
+        "LIE",
+        "DEU"
+    ],
+    "brk_a3": "CHE",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Switzerland",
+    "calling_codes": [
+        "+41"
+    ],
+    "capital": [
+        "Bern"
+    ],
+    "capital_rinvex": "Bern",
+    "cca2": "CH",
+    "cca3": "CHE",
+    "ccn3": "756",
+    "cioc": "SUI",
+    "currencies": [
+        "CHE",
+        "CHF",
+        "CHW"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Swiss",
+    "demonyms": {
+        "eng": {
+            "f": "Swiss",
+            "m": "Swiss"
+        },
+        "fra": {
+            "f": "Suisse",
+            "m": "Suisse"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "41"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            9,
+            10
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "2. Developed region: nonG7",
+    "extra": {
+        "address_format": "{{recipient}}{{street}}{{postalcode}} {{city}}{{country}}",
+        "ar5": "OECD1990",
+        "cowc": "SWZ",
+        "cown": 225,
+        "ds": "CH",
+        "edgar": "V8",
+        "emoji": "\ud83c\udde8\ud83c\udded",
+        "eu_member": null,
+        "fao": 211,
+        "fifa": "SUI",
+        "fips": "SZ",
+        "gaul": 237,
+        "geonameid": 2658434,
+        "imf": 146,
+        "ioc": "SUI",
+        "itu": "SUI",
+        "marc": "sz",
+        "vat_rates": null,
+        "wmo": "SW"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "SZ",
+    "flag": {
+        "emoji": "\ud83c\udde8\ud83c\udded"
+    },
+    "formal_en": "Swiss Confederation",
+    "formal_fr": "",
+    "gdp_md_est": "496300.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 41284,
+        "borders": [
+            "AUT",
+            "FRA",
+            "ITA",
+            "LIE",
+            "DEU"
+        ],
+        "continent": {
+            "EU": "Europe"
+        },
+        "independent": "Yes",
+        "landlocked": true,
+        "latitude": "47 00 N",
+        "latitude_desc": "46.80379867553711",
+        "latlng": [
+            47,
+            8
+        ],
+        "longitude": "8 00 E",
+        "longitude_desc": "8.222854614257812",
+        "max_latitude": "47.8085",
+        "max_longitude": "10.5",
+        "min_latitude": "45.366667",
+        "min_longitude": "6",
+        "postal_code": true,
+        "region": "Europe",
+        "region_code": "150",
+        "region_un": "Europe",
+        "region_wb": "Europe & Central Asia",
+        "subregion": "Western Europe",
+        "subregion_code": "155",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Switzerland",
+    "gu_a3": "CHE",
+    "homepart": "1",
+    "idd": {
+        "root": "+4",
+        "suffixes": [
+            "1"
+        ]
+    },
+    "income_grp": "1. High income: OECD",
+    "independent": true,
+    "iso_3166_1_alpha2": "CH",
+    "iso_3166_1_alpha3": "CHE",
+    "iso_3166_1_numeric": "756",
+    "iso_a2": "CH",
+    "iso_a3": "CHE",
+    "iso_a3_eh": "CHE",
+    "iso_n3": "756",
+    "labelrank": "4",
+    "languages": {
+        "fra": "French",
+        "gsw": "Swiss German",
+        "ita": "Italian",
+        "roh": "Romansh"
+    },
+    "lastcensus": "2010",
+    "level": "2",
+    "long_len": "11",
+    "mapcolor7": "5",
+    "mapcolor8": "2",
+    "mapcolor9": "7",
+    "mapcolor13": "3",
+    "max_label": "9.0",
+    "min_label": "4.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Switzerland",
+        "native": {
+            "fra": {
+                "common": "Suisse",
+                "official": "Conf\u00e9d\u00e9ration suisse"
+            },
+            "gsw": {
+                "common": "Schweiz",
+                "official": "Schweizerische Eidgenossenschaft"
+            },
+            "ita": {
+                "common": "Svizzera",
+                "official": "Confederazione Svizzera"
+            },
+            "roh": {
+                "common": "Svizra",
+                "official": "Confederaziun svizra"
+            }
+        },
+        "official": "Swiss Confederation"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00b3\u00d9\u0088\u00d9\u008a\u00d8\u00b3\u00d8\u00b1\u00d8\u00a7",
+    "name_bn": "\u00e0\u00a6\u00b8\u00e0\u00a7\u0081\u00e0\u00a6\u0087\u00e0\u00a6\u009c\u00e0\u00a6\u00be\u00e0\u00a6\u00b0\u00e0\u00a6\u00b2\u00e0\u00a7\u008d\u00e0\u00a6\u00af\u00e0\u00a6\u00be\u00e0\u00a6\u00a8\u00e0\u00a7\u008d\u00e0\u00a6\u00a1",
+    "name_ciawf": "Switzerland",
+    "name_de": "Schweiz",
+    "name_el": "\u00ce\u0095\u00ce\u00bb\u00ce\u00b2\u00ce\u00b5\u00cf\u0084\u00ce\u00af\u00ce\u00b1",
+    "name_en": "Switzerland",
+    "name_es": "Suiza",
+    "name_fr": "Suisse",
+    "name_hi": "\u00e0\u00a4\u00b8\u00e0\u00a5\u008d\u00e0\u00a4\u00b5\u00e0\u00a4\u00bf\u00e0\u00a4\u009f\u00e0\u00a5\u008d\u00e0\u00a4\u009c\u00e0\u00a4\u00bc\u00e0\u00a4\u00b0\u00e0\u00a4\u00b2\u00e0\u00a5\u0088\u00e0\u00a4\u00a3\u00e0\u00a5\u008d\u00e0\u00a4\u00a1",
+    "name_hu": "Sv\u00c3\u00a1jc",
+    "name_id": "Swiss",
+    "name_it": "Svizzera",
+    "name_ja": "\u00e3\u0082\u00b9\u00e3\u0082\u00a4\u00e3\u0082\u00b9",
+    "name_ko": "\u00ec\u008a\u00a4\u00ec\u009c\u0084\u00ec\u008a\u00a4",
+    "name_len": "11",
+    "name_long": "Switzerland",
+    "name_nev": "Switzerland",
+    "name_nl": "Zwitserland",
+    "name_pl": "Szwajcaria",
+    "name_pt": "Su\u00c3\u00ad\u00c3\u00a7a",
+    "name_ru": "\u00d0\u00a8\u00d0\u00b2\u00d0\u00b5\u00d0\u00b9\u00d1\u0086\u00d0\u00b0\u00d1\u0080\u00d0\u00b8\u00d1\u008f",
+    "name_sort": "Switzerland",
+    "name_sv": "Schweiz",
+    "name_tr": "\u00c4\u00b0svi\u00c3\u00a7re",
+    "name_vi": "Th\u00e1\u00bb\u00a5y S\u00c4\u00a9",
+    "name_zh": "\u00e7\u0091\u009e\u00e5\u00a3\u00ab",
+    "ne_id": "1159320491",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "8236303",
+    "pop_rank": "13",
+    "pop_year": "2017",
+    "postal": "CH",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "CHE",
+    "sovereignt": "Switzerland",
+    "status": "officially-assigned",
+    "su_a3": "CHE",
+    "su_dif": "0",
+    "subunit": "Switzerland",
+    "tiny": "-99",
+    "tld": [
+        ".ch"
+    ],
+    "translations": {
+        "ces": {
+            "common": "\u0160v\u00fdcarsko",
+            "official": "\u0160v\u00fdcarsk\u00e1 konfederace"
+        },
+        "deu": {
+            "common": "Schweiz",
+            "official": "Schweizerische Eidgenossenschaft"
+        },
+        "est": {
+            "common": "\u0160veits",
+            "official": "\u0160veitsi Konf\u00f6deratsioon"
+        },
+        "fin": {
+            "common": "Sveitsi",
+            "official": "Sveitsin valaliitto"
+        },
+        "fra": {
+            "common": "Suisse",
+            "official": "Conf\u00e9d\u00e9ration suisse"
+        },
+        "hrv": {
+            "common": "\u0160vicarska",
+            "official": "\u0161vicarska Konfederacija"
+        },
+        "hun": {
+            "common": "Sv\u00e1jc",
+            "official": "Sv\u00e1jc"
+        },
+        "ita": {
+            "common": "Svizzera",
+            "official": "Confederazione svizzera"
+        },
+        "jpn": {
+            "common": "\u30b9\u30a4\u30b9",
+            "official": "\u30b9\u30a4\u30b9\u9023\u90a6"
+        },
+        "kor": {
+            "common": "\uc2a4\uc704\uc2a4",
+            "official": "\uc2a4\uc704\uc2a4 \uc5f0\ubc29"
+        },
+        "nld": {
+            "common": "Zwitserland",
+            "official": "Zwitserse Confederatie"
+        },
+        "per": {
+            "common": "\u0633\u0648\u0626\u06cc\u0633",
+            "official": "\u06a9\u0646\u0641\u062f\u0631\u0627\u0633\u06cc\u0648\u0646 \u0633\u0648\u0626\u06cc\u0633"
+        },
+        "pol": {
+            "common": "Szwajcaria",
+            "official": "Konfederacja Szwajcarska"
+        },
+        "por": {
+            "common": "Su\u00ed\u00e7a",
+            "official": "Confedera\u00e7\u00e3o Su\u00ed\u00e7a"
+        },
+        "rus": {
+            "common": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f",
+            "official": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043a\u0430\u044f \u041a\u043e\u043d\u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f"
+        },
+        "slk": {
+            "common": "\u0160vaj\u010diarsko",
+            "official": "\u0160vaj\u010diarska konfeder\u00e1cia"
+        },
+        "spa": {
+            "common": "Suiza",
+            "official": "Confederaci\u00f3n Suiza"
+        },
+        "swe": {
+            "common": "Schweiz",
+            "official": "Schweiziska edsf\u00f6rbundet"
+        },
+        "urd": {
+            "common": "\u0633\u0648\u06cc\u0679\u0630\u0631\u0644\u06cc\u0646\u0688",
+            "official": "\u0633\u0648\u0626\u06cc\u0633  \u0645\u062a\u062d\u062f\u06c1"
+        },
+        "zho": {
+            "common": "\u745e\u58eb",
+            "official": "\u745e\u58eb\u8054\u90a6"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "756",
+    "un_member": true,
+    "wb_a2": "CH",
+    "wb_a3": "CHE",
+    "wikidataid": "Q39",
+    "wikipedia": "-99",
+    "woe_id": "23424957",
+    "woe_id_eh": "23424957",
+    "woe_note": "Exact WOE match as country"
+}

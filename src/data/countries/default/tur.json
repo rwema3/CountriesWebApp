@@ -1,0 +1,323 @@
+{
+    "abbrev": "Tur.",
+    "abbrev_len": "4",
+    "adm0_a3": "TUR",
+    "adm0_a3_is": "TUR",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "TUR",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Turkey",
+    "alt_spellings": [
+        "TR",
+        "Turkiye",
+        "Republic of Turkey",
+        "T\u00fcrkiye Cumhuriyeti"
+    ],
+    "borders": [
+        "ARM",
+        "AZE",
+        "BGR",
+        "GEO",
+        "GRC",
+        "IRN",
+        "IRQ",
+        "SYR"
+    ],
+    "brk_a3": "TUR",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Turkey",
+    "calling_codes": [
+        "+90"
+    ],
+    "capital": [
+        "Ankara"
+    ],
+    "capital_rinvex": "Ankara",
+    "cca2": "TR",
+    "cca3": "TUR",
+    "ccn3": "792",
+    "cioc": "TUR",
+    "currencies": [
+        "TRY"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Turkish",
+    "demonyms": {
+        "eng": {
+            "f": "Turkish",
+            "m": "Turkish"
+        },
+        "fra": {
+            "f": "Turque",
+            "m": "Turc"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "90"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            10
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "4. Emerging region: MIKT",
+    "extra": {
+        "address_format": "{{recipient}}{{street}}{{postalcode}} {{city}}{{country}}",
+        "ar5": "OECD1990",
+        "cowc": "TUR",
+        "cown": 640,
+        "ds": "TR",
+        "edgar": "W8",
+        "emoji": "\ud83c\uddf9\ud83c\uddf7",
+        "eu_member": null,
+        "fao": 223,
+        "fifa": "TUR",
+        "fips": "TU",
+        "gaul": 249,
+        "geonameid": 298795,
+        "imf": 186,
+        "ioc": "TUR",
+        "itu": "TUR",
+        "marc": "tu",
+        "vat_rates": null,
+        "wmo": "TU"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "TU",
+    "flag": {
+        "emoji": "\ud83c\uddf9\ud83c\uddf7"
+    },
+    "formal_en": "Republic of Turkey",
+    "formal_fr": "",
+    "gdp_md_est": "1670000.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 783562,
+        "borders": [
+            "ARM",
+            "AZE",
+            "BGR",
+            "GEO",
+            "GRC",
+            "IRN",
+            "IRQ",
+            "SYR"
+        ],
+        "continent": {
+            "AS": "Asia"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "39 00 N",
+        "latitude_desc": "39.05101013183594",
+        "latlng": [
+            39,
+            35
+        ],
+        "longitude": "35 00 E",
+        "longitude_desc": "34.93033981323242",
+        "max_latitude": "42.1",
+        "max_longitude": "44.8",
+        "min_latitude": "35.819444",
+        "min_longitude": "25",
+        "postal_code": true,
+        "region": "Asia",
+        "region_code": "142",
+        "region_un": "Asia",
+        "region_wb": "Europe & Central Asia",
+        "subregion": "Western Asia",
+        "subregion_code": "145",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Turkey",
+    "gu_a3": "TUR",
+    "homepart": "1",
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "0"
+        ]
+    },
+    "income_grp": "3. Upper middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "TR",
+    "iso_3166_1_alpha3": "TUR",
+    "iso_3166_1_numeric": "792",
+    "iso_a2": "TR",
+    "iso_a3": "TUR",
+    "iso_a3_eh": "TUR",
+    "iso_n3": "792",
+    "labelrank": "2",
+    "languages": {
+        "tur": "Turkish"
+    },
+    "lastcensus": "2000",
+    "level": "2",
+    "long_len": "6",
+    "mapcolor7": "6",
+    "mapcolor8": "3",
+    "mapcolor9": "8",
+    "mapcolor13": "4",
+    "max_label": "7.0",
+    "min_label": "2.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Turkey",
+        "native": {
+            "tur": {
+                "common": "T\u00fcrkiye",
+                "official": "T\u00fcrkiye Cumhuriyeti"
+            }
+        },
+        "official": "Republic of Turkey"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00aa\u00d8\u00b1\u00d9\u0083\u00d9\u008a\u00d8\u00a7",
+    "name_bn": "\u00e0\u00a6\u00a4\u00e0\u00a7\u0081\u00e0\u00a6\u00b0\u00e0\u00a6\u00b8\u00e0\u00a7\u008d\u00e0\u00a6\u0095",
+    "name_ciawf": "Turkey",
+    "name_de": "T\u00c3\u00bcrkei",
+    "name_el": "\u00ce\u00a4\u00ce\u00bf\u00cf\u0085\u00cf\u0081\u00ce\u00ba\u00ce\u00af\u00ce\u00b1",
+    "name_en": "Turkey",
+    "name_es": "Turqu\u00c3\u00ada",
+    "name_fr": "Turquie",
+    "name_hi": "\u00e0\u00a4\u00a4\u00e0\u00a5\u0081\u00e0\u00a4\u00b0\u00e0\u00a5\u008d\u00e0\u00a4\u0095\u00e0\u00a5\u0080",
+    "name_hu": "T\u00c3\u00b6r\u00c3\u00b6korsz\u00c3\u00a1g",
+    "name_id": "Turki",
+    "name_it": "Turchia",
+    "name_ja": "\u00e3\u0083\u0088\u00e3\u0083\u00ab\u00e3\u0082\u00b3",
+    "name_ko": "\u00ed\u0084\u00b0\u00ed\u0082\u00a4",
+    "name_len": "6",
+    "name_long": "Turkey",
+    "name_nev": "Turkey",
+    "name_nl": "Turkije",
+    "name_pl": "Turcja",
+    "name_pt": "Turquia",
+    "name_ru": "\u00d0\u00a2\u00d1\u0083\u00d1\u0080\u00d1\u0086\u00d0\u00b8\u00d1\u008f",
+    "name_sort": "Turkey",
+    "name_sv": "Turkiet",
+    "name_tr": "T\u00c3\u00bcrkiye",
+    "name_vi": "Th\u00e1\u00bb\u0095 Nh\u00c4\u00a9 K\u00e1\u00bb\u00b3",
+    "name_zh": "\u00e5\u009c\u009f\u00e8\u0080\u00b3\u00e5\u0085\u00b6",
+    "ne_id": "1159321331",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "80845215",
+    "pop_rank": "16",
+    "pop_year": "2017",
+    "postal": "TR",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "TUR",
+    "sovereignt": "Turkey",
+    "status": "officially-assigned",
+    "su_a3": "TUR",
+    "su_dif": "0",
+    "subunit": "Turkey",
+    "tiny": "-99",
+    "tld": [
+        ".tr"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Turecko",
+            "official": "Tureck\u00e1 republika"
+        },
+        "deu": {
+            "common": "T\u00fcrkei",
+            "official": "Republik T\u00fcrkei"
+        },
+        "est": {
+            "common": "T\u00fcrgi",
+            "official": "T\u00fcrgi Vabariik"
+        },
+        "fin": {
+            "common": "Turkki",
+            "official": "Turkin tasavalta"
+        },
+        "fra": {
+            "common": "Turquie",
+            "official": "R\u00e9publique de Turquie"
+        },
+        "hrv": {
+            "common": "Turska",
+            "official": "Republika Turska"
+        },
+        "hun": {
+            "common": "T\u00f6r\u00f6korsz\u00e1g",
+            "official": "T\u00f6r\u00f6k K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Turchia",
+            "official": "Repubblica di Turchia"
+        },
+        "jpn": {
+            "common": "\u30c8\u30eb\u30b3",
+            "official": "\u30c8\u30eb\u30b3\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\ud130\ud0a4",
+            "official": "\ud130\ud0a4 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Turkije",
+            "official": "Republiek Turkije"
+        },
+        "per": {
+            "common": "\u062a\u0631\u06a9\u06cc\u0647",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0631\u06a9\u06cc\u0647"
+        },
+        "pol": {
+            "common": "Turcja",
+            "official": "Republika Turcji"
+        },
+        "por": {
+            "common": "Turquia",
+            "official": "Rep\u00fablica da Turquia"
+        },
+        "rus": {
+            "common": "\u0422\u0443\u0440\u0446\u0438\u044f",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0443\u0440\u0446\u0438\u0438"
+        },
+        "slk": {
+            "common": "Turecko",
+            "official": "Tureck\u00e1 republika"
+        },
+        "spa": {
+            "common": "Turqu\u00eda",
+            "official": "Rep\u00fablica de Turqu\u00eda"
+        },
+        "swe": {
+            "common": "Turkiet",
+            "official": "Republiken Turkiet"
+        },
+        "urd": {
+            "common": "\u062a\u0631\u06a9\u06cc",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0631\u06a9\u06cc"
+        },
+        "zho": {
+            "common": "\u571f\u8033\u5176",
+            "official": "\u571f\u8033\u5176\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "792",
+    "un_member": true,
+    "wb_a2": "TR",
+    "wb_a3": "TUR",
+    "wikidataid": "Q43",
+    "wikipedia": "-99",
+    "woe_id": "23424969",
+    "woe_id_eh": "23424969",
+    "woe_note": "Exact WOE match as country"
+}

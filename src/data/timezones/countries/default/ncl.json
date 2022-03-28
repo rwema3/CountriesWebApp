@@ -1,0 +1,17 @@
+{
+    "pacific_noumea": {
+        "abbreviations": [
+            "LMT",
+            "NCT"
+        ],
+        "cca2": "NC",
+        "cca3": "NCL",
+        "country_code": "NC",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "272",
+        "zone_name": "Pacific\/Noumea"
+    }
+}

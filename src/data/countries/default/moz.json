@@ -1,0 +1,319 @@
+{
+    "abbrev": "Moz.",
+    "abbrev_len": "4",
+    "adm0_a3": "MOZ",
+    "adm0_a3_is": "MOZ",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "MOZ",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Mozambique",
+    "alt_spellings": [
+        "MZ",
+        "Republic of Mozambique",
+        "Rep\u00fablica de Mo\u00e7ambique"
+    ],
+    "borders": [
+        "MWI",
+        "ZAF",
+        "SWZ",
+        "TZA",
+        "ZMB",
+        "ZWE"
+    ],
+    "brk_a3": "MOZ",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Mozambique",
+    "calling_codes": [
+        "+258"
+    ],
+    "capital": [
+        "Maputo"
+    ],
+    "capital_rinvex": "Maputo",
+    "cca2": "MZ",
+    "cca3": "MOZ",
+    "ccn3": "508",
+    "cioc": "MOZ",
+    "currencies": [
+        "MZN"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Mozambican",
+    "demonyms": {
+        "eng": {
+            "f": "Mozambican",
+            "m": "Mozambican"
+        },
+        "fra": {
+            "f": "Mozambicaine",
+            "m": "Mozambicain"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "258"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            8,
+            9
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "7. Least developed region",
+    "extra": {
+        "address_format": null,
+        "ar5": "MAF",
+        "cowc": "MZM",
+        "cown": 541,
+        "ds": "MOC",
+        "edgar": "P3",
+        "emoji": "\ud83c\uddf2\ud83c\uddff",
+        "eu_member": null,
+        "fao": 144,
+        "fifa": "MOZ",
+        "fips": "MZ",
+        "gaul": 170,
+        "geonameid": 1036973,
+        "imf": 688,
+        "ioc": "MOZ",
+        "itu": "MOZ",
+        "marc": "mz",
+        "vat_rates": null,
+        "wmo": "MZ"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "MZ",
+    "flag": {
+        "emoji": "\ud83c\uddf2\ud83c\uddff"
+    },
+    "formal_en": "Republic of Mozambique",
+    "formal_fr": "",
+    "gdp_md_est": "35010.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 801590,
+        "borders": [
+            "MWI",
+            "ZAF",
+            "SWZ",
+            "TZA",
+            "ZMB",
+            "ZWE"
+        ],
+        "continent": {
+            "AF": "Africa"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "18 15 S",
+        "latitude_desc": "-17.555864334106445",
+        "latlng": [
+            -18.25,
+            35
+        ],
+        "longitude": "35 00 E",
+        "longitude_desc": "35.955692291259766",
+        "max_latitude": "15.033333",
+        "max_longitude": "40.845278",
+        "min_latitude": "-26.857222",
+        "min_longitude": "30.231389",
+        "postal_code": true,
+        "region": "Africa",
+        "region_code": "002",
+        "region_un": "Africa",
+        "region_wb": "Sub-Saharan Africa",
+        "subregion": "Eastern Africa",
+        "subregion_code": "014",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Mozambique",
+    "gu_a3": "MOZ",
+    "homepart": "1",
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "58"
+        ]
+    },
+    "income_grp": "5. Low income",
+    "independent": true,
+    "iso_3166_1_alpha2": "MZ",
+    "iso_3166_1_alpha3": "MOZ",
+    "iso_3166_1_numeric": "508",
+    "iso_a2": "MZ",
+    "iso_a3": "MOZ",
+    "iso_a3_eh": "MOZ",
+    "iso_n3": "508",
+    "labelrank": "3",
+    "languages": {
+        "por": "Portuguese"
+    },
+    "lastcensus": "2007",
+    "level": "2",
+    "long_len": "10",
+    "mapcolor7": "4",
+    "mapcolor8": "2",
+    "mapcolor9": "1",
+    "mapcolor13": "4",
+    "max_label": "8.0",
+    "min_label": "3.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Mozambique",
+        "native": {
+            "por": {
+                "common": "Mo\u00e7ambique",
+                "official": "Rep\u00fablica de Mo\u00e7ambique"
+            }
+        },
+        "official": "Republic of Mozambique"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d9\u0085\u00d9\u0088\u00d8\u00b2\u00d9\u0085\u00d8\u00a8\u00d9\u008a\u00d9\u0082",
+    "name_bn": "\u00e0\u00a6\u00ae\u00e0\u00a7\u008b\u00e0\u00a6\u009c\u00e0\u00a6\u00be\u00e0\u00a6\u00ae\u00e0\u00a7\u008d\u00e0\u00a6\u00ac\u00e0\u00a6\u00bf\u00e0\u00a6\u0095",
+    "name_ciawf": "Mozambique",
+    "name_de": "Mosambik",
+    "name_el": "\u00ce\u009c\u00ce\u00bf\u00ce\u00b6\u00ce\u00b1\u00ce\u00bc\u00ce\u00b2\u00ce\u00af\u00ce\u00ba\u00ce\u00b7",
+    "name_en": "Mozambique",
+    "name_es": "Mozambique",
+    "name_fr": "Mozambique",
+    "name_hi": "\u00e0\u00a4\u00ae\u00e0\u00a5\u008b\u00e0\u00a4\u009c\u00e0\u00a4\u00bc\u00e0\u00a4\u00be\u00e0\u00a4\u00ae\u00e0\u00a5\u008d\u00e0\u00a4\u00ac\u00e0\u00a5\u0080\u00e0\u00a4\u0095",
+    "name_hu": "Mozambik",
+    "name_id": "Mozambik",
+    "name_it": "Mozambico",
+    "name_ja": "\u00e3\u0083\u00a2\u00e3\u0082\u00b6\u00e3\u0083\u00b3\u00e3\u0083\u0093\u00e3\u0083\u00bc\u00e3\u0082\u00af",
+    "name_ko": "\u00eb\u00aa\u00a8\u00ec\u009e\u00a0\u00eb\u00b9\u0084\u00ed\u0081\u00ac",
+    "name_len": "10",
+    "name_long": "Mozambique",
+    "name_nev": "Mozambique",
+    "name_nl": "Mozambique",
+    "name_pl": "Mozambik",
+    "name_pt": "Mo\u00c3\u00a7ambique",
+    "name_ru": "\u00d0\u009c\u00d0\u00be\u00d0\u00b7\u00d0\u00b0\u00d0\u00bc\u00d0\u00b1\u00d0\u00b8\u00d0\u00ba",
+    "name_sort": "Mozambique",
+    "name_sv": "Mo\u00c3\u00a7ambique",
+    "name_tr": "Mozambik",
+    "name_vi": "Mozambique",
+    "name_zh": "\u00e8\u008e\u00ab\u00e6\u00a1\u0091\u00e6\u00af\u0094\u00e5\u0085\u008b",
+    "ne_id": "1159321073",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "26573706",
+    "pop_rank": "15",
+    "pop_year": "2017",
+    "postal": "MZ",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "MOZ",
+    "sovereignt": "Mozambique",
+    "status": "officially-assigned",
+    "su_a3": "MOZ",
+    "su_dif": "0",
+    "subunit": "Mozambique",
+    "tiny": "-99",
+    "tld": [
+        ".mz"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Mosambik",
+            "official": "Mosambick\u00e1 republika"
+        },
+        "deu": {
+            "common": "Mosambik",
+            "official": "Republik Mosambik"
+        },
+        "est": {
+            "common": "Mosambiik",
+            "official": "Mosambiigi Vabariik"
+        },
+        "fin": {
+            "common": "Mosambik",
+            "official": "Mosambikin tasavalta"
+        },
+        "fra": {
+            "common": "Mozambique",
+            "official": "R\u00e9publique du Mozambique"
+        },
+        "hrv": {
+            "common": "Mozambik",
+            "official": "Republika Mozambiku"
+        },
+        "hun": {
+            "common": "Mozambik",
+            "official": "Mozambiki K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Mozambico",
+            "official": "Repubblica del Mozambico"
+        },
+        "jpn": {
+            "common": "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af",
+            "official": "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\ubaa8\uc7a0\ube44\ud06c",
+            "official": "\ubaa8\uc7a0\ube44\ud06c \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Mozambique",
+            "official": "Republiek Mozambique"
+        },
+        "per": {
+            "common": "\u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9"
+        },
+        "pol": {
+            "common": "Mozambik",
+            "official": "Republika Mozambiku"
+        },
+        "por": {
+            "common": "Mo\u00e7ambique",
+            "official": "Rep\u00fablica de Mo\u00e7ambique"
+        },
+        "rus": {
+            "common": "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a"
+        },
+        "slk": {
+            "common": "Mozambik",
+            "official": "Mozambick\u00e1 republika"
+        },
+        "spa": {
+            "common": "Mozambique",
+            "official": "Rep\u00fablica de Mozambique"
+        },
+        "swe": {
+            "common": "Mo\u00e7ambique",
+            "official": "Republiken Mo\u00e7ambique"
+        },
+        "urd": {
+            "common": "\u0645\u0648\u0632\u0645\u0628\u06cc\u0642",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0632\u0645\u0628\u06cc\u0642"
+        },
+        "zho": {
+            "common": "\u83ab\u6851\u6bd4\u514b",
+            "official": "\u83ab\u6851\u6bd4\u514b\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "508",
+    "un_member": true,
+    "wb_a2": "MZ",
+    "wb_a3": "MOZ",
+    "wikidataid": "Q1029",
+    "wikipedia": "-99",
+    "woe_id": "23424902",
+    "woe_id_eh": "23424902",
+    "woe_note": "Exact WOE match as country"
+}

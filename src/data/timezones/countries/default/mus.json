@@ -1,0 +1,17 @@
+{
+    "indian_mauritius": {
+        "abbreviations": [
+            "LMT",
+            "MUT"
+        ],
+        "cca2": "MU",
+        "cca3": "MUS",
+        "country_code": "MU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "254",
+        "zone_name": "Indian\/Mauritius"
+    }
+}

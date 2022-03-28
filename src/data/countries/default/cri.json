@@ -1,0 +1,314 @@
+{
+    "abbrev": "C.R.",
+    "abbrev_len": "4",
+    "adm0_a3": "CRI",
+    "adm0_a3_is": "CRI",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "CRI",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Costa Rica",
+    "alt_spellings": [
+        "CR",
+        "Republic of Costa Rica",
+        "Rep\u00fablica de Costa Rica"
+    ],
+    "borders": [
+        "NIC",
+        "PAN"
+    ],
+    "brk_a3": "CRI",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Costa Rica",
+    "calling_codes": [
+        "+506"
+    ],
+    "capital": [
+        "San Jos\u00e9"
+    ],
+    "capital_rinvex": "San Jos\u00e9",
+    "cca2": "CR",
+    "cca3": "CRI",
+    "ccn3": "188",
+    "cioc": "CRC",
+    "currencies": [
+        "CRC"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Costa Rican",
+    "demonyms": {
+        "eng": {
+            "f": "Costa Rican",
+            "m": "Costa Rican"
+        },
+        "fra": {
+            "f": "Costaricaine",
+            "m": "Costaricain"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "506"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            8
+        ],
+        "national_prefix": null
+    },
+    "economy": "5. Emerging region: G20",
+    "extra": {
+        "address_format": null,
+        "ar5": "LAM",
+        "cowc": "COS",
+        "cown": 94,
+        "ds": "CR",
+        "edgar": "G2",
+        "emoji": "\ud83c\udde8\ud83c\uddf7",
+        "eu_member": null,
+        "fao": 48,
+        "fifa": "CRC",
+        "fips": "CS",
+        "gaul": 61,
+        "geonameid": 3624060,
+        "imf": 238,
+        "ioc": "CRC",
+        "itu": "CTR",
+        "marc": "cr",
+        "vat_rates": null,
+        "wmo": "CS"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "CS",
+    "flag": {
+        "emoji": "\ud83c\udde8\ud83c\uddf7"
+    },
+    "formal_en": "Republic of Costa Rica",
+    "formal_fr": "",
+    "gdp_md_est": "79260.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 51100,
+        "borders": [
+            "NIC",
+            "PAN"
+        ],
+        "continent": {
+            "NA": "North America"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "10 00 N",
+        "latitude_desc": "9.884991645812988",
+        "latlng": [
+            10,
+            -84
+        ],
+        "longitude": "84 00 W",
+        "longitude_desc": "-84.22723388671875",
+        "max_latitude": "11.216667",
+        "max_longitude": "-82.05",
+        "min_latitude": "5.5",
+        "min_longitude": "-87.1",
+        "postal_code": true,
+        "region": "Americas",
+        "region_code": "019",
+        "region_un": "Americas",
+        "region_wb": "Latin America & Caribbean",
+        "subregion": "Central America",
+        "subregion_code": "013",
+        "world_region": "AMER"
+    },
+    "geou_dif": "0",
+    "geounit": "Costa Rica",
+    "gu_a3": "CRI",
+    "homepart": "1",
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "06"
+        ]
+    },
+    "income_grp": "3. Upper middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "CR",
+    "iso_3166_1_alpha3": "CRI",
+    "iso_3166_1_numeric": "188",
+    "iso_a2": "CR",
+    "iso_a3": "CRI",
+    "iso_a3_eh": "CRI",
+    "iso_n3": "188",
+    "labelrank": "5",
+    "languages": {
+        "spa": "Spanish"
+    },
+    "lastcensus": "2011",
+    "level": "2",
+    "long_len": "10",
+    "mapcolor7": "3",
+    "mapcolor8": "2",
+    "mapcolor9": "4",
+    "mapcolor13": "2",
+    "max_label": "8.0",
+    "min_label": "3.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Costa Rica",
+        "native": {
+            "spa": {
+                "common": "Costa Rica",
+                "official": "Rep\u00fablica de Costa Rica"
+            }
+        },
+        "official": "Republic of Costa Rica"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d9\u0083\u00d9\u0088\u00d8\u00b3\u00d8\u00aa\u00d8\u00a7\u00d8\u00b1\u00d9\u008a\u00d9\u0083\u00d8\u00a7",
+    "name_bn": "\u00e0\u00a6\u0095\u00e0\u00a7\u008b\u00e0\u00a6\u00b8\u00e0\u00a7\u008d\u00e0\u00a6\u009f\u00e0\u00a6\u00be \u00e0\u00a6\u00b0\u00e0\u00a6\u00bf\u00e0\u00a6\u0095\u00e0\u00a6\u00be",
+    "name_ciawf": "Costa Rica",
+    "name_de": "Costa Rica",
+    "name_el": "\u00ce\u009a\u00cf\u008c\u00cf\u0083\u00cf\u0084\u00ce\u00b1 \u00ce\u00a1\u00ce\u00af\u00ce\u00ba\u00ce\u00b1",
+    "name_en": "Costa Rica",
+    "name_es": "Costa Rica",
+    "name_fr": "Costa Rica",
+    "name_hi": "\u00e0\u00a4\u0095\u00e0\u00a5\u008b\u00e0\u00a4\u00b8\u00e0\u00a5\u008d\u00e0\u00a4\u009f\u00e0\u00a4\u00be \u00e0\u00a4\u00b0\u00e0\u00a5\u0080\u00e0\u00a4\u0095\u00e0\u00a4\u00be",
+    "name_hu": "Costa Rica",
+    "name_id": "Kosta Rika",
+    "name_it": "Costa Rica",
+    "name_ja": "\u00e3\u0082\u00b3\u00e3\u0082\u00b9\u00e3\u0082\u00bf\u00e3\u0083\u00aa\u00e3\u0082\u00ab",
+    "name_ko": "\u00ec\u00bd\u0094\u00ec\u008a\u00a4\u00ed\u0083\u0080\u00eb\u00a6\u00ac\u00ec\u00b9\u00b4",
+    "name_len": "10",
+    "name_long": "Costa Rica",
+    "name_nev": "Costa Rica",
+    "name_nl": "Costa Rica",
+    "name_pl": "Kostaryka",
+    "name_pt": "Costa Rica",
+    "name_ru": "\u00d0\u009a\u00d0\u00be\u00d1\u0081\u00d1\u0082\u00d0\u00b0-\u00d0\u00a0\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0",
+    "name_sort": "Costa Rica",
+    "name_sv": "Costa Rica",
+    "name_tr": "Kosta Rika",
+    "name_vi": "Costa Rica",
+    "name_zh": "\u00e5\u0093\u00a5\u00e6\u0096\u00af\u00e8\u00be\u00be\u00e9\u00bb\u008e\u00e5\u008a\u00a0",
+    "ne_id": "1159320525",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "4930258",
+    "pop_rank": "12",
+    "pop_year": "2017",
+    "postal": "CR",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "CRI",
+    "sovereignt": "Costa Rica",
+    "status": "officially-assigned",
+    "su_a3": "CRI",
+    "su_dif": "0",
+    "subunit": "Costa Rica",
+    "tiny": "-99",
+    "tld": [
+        ".cr"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Kostarika",
+            "official": "Kostarick\u00e1 republika"
+        },
+        "cym": {
+            "common": "Costa Rica",
+            "official": "Republic of Costa Rica"
+        },
+        "deu": {
+            "common": "Costa Rica",
+            "official": "Republik Costa Rica"
+        },
+        "est": {
+            "common": "Costa Rica",
+            "official": "Costa Rica Vabariik"
+        },
+        "fin": {
+            "common": "Costa Rica",
+            "official": "Costa Rican tasavalta"
+        },
+        "fra": {
+            "common": "Costa Rica",
+            "official": "R\u00e9publique du Costa Rica"
+        },
+        "hrv": {
+            "common": "Kostarika",
+            "official": "Republika Kostarika"
+        },
+        "hun": {
+            "common": "Costa Rica",
+            "official": "Costa Rica-i K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Costa Rica",
+            "official": "Repubblica di Costa Rica"
+        },
+        "jpn": {
+            "common": "\u30b3\u30b9\u30bf\u30ea\u30ab",
+            "official": "\u30b3\u30b9\u30bf\u30ea\u30ab\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\ucf54\uc2a4\ud0c0\ub9ac\uce74",
+            "official": "\ucf54\uc2a4\ud0c0\ub9ac\uce74 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Costa Rica",
+            "official": "Republiek Costa Rica"
+        },
+        "per": {
+            "common": "\u06a9\u0627\u0633\u062a\u0627\u0631\u06cc\u06a9\u0627",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0627\u0633\u062a\u0627\u0631\u06cc\u06a9\u0627"
+        },
+        "pol": {
+            "common": "Kostaryka",
+            "official": "Republika Kostaryki"
+        },
+        "por": {
+            "common": "Costa Rica",
+            "official": "Rep\u00fablica da Costa Rica"
+        },
+        "rus": {
+            "common": "\u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430"
+        },
+        "slk": {
+            "common": "Kostarika",
+            "official": "Kostarick\u00e1 republika"
+        },
+        "spa": {
+            "common": "Costa Rica",
+            "official": "Rep\u00fablica de Costa Rica"
+        },
+        "swe": {
+            "common": "Costa Rica",
+            "official": "Republiken Costa Rica"
+        },
+        "urd": {
+            "common": "\u06a9\u0648\u0633\u0679\u0627\u0631\u06cc\u06a9\u0627",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0633\u0679\u0627\u0631\u06cc\u06a9\u0627"
+        },
+        "zho": {
+            "common": "\u54e5\u65af\u8fbe\u9ece\u52a0",
+            "official": "\u54e5\u65af\u8fbe\u9ece\u52a0\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "188",
+    "un_member": true,
+    "wb_a2": "CR",
+    "wb_a3": "CRI",
+    "wikidataid": "Q800",
+    "wikipedia": "-99",
+    "woe_id": "23424791",
+    "woe_id_eh": "23424791",
+    "woe_note": "Exact WOE match as country"
+}

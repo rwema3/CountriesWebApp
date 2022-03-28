@@ -1,0 +1,42 @@
+{
+    "1": {
+        "abbreviation": "DDUT",
+        "dst": "0",
+        "gmt_offset": "36000",
+        "time_start": "-725846400",
+        "zone_id": "11"
+    },
+    "2": {
+        "abbreviation": "DDUT",
+        "dst": "0",
+        "gmt_offset": "36000",
+        "time_start": "-566992801",
+        "zone_id": "11"
+    },
+    "3": {
+        "abbreviation": "DDUT",
+        "dst": "0",
+        "gmt_offset": "0",
+        "time_start": "-566992800",
+        "zone_id": "11"
+    },
+    "4": {
+        "abbreviation": "DDUT",
+        "dst": "0",
+        "gmt_offset": "0",
+        "time_start": "-415497601",
+        "zone_id": "11"
+    },
+    "5": {
+        "abbreviation": "DDUT",
+        "dst": "0",
+        "gmt_offset": "36000",
+        "time_start": "-415497600",
+        "zone_id": "11"
+    },
+    "abbreviation": "DDUT",
+    "dst": "0",
+    "gmt_offset": "0",
+    "time_start": "-725846401",
+    "zone_id": "11"
+}

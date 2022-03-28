@@ -1,0 +1,326 @@
+{
+    "abbrev": "Arg.",
+    "abbrev_len": "4",
+    "adm0_a3": "ARG",
+    "adm0_a3_is": "ARG",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "ARG",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Argentina",
+    "alt_spellings": [
+        "AR",
+        "Argentine Republic",
+        "Rep\u00fablica Argentina"
+    ],
+    "borders": [
+        "BOL",
+        "BRA",
+        "CHL",
+        "PRY",
+        "URY"
+    ],
+    "brk_a3": "ARG",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Argentina",
+    "calling_codes": [
+        "+54"
+    ],
+    "capital": [
+        "Buenos Aires"
+    ],
+    "capital_rinvex": "Buenos Aires",
+    "cca2": "AR",
+    "cca3": "ARG",
+    "ccn3": "032",
+    "cioc": "ARG",
+    "currencies": [
+        "ARS"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Argentinean",
+    "demonyms": {
+        "eng": {
+            "f": "Argentine",
+            "m": "Argentine"
+        },
+        "fra": {
+            "f": "Argentine",
+            "m": "Argentin"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "54"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            8,
+            9
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "5. Emerging region: G20",
+    "extra": {
+        "address_format": "{{recipient}}{{street}}{{postalcode}} {{city}}{{region}}{{country}}",
+        "ar5": "LAM",
+        "cowc": "ARG",
+        "cown": 160,
+        "ds": "RA",
+        "edgar": "C1",
+        "emoji": "\ud83c\udde6\ud83c\uddf7",
+        "eu_member": null,
+        "fao": 9,
+        "fifa": "ARG",
+        "fips": "AR",
+        "gaul": 12,
+        "geonameid": 3865483,
+        "imf": 213,
+        "ioc": "ARG",
+        "itu": "ARG",
+        "marc": "ag",
+        "vat_rates": null,
+        "wmo": "AG"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "AR",
+    "flag": {
+        "emoji": "\ud83c\udde6\ud83c\uddf7"
+    },
+    "formal_en": "Argentine Republic",
+    "formal_fr": "",
+    "gdp_md_est": "879400.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 2780400,
+        "borders": [
+            "BOL",
+            "BRA",
+            "CHL",
+            "PRY",
+            "URY"
+        ],
+        "continent": {
+            "SA": "South America"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "34 00 S",
+        "latitude_desc": "-37.071964263916016",
+        "latlng": [
+            -34,
+            -64
+        ],
+        "longitude": "64 00 W",
+        "longitude_desc": "-64.85450744628906",
+        "max_latitude": "-21.783333",
+        "max_longitude": "-53.65",
+        "min_latitude": "-58.116667",
+        "min_longitude": "-73.533333",
+        "postal_code": true,
+        "region": "Americas",
+        "region_code": "019",
+        "region_un": "Americas",
+        "region_wb": "Latin America & Caribbean",
+        "subregion": "South America",
+        "subregion_code": "005",
+        "world_region": "AMER"
+    },
+    "geou_dif": "0",
+    "geounit": "Argentina",
+    "gu_a3": "ARG",
+    "homepart": "1",
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "4"
+        ]
+    },
+    "income_grp": "3. Upper middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "AR",
+    "iso_3166_1_alpha3": "ARG",
+    "iso_3166_1_numeric": "032",
+    "iso_a2": "AR",
+    "iso_a3": "ARG",
+    "iso_a3_eh": "ARG",
+    "iso_n3": "032",
+    "labelrank": "2",
+    "languages": {
+        "grn": "Guaran\u00ed",
+        "spa": "Spanish"
+    },
+    "lastcensus": "2010",
+    "level": "2",
+    "long_len": "9",
+    "mapcolor7": "3",
+    "mapcolor8": "1",
+    "mapcolor9": "3",
+    "mapcolor13": "13",
+    "max_label": "7.0",
+    "min_label": "2.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Argentina",
+        "native": {
+            "grn": {
+                "common": "Argentina",
+                "official": "Argentine Republic"
+            },
+            "spa": {
+                "common": "Argentina",
+                "official": "Rep\u00fablica Argentina"
+            }
+        },
+        "official": "Argentine Republic"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00a7\u00d9\u0084\u00d8\u00a3\u00d8\u00b1\u00d8\u00ac\u00d9\u0086\u00d8\u00aa\u00d9\u008a\u00d9\u0086",
+    "name_bn": "\u00e0\u00a6\u0086\u00e0\u00a6\u00b0\u00e0\u00a7\u008d\u00e0\u00a6\u009c\u00e0\u00a7\u0087\u00e0\u00a6\u00a8\u00e0\u00a7\u008d\u00e0\u00a6\u009f\u00e0\u00a6\u00bf\u00e0\u00a6\u00a8\u00e0\u00a6\u00be",
+    "name_ciawf": "Argentina",
+    "name_de": "Argentinien",
+    "name_el": "\u00ce\u0091\u00cf\u0081\u00ce\u00b3\u00ce\u00b5\u00ce\u00bd\u00cf\u0084\u00ce\u00b9\u00ce\u00bd\u00ce\u00ae",
+    "name_en": "Argentina",
+    "name_es": "Argentina",
+    "name_fr": "Argentine",
+    "name_hi": "\u00e0\u00a4\u0085\u00e0\u00a4\u00b0\u00e0\u00a5\u008d\u00e0\u00a4\u009c\u00e0\u00a5\u0087\u00e0\u00a4\u00a3\u00e0\u00a5\u008d\u00e0\u00a4\u009f\u00e0\u00a5\u0080\u00e0\u00a4\u00a8\u00e0\u00a4\u00be",
+    "name_hu": "Argent\u00c3\u00adna",
+    "name_id": "Argentina",
+    "name_it": "Argentina",
+    "name_ja": "\u00e3\u0082\u00a2\u00e3\u0083\u00ab\u00e3\u0082\u00bc\u00e3\u0083\u00b3\u00e3\u0083\u0081\u00e3\u0083\u00b3",
+    "name_ko": "\u00ec\u0095\u0084\u00eb\u00a5\u00b4\u00ed\u0097\u00a8\u00ed\u008b\u00b0\u00eb\u0082\u0098",
+    "name_len": "9",
+    "name_long": "Argentina",
+    "name_nev": "Argentina",
+    "name_nl": "Argentini\u00c3\u00ab",
+    "name_pl": "Argentyna",
+    "name_pt": "Argentina",
+    "name_ru": "\u00d0\u0090\u00d1\u0080\u00d0\u00b3\u00d0\u00b5\u00d0\u00bd\u00d1\u0082\u00d0\u00b8\u00d0\u00bd\u00d0\u00b0",
+    "name_sort": "Argentina",
+    "name_sv": "Argentina",
+    "name_tr": "Arjantin",
+    "name_vi": "Argentina",
+    "name_zh": "\u00e9\u0098\u00bf\u00e6\u00a0\u00b9\u00e5\u00bb\u00b7",
+    "ne_id": "1159320331",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "44293293",
+    "pop_rank": "15",
+    "pop_year": "2017",
+    "postal": "AR",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "ARG",
+    "sovereignt": "Argentina",
+    "status": "officially-assigned",
+    "su_a3": "ARG",
+    "su_dif": "0",
+    "subunit": "Argentina",
+    "tiny": "-99",
+    "tld": [
+        ".ar"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Argentina",
+            "official": "Argentinsk\u00e1 republika"
+        },
+        "cym": {
+            "common": "Ariannin",
+            "official": "Argentine Republic"
+        },
+        "deu": {
+            "common": "Argentinien",
+            "official": "Argentinische Republik"
+        },
+        "est": {
+            "common": "Argentina",
+            "official": "Argentina Vabariik"
+        },
+        "fin": {
+            "common": "Argentiina",
+            "official": "Argentiinan tasavalta"
+        },
+        "fra": {
+            "common": "Argentine",
+            "official": "R\u00e9publique argentine"
+        },
+        "hrv": {
+            "common": "Argentina",
+            "official": "Argentinski Republika"
+        },
+        "hun": {
+            "common": "Argent\u00edna",
+            "official": "Argentin K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Argentina",
+            "official": "Repubblica Argentina"
+        },
+        "jpn": {
+            "common": "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3",
+            "official": "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\uc544\ub974\ud5e8\ud2f0\ub098",
+            "official": "\uc544\ub974\ud5e8\ud2f0\ub098 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Argentini\u00eb",
+            "official": "Argentijnse Republiek"
+        },
+        "per": {
+            "common": "\u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646"
+        },
+        "pol": {
+            "common": "Argentyna",
+            "official": "Republika Argenty\u0144ska"
+        },
+        "por": {
+            "common": "Argentina",
+            "official": "Rep\u00fablica Argentina"
+        },
+        "rus": {
+            "common": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430",
+            "official": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        },
+        "slk": {
+            "common": "Argent\u00edna",
+            "official": "Argent\u00ednska republika"
+        },
+        "spa": {
+            "common": "Argentina",
+            "official": "Rep\u00fablica Argentina"
+        },
+        "swe": {
+            "common": "Argentina",
+            "official": "Republiken Argentina"
+        },
+        "urd": {
+            "common": "\u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646"
+        },
+        "zho": {
+            "common": "\u963f\u6839\u5ef7",
+            "official": "\u963f\u6839\u5ef7\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "032",
+    "un_member": true,
+    "wb_a2": "AR",
+    "wb_a3": "ARG",
+    "wikidataid": "Q414",
+    "wikipedia": "-99",
+    "woe_id": "23424747",
+    "woe_id_eh": "23424747",
+    "woe_note": "Exact WOE match as country"
+}

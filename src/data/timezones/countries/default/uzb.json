@@ -1,0 +1,32 @@
+{
+    "asia_samarkand": {
+        "abbreviations": [
+            "LMT",
+            "UZT"
+        ],
+        "cca2": "UZ",
+        "cca3": "UZB",
+        "country_code": "UZ",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "410",
+        "zone_name": "Asia\/Samarkand"
+    },
+    "asia_tashkent": {
+        "abbreviations": [
+            "LMT",
+            "UZT"
+        ],
+        "cca2": "UZ",
+        "cca3": "UZB",
+        "country_code": "UZ",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "411",
+        "zone_name": "Asia\/Tashkent"
+    }
+}

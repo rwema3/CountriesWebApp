@@ -1,0 +1,318 @@
+{
+    "abbrev": "Gin.",
+    "abbrev_len": "4",
+    "adm0_a3": "GIN",
+    "adm0_a3_is": "GIN",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "GIN",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Guinea",
+    "alt_spellings": [
+        "GN",
+        "Republic of Guinea",
+        "R\u00e9publique de Guin\u00e9e"
+    ],
+    "borders": [
+        "CIV",
+        "GNB",
+        "LBR",
+        "MLI",
+        "SEN",
+        "SLE"
+    ],
+    "brk_a3": "GIN",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Guinea",
+    "calling_codes": [
+        "+224"
+    ],
+    "capital": [
+        "Conakry"
+    ],
+    "capital_rinvex": "Conakry",
+    "cca2": "GN",
+    "cca3": "GIN",
+    "ccn3": "324",
+    "cioc": "GUI",
+    "currencies": [
+        "GNF"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Guinean",
+    "demonyms": {
+        "eng": {
+            "f": "Guinean",
+            "m": "Guinean"
+        },
+        "fra": {
+            "f": "Guin\u00e9enne",
+            "m": "Guin\u00e9en"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "224"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            8
+        ],
+        "national_prefix": null
+    },
+    "economy": "7. Least developed region",
+    "extra": {
+        "address_format": null,
+        "ar5": "MAF",
+        "cowc": "GUI",
+        "cown": 438,
+        "ds": "RG",
+        "edgar": "J9",
+        "emoji": "\ud83c\uddec\ud83c\uddf3",
+        "eu_member": null,
+        "fao": 90,
+        "fifa": "GUI",
+        "fips": "GV",
+        "gaul": 106,
+        "geonameid": 2420477,
+        "imf": 656,
+        "ioc": "GUI",
+        "itu": "GUI",
+        "marc": "gv",
+        "vat_rates": null,
+        "wmo": "GN"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "GV",
+    "flag": {
+        "emoji": "\ud83c\uddec\ud83c\uddf3"
+    },
+    "formal_en": "Republic of Guinea",
+    "formal_fr": "",
+    "gdp_md_est": "16080.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 245857,
+        "borders": [
+            "CIV",
+            "GNB",
+            "LBR",
+            "MLI",
+            "SEN",
+            "SLE"
+        ],
+        "continent": {
+            "AF": "Africa"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "11 00 N",
+        "latitude_desc": "10.429302215576172",
+        "latlng": [
+            11,
+            -10
+        ],
+        "longitude": "10 00 W",
+        "longitude_desc": "-10.98954963684082",
+        "max_latitude": "12.633333",
+        "max_longitude": "-4",
+        "min_latitude": "7",
+        "min_longitude": "-15.366667",
+        "postal_code": false,
+        "region": "Africa",
+        "region_code": "002",
+        "region_un": "Africa",
+        "region_wb": "Sub-Saharan Africa",
+        "subregion": "Western Africa",
+        "subregion_code": "011",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Guinea",
+    "gu_a3": "GIN",
+    "homepart": "1",
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "24"
+        ]
+    },
+    "income_grp": "5. Low income",
+    "independent": true,
+    "iso_3166_1_alpha2": "GN",
+    "iso_3166_1_alpha3": "GIN",
+    "iso_3166_1_numeric": "324",
+    "iso_a2": "GN",
+    "iso_a3": "GIN",
+    "iso_a3_eh": "GIN",
+    "iso_n3": "324",
+    "labelrank": "3",
+    "languages": {
+        "fra": "French"
+    },
+    "lastcensus": "1996",
+    "level": "2",
+    "long_len": "6",
+    "mapcolor7": "6",
+    "mapcolor8": "3",
+    "mapcolor9": "7",
+    "mapcolor13": "2",
+    "max_label": "8.0",
+    "min_label": "3.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Guinea",
+        "native": {
+            "fra": {
+                "common": "Guin\u00e9e",
+                "official": "R\u00e9publique de Guin\u00e9e"
+            }
+        },
+        "official": "Republic of Guinea"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00ba\u00d9\u008a\u00d9\u0086\u00d9\u008a\u00d8\u00a7",
+    "name_bn": "\u00e0\u00a6\u0097\u00e0\u00a6\u00bf\u00e0\u00a6\u00a8\u00e0\u00a6\u00bf",
+    "name_ciawf": "Guinea",
+    "name_de": "Guinea",
+    "name_el": "\u00ce\u0093\u00ce\u00bf\u00cf\u0085\u00ce\u00b9\u00ce\u00bd\u00ce\u00ad\u00ce\u00b1",
+    "name_en": "Guinea",
+    "name_es": "Guinea",
+    "name_fr": "Guin\u00c3\u00a9e",
+    "name_hi": "\u00e0\u00a4\u0097\u00e0\u00a4\u00bf\u00e0\u00a4\u00a8\u00e0\u00a5\u0080",
+    "name_hu": "Guinea",
+    "name_id": "Guinea",
+    "name_it": "Guinea",
+    "name_ja": "\u00e3\u0082\u00ae\u00e3\u0083\u008b\u00e3\u0082\u00a2",
+    "name_ko": "\u00ea\u00b8\u00b0\u00eb\u008b\u0088",
+    "name_len": "6",
+    "name_long": "Guinea",
+    "name_nev": "Guinea",
+    "name_nl": "Guinee",
+    "name_pl": "Gwinea",
+    "name_pt": "Guin\u00c3\u00a9",
+    "name_ru": "\u00d0\u0093\u00d0\u00b2\u00d0\u00b8\u00d0\u00bd\u00d0\u00b5\u00d1\u008f",
+    "name_sort": "Guinea",
+    "name_sv": "Guinea",
+    "name_tr": "Gine",
+    "name_vi": "Guin\u00c3\u00a9e",
+    "name_zh": "\u00e5\u0087\u00a0\u00e5\u0086\u0085\u00e4\u00ba\u009a",
+    "ne_id": "1159320795",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "12413867",
+    "pop_rank": "14",
+    "pop_year": "2017",
+    "postal": "GN",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "GIN",
+    "sovereignt": "Guinea",
+    "status": "officially-assigned",
+    "su_a3": "GIN",
+    "su_dif": "0",
+    "subunit": "Guinea",
+    "tiny": "-99",
+    "tld": [
+        ".gn"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Guinea",
+            "official": "Guinejsk\u00e1 republika"
+        },
+        "deu": {
+            "common": "Guinea",
+            "official": "Republik Guinea"
+        },
+        "est": {
+            "common": "Guinea",
+            "official": "Guinea Vabariik"
+        },
+        "fin": {
+            "common": "Guinea",
+            "official": "Guinean tasavalta"
+        },
+        "fra": {
+            "common": "Guin\u00e9e",
+            "official": "R\u00e9publique de Guin\u00e9e"
+        },
+        "hrv": {
+            "common": "Gvineja",
+            "official": "Republika Gvineja"
+        },
+        "hun": {
+            "common": "Guinea",
+            "official": "Guineai K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Guinea",
+            "official": "Repubblica di Guinea"
+        },
+        "jpn": {
+            "common": "\u30ae\u30cb\u30a2",
+            "official": "\u30ae\u30cb\u30a2\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\uae30\ub2c8",
+            "official": "\uae30\ub2c8 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Guinee",
+            "official": "Republiek Guinee"
+        },
+        "per": {
+            "common": "\u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647 \u0646\u0648",
+            "official": "\u0645\u0645\u0644\u06a9\u062a \u0645\u0633\u062a\u0642\u0644 \u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647 \u0646\u0648"
+        },
+        "pol": {
+            "common": "Gwinea",
+            "official": "Republika Gwinei"
+        },
+        "por": {
+            "common": "Guin\u00e9",
+            "official": "Rep\u00fablica da Guin\u00e9"
+        },
+        "rus": {
+            "common": "\u0413\u0432\u0438\u043d\u0435\u044f",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0432\u0438\u043d\u0435\u044f"
+        },
+        "slk": {
+            "common": "Guinea",
+            "official": "Guinejsk\u00e1 republika"
+        },
+        "spa": {
+            "common": "Guinea",
+            "official": "Rep\u00fablica de Guinea"
+        },
+        "swe": {
+            "common": "Guinea",
+            "official": "Republiken Guinea"
+        },
+        "urd": {
+            "common": "\u06af\u0646\u06cc",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u0646\u06cc"
+        },
+        "zho": {
+            "common": "\u51e0\u5185\u4e9a",
+            "official": "\u51e0\u5185\u4e9a\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "324",
+    "un_member": true,
+    "wb_a2": "GN",
+    "wb_a3": "GIN",
+    "wikidataid": "Q1006",
+    "wikipedia": "-99",
+    "woe_id": "23424835",
+    "woe_id_eh": "23424835",
+    "woe_note": "Exact WOE match as country"
+}

@@ -1,0 +1,309 @@
+{
+    "abbrev": "D'inca",
+    "abbrev_len": "6",
+    "adm0_a3": "DMA",
+    "adm0_a3_is": "DMA",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "DMA",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Dominica",
+    "alt_spellings": [
+        "DM",
+        "Dominique",
+        "Wai\u2018tu kubuli",
+        "Commonwealth of Dominica"
+    ],
+    "borders": [],
+    "brk_a3": "DMA",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Dominica",
+    "calling_codes": [
+        "+1767"
+    ],
+    "capital": [
+        "Roseau"
+    ],
+    "capital_rinvex": "Roseau",
+    "cca2": "DM",
+    "cca3": "DMA",
+    "ccn3": "212",
+    "cioc": "DMA",
+    "currencies": [
+        "XCD"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Dominican",
+    "demonyms": {
+        "eng": {
+            "f": "Dominican",
+            "m": "Dominican"
+        },
+        "fra": {
+            "f": "Dominiquaise",
+            "m": "Dominiquais"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "1767"
+        ],
+        "international_prefix": "011",
+        "national_destination_code_lengths": [
+            3
+        ],
+        "national_number_lengths": [
+            10
+        ],
+        "national_prefix": "1"
+    },
+    "economy": "6. Developing region",
+    "extra": {
+        "address_format": null,
+        "ar5": "LAM",
+        "cowc": "DMA",
+        "cown": 54,
+        "ds": "WD",
+        "edgar": "G9",
+        "emoji": "\ud83c\udde9\ud83c\uddf2",
+        "eu_member": null,
+        "fao": 55,
+        "fifa": "DMA",
+        "fips": "DO",
+        "gaul": 71,
+        "geonameid": 3575830,
+        "imf": 321,
+        "ioc": "DMA",
+        "itu": "DMA",
+        "marc": "dq",
+        "vat_rates": null,
+        "wmo": "DO"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "DO",
+    "flag": {
+        "emoji": "\ud83c\udde9\ud83c\uddf2"
+    },
+    "formal_en": "Commonwealth of Dominica",
+    "formal_fr": "",
+    "gdp_md_est": "812.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 751,
+        "borders": [],
+        "continent": {
+            "NA": "North America"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "15 25 N",
+        "latitude_desc": "15.3991060256958",
+        "latlng": [
+            15.41666666,
+            -61.33333333
+        ],
+        "longitude": "61 20 W",
+        "longitude_desc": "-61.33945846557617",
+        "max_latitude": "15.633333",
+        "max_longitude": "-61.25",
+        "min_latitude": "15.2",
+        "min_longitude": "-61.483333",
+        "postal_code": false,
+        "region": "Americas",
+        "region_code": "019",
+        "region_un": "Americas",
+        "region_wb": "Latin America & Caribbean",
+        "subregion": "Caribbean",
+        "subregion_code": "029",
+        "world_region": "AMER"
+    },
+    "geou_dif": "0",
+    "geounit": "Dominica",
+    "gu_a3": "DMA",
+    "homepart": "1",
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "767"
+        ]
+    },
+    "income_grp": "3. Upper middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "DM",
+    "iso_3166_1_alpha3": "DMA",
+    "iso_3166_1_numeric": "212",
+    "iso_a2": "DM",
+    "iso_a3": "DMA",
+    "iso_a3_eh": "DMA",
+    "iso_n3": "212",
+    "labelrank": "6",
+    "languages": {
+        "eng": "English"
+    },
+    "lastcensus": "2011",
+    "level": "2",
+    "long_len": "8",
+    "mapcolor7": "4",
+    "mapcolor8": "5",
+    "mapcolor9": "2",
+    "mapcolor13": "12",
+    "max_label": "9.0",
+    "min_label": "4.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Dominica",
+        "native": {
+            "eng": {
+                "common": "Dominica",
+                "official": "Commonwealth of Dominica"
+            }
+        },
+        "official": "Commonwealth of Dominica"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00af\u00d9\u0088\u00d9\u0085\u00d9\u008a\u00d9\u0086\u00d9\u008a\u00d9\u0083\u00d8\u00a7",
+    "name_bn": "\u00e0\u00a6\u00a1\u00e0\u00a7\u008b\u00e0\u00a6\u00ae\u00e0\u00a6\u00bf\u00e0\u00a6\u00a8\u00e0\u00a6\u00bf\u00e0\u00a6\u0095\u00e0\u00a6\u00be",
+    "name_ciawf": "Dominica",
+    "name_de": "Dominica",
+    "name_el": "\u00ce\u0094\u00ce\u00bf\u00ce\u00bc\u00ce\u00b9\u00ce\u00bd\u00ce\u00af\u00ce\u00ba\u00ce\u00b1",
+    "name_en": "Dominica",
+    "name_es": "Dominica",
+    "name_fr": "Dominique",
+    "name_hi": "\u00e0\u00a4\u00a1\u00e0\u00a5\u008b\u00e0\u00a4\u00ae\u00e0\u00a4\u00bf\u00e0\u00a4\u00a8\u00e0\u00a4\u00bf\u00e0\u00a4\u0095\u00e0\u00a4\u00be",
+    "name_hu": "Dominikai K\u00c3\u00b6z\u00c3\u00b6ss\u00c3\u00a9g",
+    "name_id": "Dominika",
+    "name_it": "Dominica",
+    "name_ja": "\u00e3\u0083\u0089\u00e3\u0083\u009f\u00e3\u0083\u008b\u00e3\u0082\u00ab\u00e5\u009b\u00bd",
+    "name_ko": "\u00eb\u008f\u0084\u00eb\u00af\u00b8\u00eb\u008b\u0088\u00ec\u00b9\u00b4 \u00ec\u0097\u00b0\u00eb\u00b0\u00a9",
+    "name_len": "8",
+    "name_long": "Dominica",
+    "name_nev": "Dominica",
+    "name_nl": "Dominica",
+    "name_pl": "Dominika",
+    "name_pt": "Dominica",
+    "name_ru": "\u00d0\u0094\u00d0\u00be\u00d0\u00bc\u00d0\u00b8\u00d0\u00bd\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0",
+    "name_sort": "Dominica",
+    "name_sv": "Dominica",
+    "name_tr": "Dominika",
+    "name_vi": "Dominica",
+    "name_zh": "\u00e5\u00a4\u009a\u00e7\u00b1\u00b3\u00e5\u00b0\u00bc\u00e5\u0085\u008b",
+    "ne_id": "1159320543",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "73897",
+    "pop_rank": "8",
+    "pop_year": "2017",
+    "postal": "DM",
+    "record_type": "country",
+    "scalerank": "3",
+    "sov_a3": "DMA",
+    "sovereignt": "Dominica",
+    "status": "officially-assigned",
+    "su_a3": "DMA",
+    "su_dif": "0",
+    "subunit": "Dominica",
+    "tiny": "4",
+    "tld": [
+        ".dm"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Dominika",
+            "official": "Dominik\u00e1nsk\u00e9 spole\u010denstv\u00ed"
+        },
+        "cym": {
+            "common": "Dominica",
+            "official": "Commonwealth of Dominica"
+        },
+        "deu": {
+            "common": "Dominica",
+            "official": "Commonwealth von Dominica"
+        },
+        "est": {
+            "common": "Dominica",
+            "official": "Dominica \u00dchendus"
+        },
+        "fin": {
+            "common": "Dominica",
+            "official": "Dominican liittovaltio"
+        },
+        "fra": {
+            "common": "Dominique",
+            "official": "Commonwealth de la Dominique"
+        },
+        "hrv": {
+            "common": "Dominika",
+            "official": "Zajednica Dominika"
+        },
+        "hun": {
+            "common": "Dominikai K\u00f6z\u00f6ss\u00e9g",
+            "official": "Dominikai K\u00f6z\u00f6ss\u00e9g"
+        },
+        "ita": {
+            "common": "Dominica",
+            "official": "Commonwealth di Dominica"
+        },
+        "jpn": {
+            "common": "\u30c9\u30df\u30cb\u30ab\u56fd",
+            "official": "\u30c9\u30df\u30cb\u30ab\u56fd"
+        },
+        "kor": {
+            "common": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d",
+            "official": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Dominica",
+            "official": "Gemenebest Dominica"
+        },
+        "per": {
+            "common": "\u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627",
+            "official": "\u0642\u0644\u0645\u0631\u0648 \u0647\u0645\u0633\u0648\u062f \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+        },
+        "pol": {
+            "common": "Dominika",
+            "official": "Wsp\u00f3lnota Dominiki"
+        },
+        "por": {
+            "common": "Dominica",
+            "official": "Comunidade da Dominica"
+        },
+        "rus": {
+            "common": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430",
+            "official": "\u0421\u043e\u0434\u0440\u0443\u0436\u0435\u0441\u0442\u0432\u043e \u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0438"
+        },
+        "slk": {
+            "common": "Dominika",
+            "official": "Dominick\u00e9 spolo\u010denstvo"
+        },
+        "spa": {
+            "common": "Dominica",
+            "official": "Mancomunidad de Dominica"
+        },
+        "swe": {
+            "common": "Dominica",
+            "official": "Samv\u00e4ldet Dominica"
+        },
+        "urd": {
+            "common": "\u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627",
+            "official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+        },
+        "zho": {
+            "common": "\u591a\u7c73\u5c3c\u52a0",
+            "official": "\u591a\u7c73\u5c3c\u52a0\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "212",
+    "un_member": true,
+    "wb_a2": "DM",
+    "wb_a3": "DMA",
+    "wikidataid": "Q784",
+    "wikipedia": "-99",
+    "woe_id": "23424798",
+    "woe_id_eh": "23424798",
+    "woe_note": "Exact WOE match as country"
+}

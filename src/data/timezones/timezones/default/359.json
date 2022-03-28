@@ -1,0 +1,14 @@
+{
+    "1": {
+        "abbreviation": "TFT",
+        "dst": "0",
+        "gmt_offset": "18000",
+        "time_start": "-631152000",
+        "zone_id": "359"
+    },
+    "abbreviation": "TFT",
+    "dst": "0",
+    "gmt_offset": "0",
+    "time_start": "-631152001",
+    "zone_id": "359"
+}

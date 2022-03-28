@@ -1,0 +1,309 @@
+{
+    "abbrev": "M. Is.",
+    "abbrev_len": "6",
+    "adm0_a3": "MHL",
+    "adm0_a3_is": "MHL",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "MHL",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Marshall Islands",
+    "alt_spellings": [
+        "MH",
+        "Republic of the Marshall Islands",
+        "Aolep\u0101n Aor\u014dkin M\u0327aje\u013c"
+    ],
+    "borders": [],
+    "brk_a3": "MHL",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Marshall Is.",
+    "calling_codes": [
+        "+692"
+    ],
+    "capital": [
+        "Majuro"
+    ],
+    "capital_rinvex": "Majuro",
+    "cca2": "MH",
+    "cca3": "MHL",
+    "ccn3": "584",
+    "cioc": "MHL",
+    "currencies": [
+        "USD"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Marshallese",
+    "demonyms": {
+        "eng": {
+            "f": "Marshallese",
+            "m": "Marshallese"
+        },
+        "fra": {
+            "f": "Marshallaise",
+            "m": "Marshallais"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "692"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            7
+        ],
+        "national_prefix": "1"
+    },
+    "economy": "6. Developing region",
+    "extra": {
+        "address_format": null,
+        "ar5": "ASIA",
+        "cowc": "MSI",
+        "cown": 983,
+        "ds": 0,
+        "edgar": "1T",
+        "emoji": "\ud83c\uddf2\ud83c\udded",
+        "eu_member": null,
+        "fao": 127,
+        "fifa": "MHL",
+        "fips": "RM",
+        "gaul": 157,
+        "geonameid": 2080185,
+        "imf": 867,
+        "ioc": "MHL",
+        "itu": "MHL",
+        "marc": "xe",
+        "vat_rates": null,
+        "wmo": "MH"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "RM",
+    "flag": {
+        "emoji": "\ud83c\uddf2\ud83c\udded"
+    },
+    "formal_en": "Republic of the Marshall Islands",
+    "formal_fr": "",
+    "gdp_md_est": "180.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 181,
+        "borders": [],
+        "continent": {
+            "OC": "Oceania"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "9 00 N",
+        "latitude_desc": "7.286207675933838",
+        "latlng": [
+            9,
+            168
+        ],
+        "longitude": "168 00 E",
+        "longitude_desc": "168.75140380859375",
+        "max_latitude": "19.316667",
+        "max_longitude": "172.8",
+        "min_latitude": "4.566667",
+        "min_longitude": "160.8",
+        "postal_code": true,
+        "region": "Oceania",
+        "region_code": "009",
+        "region_un": "Oceania",
+        "region_wb": "East Asia & Pacific",
+        "subregion": "Micronesia",
+        "subregion_code": "057",
+        "world_region": "APAC"
+    },
+    "geou_dif": "0",
+    "geounit": "Marshall Islands",
+    "gu_a3": "MHL",
+    "homepart": "1",
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "92"
+        ]
+    },
+    "income_grp": "4. Lower middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "MH",
+    "iso_3166_1_alpha3": "MHL",
+    "iso_3166_1_numeric": "584",
+    "iso_a2": "MH",
+    "iso_a3": "MHL",
+    "iso_a3_eh": "MHL",
+    "iso_n3": "584",
+    "labelrank": "6",
+    "languages": {
+        "eng": "English",
+        "mah": "Marshallese"
+    },
+    "lastcensus": "2011",
+    "level": "2",
+    "long_len": "16",
+    "mapcolor7": "2",
+    "mapcolor8": "5",
+    "mapcolor9": "5",
+    "mapcolor13": "3",
+    "max_label": "10.0",
+    "min_label": "5.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Marshall Islands",
+        "native": {
+            "eng": {
+                "common": "Marshall Islands",
+                "official": "Republic of the Marshall Islands"
+            },
+            "mah": {
+                "common": "M\u0327aje\u013c",
+                "official": "Republic of the Marshall Islands"
+            }
+        },
+        "official": "Republic of the Marshall Islands"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00ac\u00d8\u00b2\u00d8\u00b1 \u00d9\u0085\u00d8\u00a7\u00d8\u00b1\u00d8\u00b4\u00d8\u00a7\u00d9\u0084",
+    "name_bn": "\u00e0\u00a6\u00ae\u00e0\u00a6\u00be\u00e0\u00a6\u00b0\u00e0\u00a7\u008d\u00e0\u00a6\u00b6\u00e0\u00a6\u00be\u00e0\u00a6\u00b2 \u00e0\u00a6\u00a6\u00e0\u00a7\u008d\u00e0\u00a6\u00ac\u00e0\u00a7\u0080\u00e0\u00a6\u00aa\u00e0\u00a6\u00aa\u00e0\u00a7\u0081\u00e0\u00a6\u009e\u00e0\u00a7\u008d\u00e0\u00a6\u009c",
+    "name_ciawf": "Marshall Islands",
+    "name_de": "Marshallinseln",
+    "name_el": "\u00ce\u009d\u00ce\u00b7\u00cf\u0083\u00ce\u00b9\u00ce\u00ac \u00ce\u009c\u00ce\u00ac\u00cf\u0081\u00cf\u0083\u00ce\u00b1\u00ce\u00bb",
+    "name_en": "Marshall Islands",
+    "name_es": "Islas Marshall",
+    "name_fr": "\u00c3\u00aeles Marshall",
+    "name_hi": "\u00e0\u00a4\u00ae\u00e0\u00a4\u00be\u00e0\u00a4\u00b0\u00e0\u00a5\u008d\u00e0\u00a4\u00b6\u00e0\u00a4\u00b2 \u00e0\u00a4\u00a6\u00e0\u00a5\u008d\u00e0\u00a4\u00b5\u00e0\u00a5\u0080\u00e0\u00a4\u00aa\u00e0\u00a4\u00b8\u00e0\u00a4\u00ae\u00e0\u00a5\u0082\u00e0\u00a4\u00b9",
+    "name_hu": "Marshall-szigetek",
+    "name_id": "Kepulauan Marshall",
+    "name_it": "Isole Marshall",
+    "name_ja": "\u00e3\u0083\u009e\u00e3\u0083\u00bc\u00e3\u0082\u00b7\u00e3\u0083\u00a3\u00e3\u0083\u00ab\u00e8\u00ab\u00b8\u00e5\u00b3\u00b6",
+    "name_ko": "\u00eb\u00a7\u0088\u00ec\u0085\u009c \u00ec\u00a0\u009c\u00eb\u008f\u0084",
+    "name_len": "12",
+    "name_long": "Marshall Islands",
+    "name_nev": "Marshall Is.",
+    "name_nl": "Marshalleilanden",
+    "name_pl": "Wyspy Marshalla",
+    "name_pt": "Ilhas Marshall",
+    "name_ru": "\u00d0\u009c\u00d0\u00b0\u00d1\u0080\u00d1\u0088\u00d0\u00b0\u00d0\u00bb\u00d0\u00bb\u00d0\u00be\u00d0\u00b2\u00d1\u008b \u00d0\u009e\u00d1\u0081\u00d1\u0082\u00d1\u0080\u00d0\u00be\u00d0\u00b2\u00d0\u00b0",
+    "name_sort": "Marshall Islands",
+    "name_sv": "Marshall\u00c3\u00b6arna",
+    "name_tr": "Marshall Adalar\u00c4\u00b1",
+    "name_vi": "Qu\u00e1\u00ba\u00a7n \u00c4\u0091\u00e1\u00ba\u00a3o Marshall",
+    "name_zh": "\u00e9\u00a6\u00ac\u00e7\u00b4\u00b9\u00e7\u0088\u00be\u00e7\u00be\u00a4\u00e5\u00b3\u00b6",
+    "ne_id": "1159321057",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "74539",
+    "pop_rank": "8",
+    "pop_year": "2017",
+    "postal": "MH",
+    "record_type": "country",
+    "scalerank": "6",
+    "sov_a3": "MHL",
+    "sovereignt": "Marshall Islands",
+    "status": "officially-assigned",
+    "su_a3": "MHL",
+    "su_dif": "0",
+    "subunit": "Marshall Islands",
+    "tiny": "2",
+    "tld": [
+        ".mh"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Marshallovy ostrovy",
+            "official": "Republika Marshallovy ostrovy"
+        },
+        "deu": {
+            "common": "Marshallinseln",
+            "official": "Republik der Marshall-Inseln"
+        },
+        "est": {
+            "common": "Marshalli Saared",
+            "official": "Marshalli Saarte Vabariik"
+        },
+        "fin": {
+            "common": "Marshallinsaaret",
+            "official": "Marshallinsaarten tasavalta"
+        },
+        "fra": {
+            "common": "\u00celes Marshall",
+            "official": "R\u00e9publique des \u00celes Marshall"
+        },
+        "hrv": {
+            "common": "Mar\u0161alovi Otoci",
+            "official": "Republika Mar\u0161alovi Otoci"
+        },
+        "hun": {
+            "common": "Marshall-szigetek",
+            "official": "Marshall-szigetek"
+        },
+        "ita": {
+            "common": "Isole Marshall",
+            "official": "Repubblica delle Isole Marshall"
+        },
+        "jpn": {
+            "common": "\u30de\u30fc\u30b7\u30e3\u30eb\u8af8\u5cf6",
+            "official": "\u30de\u30fc\u30b7\u30e3\u30eb\u8af8\u5cf6\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\ub9c8\uc15c \uc81c\ub3c4",
+            "official": "\ub9c8\uc15c \uc81c\ub3c4 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Marshalleilanden",
+            "official": "Republiek van de Marshall-eilanden"
+        },
+        "per": {
+            "common": "\u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u0634\u0627\u0644",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u0634\u0627\u0644"
+        },
+        "pol": {
+            "common": "Wyspy Marshalla",
+            "official": "Republika Wysp Marshalla"
+        },
+        "por": {
+            "common": "Ilhas Marshall",
+            "official": "Rep\u00fablica das Ilhas Marshall"
+        },
+        "rus": {
+            "common": "\u041c\u0430\u0440\u0448\u0430\u043b\u043b\u043e\u0432\u044b \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u0440\u0448\u0430\u043b\u043b\u043e\u0432\u044b \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
+        },
+        "slk": {
+            "common": "Marshallove ostrovy",
+            "official": "Republika Marshallov\u00fdch ostrovov"
+        },
+        "spa": {
+            "common": "Islas Marshall",
+            "official": "Rep\u00fablica de las Islas Marshall"
+        },
+        "swe": {
+            "common": "Marshall\u00f6arna",
+            "official": "Republiken Marshall\u00f6arna"
+        },
+        "urd": {
+            "common": "\u062c\u0632\u0627\u0626\u0631 \u0645\u0627\u0631\u0634\u0644",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0632\u0627\u0626\u0631 \u0645\u0627\u0631\u0634\u0644"
+        },
+        "zho": {
+            "common": "\u9a6c\u7ecd\u5c14\u7fa4\u5c9b",
+            "official": "\u9a6c\u7ecd\u5c14\u7fa4\u5c9b\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "584",
+    "un_member": true,
+    "wb_a2": "MH",
+    "wb_a3": "MHL",
+    "wikidataid": "Q709",
+    "wikipedia": "-99",
+    "woe_id": "23424932",
+    "woe_id_eh": "23424932",
+    "woe_note": "Exact WOE match as country"
+}

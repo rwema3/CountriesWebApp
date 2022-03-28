@@ -1,0 +1,319 @@
+{
+    "abbrev": "Thai.",
+    "abbrev_len": "5",
+    "adm0_a3": "THA",
+    "adm0_a3_is": "THA",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "THA",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Thailand",
+    "alt_spellings": [
+        "TH",
+        "Prathet",
+        "Thai",
+        "Kingdom of Thailand",
+        "\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23\u0e44\u0e17\u0e22",
+        "Ratcha Anachak Thai"
+    ],
+    "borders": [
+        "MMR",
+        "KHM",
+        "LAO",
+        "MYS"
+    ],
+    "brk_a3": "THA",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Thailand",
+    "calling_codes": [
+        "+66"
+    ],
+    "capital": [
+        "Bangkok"
+    ],
+    "capital_rinvex": "Bangkok",
+    "cca2": "TH",
+    "cca3": "THA",
+    "ccn3": "764",
+    "cioc": "THA",
+    "currencies": [
+        "THB"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Thai",
+    "demonyms": {
+        "eng": {
+            "f": "Thai",
+            "m": "Thai"
+        },
+        "fra": {
+            "f": "Tha\u00eflandaise",
+            "m": "Tha\u00eflandais"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "66"
+        ],
+        "international_prefix": "001",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            9,
+            10
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "5. Emerging region: G20",
+    "extra": {
+        "address_format": null,
+        "ar5": "ASIA",
+        "cowc": "THI",
+        "cown": 800,
+        "ds": "T",
+        "edgar": "W1",
+        "emoji": "\ud83c\uddf9\ud83c\udded",
+        "eu_member": null,
+        "fao": 216,
+        "fifa": "THA",
+        "fips": "TH",
+        "gaul": 240,
+        "geonameid": 1605651,
+        "imf": 578,
+        "ioc": "THA",
+        "itu": "THA",
+        "marc": "th",
+        "vat_rates": null,
+        "wmo": "TH"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "TH",
+    "flag": {
+        "emoji": "\ud83c\uddf9\ud83c\udded"
+    },
+    "formal_en": "Kingdom of Thailand",
+    "formal_fr": "",
+    "gdp_md_est": "1161000.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 513120,
+        "borders": [
+            "MMR",
+            "KHM",
+            "LAO",
+            "MYS"
+        ],
+        "continent": {
+            "AS": "Asia"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "15 00 N",
+        "latitude_desc": "14.48458194732666",
+        "latlng": [
+            15,
+            100
+        ],
+        "longitude": "100 00 E",
+        "longitude_desc": "100.85191345214844",
+        "max_latitude": "20.442778",
+        "max_longitude": "105.766667",
+        "min_latitude": "5.616667",
+        "min_longitude": "97.366667",
+        "postal_code": true,
+        "region": "Asia",
+        "region_code": "142",
+        "region_un": "Asia",
+        "region_wb": "East Asia & Pacific",
+        "subregion": "South-Eastern Asia",
+        "subregion_code": "035",
+        "world_region": "APAC"
+    },
+    "geou_dif": "0",
+    "geounit": "Thailand",
+    "gu_a3": "THA",
+    "homepart": "1",
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "6"
+        ]
+    },
+    "income_grp": "3. Upper middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "TH",
+    "iso_3166_1_alpha3": "THA",
+    "iso_3166_1_numeric": "764",
+    "iso_a2": "TH",
+    "iso_a3": "THA",
+    "iso_a3_eh": "THA",
+    "iso_n3": "764",
+    "labelrank": "3",
+    "languages": {
+        "tha": "Thai"
+    },
+    "lastcensus": "2010",
+    "level": "2",
+    "long_len": "8",
+    "mapcolor7": "3",
+    "mapcolor8": "6",
+    "mapcolor9": "8",
+    "mapcolor13": "1",
+    "max_label": "8.0",
+    "min_label": "3.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Thailand",
+        "native": {
+            "tha": {
+                "common": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+                "official": "\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23\u0e44\u0e17\u0e22"
+            }
+        },
+        "official": "Kingdom of Thailand"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00aa\u00d8\u00a7\u00d9\u008a\u00d9\u0084\u00d8\u00a7\u00d9\u0086\u00d8\u00af",
+    "name_bn": "\u00e0\u00a6\u00a5\u00e0\u00a6\u00be\u00e0\u00a6\u0087\u00e0\u00a6\u00b2\u00e0\u00a7\u008d\u00e0\u00a6\u00af\u00e0\u00a6\u00be\u00e0\u00a6\u00a8\u00e0\u00a7\u008d\u00e0\u00a6\u00a1",
+    "name_ciawf": "Thailand",
+    "name_de": "Thailand",
+    "name_el": "\u00ce\u00a4\u00ce\u00b1\u00cf\u008a\u00ce\u00bb\u00ce\u00ac\u00ce\u00bd\u00ce\u00b4\u00ce\u00b7",
+    "name_en": "Thailand",
+    "name_es": "Tailandia",
+    "name_fr": "Tha\u00c3\u00aflande",
+    "name_hi": "\u00e0\u00a4\u00a5\u00e0\u00a4\u00be\u00e0\u00a4\u0088\u00e0\u00a4\u00b2\u00e0\u00a5\u0088\u00e0\u00a4\u00a3\u00e0\u00a5\u008d\u00e0\u00a4\u00a1",
+    "name_hu": "Thaif\u00c3\u00b6ld",
+    "name_id": "Thailand",
+    "name_it": "Thailandia",
+    "name_ja": "\u00e3\u0082\u00bf\u00e3\u0082\u00a4\u00e7\u008e\u008b\u00e5\u009b\u00bd",
+    "name_ko": "\u00ed\u0083\u009c\u00ea\u00b5\u00ad",
+    "name_len": "8",
+    "name_long": "Thailand",
+    "name_nev": "Thailand",
+    "name_nl": "Thailand",
+    "name_pl": "Tajlandia",
+    "name_pt": "Tail\u00c3\u00a2ndia",
+    "name_ru": "\u00d0\u00a2\u00d0\u00b0\u00d0\u00b8\u00d0\u00bb\u00d0\u00b0\u00d0\u00bd\u00d0\u00b4",
+    "name_sort": "Thailand",
+    "name_sv": "Thailand",
+    "name_tr": "Tayland",
+    "name_vi": "Th\u00c3\u00a1i Lan",
+    "name_zh": "\u00e6\u00b3\u00b0\u00e5\u009b\u00bd",
+    "ne_id": "1159321305",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "68414135",
+    "pop_rank": "16",
+    "pop_year": "2017",
+    "postal": "TH",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "THA",
+    "sovereignt": "Thailand",
+    "status": "officially-assigned",
+    "su_a3": "THA",
+    "su_dif": "0",
+    "subunit": "Thailand",
+    "tiny": "-99",
+    "tld": [
+        ".th",
+        ".\u0e44\u0e17\u0e22"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Thajsko",
+            "official": "Thajsk\u00e9 kr\u00e1lovstv\u00ed"
+        },
+        "deu": {
+            "common": "Thailand",
+            "official": "K\u00f6nigreich Thailand"
+        },
+        "est": {
+            "common": "Tai",
+            "official": "Tai Kuningriik"
+        },
+        "fin": {
+            "common": "Thaimaa",
+            "official": "Thaimaan kuningaskunta"
+        },
+        "fra": {
+            "common": "Tha\u00eflande",
+            "official": "Royaume de Tha\u00eflande"
+        },
+        "hrv": {
+            "common": "Tajland",
+            "official": "Kraljevina Tajland"
+        },
+        "hun": {
+            "common": "Thaif\u00f6ld",
+            "official": "Thaif\u00f6ldi Kir\u00e1lys\u00e1g"
+        },
+        "ita": {
+            "common": "Tailandia",
+            "official": "Regno di Thailandia"
+        },
+        "jpn": {
+            "common": "\u30bf\u30a4",
+            "official": "\u30bf\u30a4\u738b\u56fd"
+        },
+        "kor": {
+            "common": "\ud0dc\uad6d",
+            "official": "\ud0c0\uc774 \uc655\uad6d"
+        },
+        "nld": {
+            "common": "Thailand",
+            "official": "Koninkrijk Thailand"
+        },
+        "per": {
+            "common": "\u062a\u0627\u06cc\u0644\u0646\u062f",
+            "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u062a\u0627\u06cc\u0644\u0646\u062f"
+        },
+        "pol": {
+            "common": "Tajlandia",
+            "official": "Kr\u00f3lestwo Tajlandii"
+        },
+        "por": {
+            "common": "Tail\u00e2ndia",
+            "official": "Reino da Tail\u00e2ndia"
+        },
+        "rus": {
+            "common": "\u0422\u0430\u0438\u043b\u0430\u043d\u0434",
+            "official": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0422\u0430\u0438\u043b\u0430\u043d\u0434"
+        },
+        "slk": {
+            "common": "Thajsko",
+            "official": "Thajsk\u00e9 kr\u00e1\u013eovstvo"
+        },
+        "spa": {
+            "common": "Tailandia",
+            "official": "Reino de Tailandia"
+        },
+        "swe": {
+            "common": "Thailand",
+            "official": "Konungariket Thailand"
+        },
+        "urd": {
+            "common": "\u062a\u06be\u0627\u0626\u06cc \u0644\u06cc\u0646\u0688",
+            "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u062a\u06be\u0627\u0626\u06cc \u0644\u06cc\u0646\u0688"
+        },
+        "zho": {
+            "common": "\u6cf0\u56fd",
+            "official": "\u6cf0\u738b\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "764",
+    "un_member": true,
+    "wb_a2": "TH",
+    "wb_a3": "THA",
+    "wikidataid": "Q869",
+    "wikipedia": "-99",
+    "woe_id": "23424960",
+    "woe_id_eh": "23424960",
+    "woe_note": "Exact WOE match as country"
+}

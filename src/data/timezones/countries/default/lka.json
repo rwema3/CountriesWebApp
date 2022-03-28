@@ -1,0 +1,18 @@
+{
+    "asia_colombo": {
+        "abbreviations": [
+            "IST",
+            "LMT",
+            "MMT"
+        ],
+        "cca2": "LK",
+        "cca3": "LKA",
+        "country_code": "LK",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "227",
+        "zone_name": "Asia\/Colombo"
+    }
+}

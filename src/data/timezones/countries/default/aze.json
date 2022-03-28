@@ -1,0 +1,17 @@
+{
+    "asia_baku": {
+        "abbreviations": [
+            "AZT",
+            "LMT"
+        ],
+        "cca2": "AZ",
+        "cca3": "AZE",
+        "country_code": "AZ",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "48",
+        "zone_name": "Asia\/Baku"
+    }
+}

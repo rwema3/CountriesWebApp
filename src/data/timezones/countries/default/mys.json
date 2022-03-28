@@ -1,0 +1,33 @@
+{
+    "asia_kuala__lumpur": {
+        "abbreviations": [
+            "LMT",
+            "MYT",
+            "SMT"
+        ],
+        "cca2": "MY",
+        "cca3": "MYS",
+        "country_code": "MY",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "268",
+        "zone_name": "Asia\/Kuala_Lumpur"
+    },
+    "asia_kuching": {
+        "abbreviations": [
+            "LMT",
+            "MYT"
+        ],
+        "cca2": "MY",
+        "cca3": "MYS",
+        "country_code": "MY",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "269",
+        "zone_name": "Asia\/Kuching"
+    }
+}

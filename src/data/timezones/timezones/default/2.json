@@ -1,0 +1,14 @@
+{
+    "1": {
+        "abbreviation": "GST",
+        "dst": "0",
+        "gmt_offset": "14400",
+        "time_start": "-1577936472",
+        "zone_id": "2"
+    },
+    "abbreviation": "LMT",
+    "dst": "0",
+    "gmt_offset": "13272",
+    "time_start": "-1577936473",
+    "zone_id": "2"
+}

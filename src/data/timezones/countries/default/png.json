@@ -1,0 +1,34 @@
+{
+    "pacific_bougainville": {
+        "abbreviations": [
+            "BST",
+            "LMT",
+            "PMMT"
+        ],
+        "cca2": "PG",
+        "cca3": "PNG",
+        "country_code": "PG",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "290",
+        "zone_name": "Pacific\/Bougainville"
+    },
+    "pacific_port__moresby": {
+        "abbreviations": [
+            "LMT",
+            "PGT",
+            "PMMT"
+        ],
+        "cca2": "PG",
+        "cca3": "PNG",
+        "country_code": "PG",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "291",
+        "zone_name": "Pacific\/Port_Moresby"
+    }
+}

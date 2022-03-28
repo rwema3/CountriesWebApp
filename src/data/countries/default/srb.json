@@ -1,0 +1,325 @@
+{
+    "abbrev": "Serb.",
+    "abbrev_len": "5",
+    "adm0_a3": "SRB",
+    "adm0_a3_is": "SRB",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "SRB",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Republic of Serbia",
+    "alt_spellings": [
+        "RS",
+        "Srbija",
+        "Republic of Serbia",
+        "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0440\u0431\u0438\u0458\u0430",
+        "Republika Srbija"
+    ],
+    "borders": [
+        "BIH",
+        "BGR",
+        "HRV",
+        "HUN",
+        "UNK",
+        "MKD",
+        "MNE",
+        "ROU"
+    ],
+    "brk_a3": "SRB",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Serbia",
+    "calling_codes": [
+        "+381"
+    ],
+    "capital": [
+        "Belgrade"
+    ],
+    "capital_rinvex": "Belgrade",
+    "cca2": "RS",
+    "cca3": "SRB",
+    "ccn3": "688",
+    "cioc": "SRB",
+    "currencies": [
+        "RSD"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Serbian",
+    "demonyms": {
+        "eng": {
+            "f": "Serbian",
+            "m": "Serbian"
+        },
+        "fra": {
+            "f": "Serbe",
+            "m": "Serbe"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "381"
+        ],
+        "international_prefix": "99",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            9
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "6. Developing region",
+    "extra": {
+        "address_format": null,
+        "ar5": "EIT",
+        "cowc": 0,
+        "cown": 0,
+        "ds": "SRB",
+        "edgar": "Z2",
+        "emoji": "\ud83c\uddf7\ud83c\uddf8",
+        "eu_member": null,
+        "fao": 272,
+        "fifa": "SRB",
+        "fips": "RI,KV",
+        "gaul": 2648,
+        "geonameid": 6290252,
+        "imf": 942,
+        "ioc": "SRB",
+        "itu": "SRB",
+        "marc": "rb",
+        "vat_rates": null,
+        "wmo": "YG"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "RI",
+    "flag": {
+        "emoji": "\ud83c\uddf7\ud83c\uddf8"
+    },
+    "formal_en": "Republic of Serbia",
+    "formal_fr": "",
+    "gdp_md_est": "101800.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 88361,
+        "borders": [
+            "BIH",
+            "BGR",
+            "HRV",
+            "HUN",
+            "UNK",
+            "MKD",
+            "MNE",
+            "ROU"
+        ],
+        "continent": {
+            "EU": "Europe"
+        },
+        "independent": "Yes",
+        "landlocked": true,
+        "latitude": "44 00 N",
+        "latitude_desc": "44.23297119140625",
+        "latlng": [
+            44,
+            21
+        ],
+        "longitude": "21 00 E",
+        "longitude_desc": "20.797958374023438",
+        "max_latitude": "46.155556",
+        "max_longitude": "22.966667",
+        "min_latitude": "41.866667",
+        "min_longitude": "18.928889",
+        "postal_code": true,
+        "region": "Europe",
+        "region_code": "150",
+        "region_un": "Europe",
+        "region_wb": "Europe & Central Asia",
+        "subregion": "Southern Europe",
+        "subregion_code": "039",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Republic of Serbia",
+    "gu_a3": "SRB",
+    "homepart": "1",
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "81"
+        ]
+    },
+    "income_grp": "3. Upper middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "RS",
+    "iso_3166_1_alpha3": "SRB",
+    "iso_3166_1_numeric": "688",
+    "iso_a2": "RS",
+    "iso_a3": "SRB",
+    "iso_a3_eh": "SRB",
+    "iso_n3": "688",
+    "labelrank": "5",
+    "languages": {
+        "srp": "Serbian"
+    },
+    "lastcensus": "2011",
+    "level": "2",
+    "long_len": "6",
+    "mapcolor7": "3",
+    "mapcolor8": "3",
+    "mapcolor9": "2",
+    "mapcolor13": "10",
+    "max_label": "7.0",
+    "min_label": "4.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Serbia",
+        "native": {
+            "srp": {
+                "common": "\u0421\u0440\u0431\u0438\u0458\u0430",
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0440\u0431\u0438\u0458\u0430"
+            }
+        },
+        "official": "Republic of Serbia"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00b5\u00d8\u00b1\u00d8\u00a8\u00d9\u008a\u00d8\u00a7",
+    "name_bn": "\u00e0\u00a6\u00b8\u00e0\u00a6\u00be\u00e0\u00a6\u00b0\u00e0\u00a7\u008d\u00e0\u00a6\u00ac\u00e0\u00a6\u00bf\u00e0\u00a6\u00af\u00e0\u00a6\u00bc\u00e0\u00a6\u00be",
+    "name_ciawf": "Serbia",
+    "name_de": "Serbien",
+    "name_el": "\u00ce\u00a3\u00ce\u00b5\u00cf\u0081\u00ce\u00b2\u00ce\u00af\u00ce\u00b1",
+    "name_en": "Serbia",
+    "name_es": "Serbia",
+    "name_fr": "Serbie",
+    "name_hi": "\u00e0\u00a4\u00b8\u00e0\u00a4\u00b0\u00e0\u00a5\u008d\u00e0\u00a4\u00ac\u00e0\u00a4\u00bf\u00e0\u00a4\u00af\u00e0\u00a4\u00be",
+    "name_hu": "Szerbia",
+    "name_id": "Serbia",
+    "name_it": "Serbia",
+    "name_ja": "\u00e3\u0082\u00bb\u00e3\u0083\u00ab\u00e3\u0083\u0093\u00e3\u0082\u00a2",
+    "name_ko": "\u00ec\u0084\u00b8\u00eb\u00a5\u00b4\u00eb\u00b9\u0084\u00ec\u0095\u0084",
+    "name_len": "6",
+    "name_long": "Serbia",
+    "name_nev": "Serbia",
+    "name_nl": "Servi\u00c3\u00ab",
+    "name_pl": "Serbia",
+    "name_pt": "S\u00c3\u00a9rvia",
+    "name_ru": "\u00d0\u00a1\u00d0\u00b5\u00d1\u0080\u00d0\u00b1\u00d0\u00b8\u00d1\u008f",
+    "name_sort": "Serbia",
+    "name_sv": "Serbien",
+    "name_tr": "S\u00c4\u00b1rbistan",
+    "name_vi": "Serbia",
+    "name_zh": "\u00e5\u00a1\u009e\u00e5\u00b0\u0094\u00e7\u00bb\u00b4\u00e4\u00ba\u009a",
+    "ne_id": "1159321267",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "7111024",
+    "pop_rank": "13",
+    "pop_year": "2017",
+    "postal": "RS",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "SRB",
+    "sovereignt": "Republic of Serbia",
+    "status": "officially-assigned",
+    "su_a3": "SRB",
+    "su_dif": "0",
+    "subunit": "Republic of Serbia",
+    "tiny": "-99",
+    "tld": [
+        ".rs",
+        ".\u0441\u0440\u0431"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Srbsko",
+            "official": "Srbsk\u00e1 republika"
+        },
+        "deu": {
+            "common": "Serbien",
+            "official": "Republik Serbien"
+        },
+        "est": {
+            "common": "Serbia",
+            "official": "Serbia Vabariik"
+        },
+        "fin": {
+            "common": "Serbia",
+            "official": "Serbian tasavalta"
+        },
+        "fra": {
+            "common": "Serbie",
+            "official": "R\u00e9publique de Serbie"
+        },
+        "hrv": {
+            "common": "Srbija",
+            "official": "Republika Srbija"
+        },
+        "hun": {
+            "common": "Szerbia",
+            "official": "Szerb K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Serbia",
+            "official": "Repubblica di Serbia"
+        },
+        "jpn": {
+            "common": "\u30bb\u30eb\u30d3\u30a2",
+            "official": "\u30bb\u30eb\u30d3\u30a2\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\uc138\ub974\ube44\uc544",
+            "official": "\uc138\ub974\ube44\uc544 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Servi\u00eb",
+            "official": "Republiek Servi\u00eb"
+        },
+        "per": {
+            "common": "\u0635\u0631\u0628\u0633\u062a\u0627\u0646",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0635\u0631\u0628\u0633\u062a\u0627\u0646"
+        },
+        "pol": {
+            "common": "Serbia",
+            "official": "Republika Serbii"
+        },
+        "por": {
+            "common": "S\u00e9rvia",
+            "official": "Rep\u00fablica da S\u00e9rvia"
+        },
+        "rus": {
+            "common": "\u0421\u0435\u0440\u0431\u0438\u044f",
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0440\u0431\u0438\u044f"
+        },
+        "slk": {
+            "common": "Srbsko",
+            "official": "Srbsk\u00e1 republika"
+        },
+        "spa": {
+            "common": "Serbia",
+            "official": "Rep\u00fablica de Serbia"
+        },
+        "swe": {
+            "common": "Serbien",
+            "official": "Republiken Serbien"
+        },
+        "urd": {
+            "common": "\u0633\u0631\u0628\u06cc\u0627",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0631\u0628\u06cc\u0627"
+        },
+        "zho": {
+            "common": "\u585e\u5c14\u7ef4\u4e9a",
+            "official": "\u585e\u5c14\u7ef4\u4e9a\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "688",
+    "un_member": true,
+    "wb_a2": "YF",
+    "wb_a3": "SRB",
+    "wikidataid": "Q403",
+    "wikipedia": "-99",
+    "woe_id": "-90",
+    "woe_id_eh": "20069818",
+    "woe_note": "Expired WOE also contains Kosovo."
+}

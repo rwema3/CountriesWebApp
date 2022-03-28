@@ -1,0 +1,18 @@
+{
+    "africa_casablanca": {
+        "abbreviations": [
+            "LMT",
+            "WEST",
+            "WET"
+        ],
+        "cca2": "MA",
+        "cca3": "MAR",
+        "country_code": "MA",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "234",
+        "zone_name": "Africa\/Casablanca"
+    }
+}

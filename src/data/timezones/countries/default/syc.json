@@ -1,0 +1,17 @@
+{
+    "indian_mahe": {
+        "abbreviations": [
+            "LMT",
+            "SCT"
+        ],
+        "cca2": "SC",
+        "cca3": "SYC",
+        "country_code": "SC",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "338",
+        "zone_name": "Indian\/Mahe"
+    }
+}

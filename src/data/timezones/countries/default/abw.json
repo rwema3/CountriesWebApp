@@ -1,0 +1,17 @@
+{
+    "america_aruba": {
+        "abbreviations": [
+            "AST",
+            "LMT"
+        ],
+        "cca2": "AW",
+        "cca3": "ABW",
+        "country_code": "AW",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "46",
+        "zone_name": "America\/Aruba"
+    }
+}

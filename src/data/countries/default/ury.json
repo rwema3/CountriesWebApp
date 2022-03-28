@@ -1,0 +1,312 @@
+{
+    "abbrev": "Ury.",
+    "abbrev_len": "4",
+    "adm0_a3": "URY",
+    "adm0_a3_is": "URY",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "URY",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "0",
+    "admin": "Uruguay",
+    "alt_spellings": [
+        "UY",
+        "Oriental Republic of Uruguay",
+        "Rep\u00fablica Oriental del Uruguay"
+    ],
+    "borders": [
+        "ARG",
+        "BRA"
+    ],
+    "brk_a3": "URY",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Uruguay",
+    "calling_codes": [
+        "+598"
+    ],
+    "capital": [
+        "Montevideo"
+    ],
+    "capital_rinvex": "Montevideo",
+    "cca2": "UY",
+    "cca3": "URY",
+    "ccn3": "858",
+    "cioc": "URU",
+    "currencies": [
+        "UYI",
+        "UYU"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Uruguayan",
+    "demonyms": {
+        "eng": {
+            "f": "Uruguayan",
+            "m": "Uruguayan"
+        },
+        "fra": {
+            "f": "Uruguayenne",
+            "m": "Uruguayen"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "598"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            7,
+            8
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "5. Emerging region: G20",
+    "extra": {
+        "address_format": null,
+        "ar5": "LAM",
+        "cowc": "URU",
+        "cown": 165,
+        "ds": "ROU",
+        "edgar": "X3",
+        "emoji": "\ud83c\uddfa\ud83c\uddfe",
+        "eu_member": null,
+        "fao": 234,
+        "fifa": "URU",
+        "fips": "UY",
+        "gaul": 260,
+        "geonameid": 3439705,
+        "imf": 298,
+        "ioc": "URU",
+        "itu": "URG",
+        "marc": "uy",
+        "vat_rates": null,
+        "wmo": "UY"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "UY",
+    "flag": {
+        "emoji": "\ud83c\uddfa\ud83c\uddfe"
+    },
+    "formal_en": "Oriental Republic of Uruguay",
+    "formal_fr": "",
+    "gdp_md_est": "73250.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 181034,
+        "borders": [
+            "ARG",
+            "BRA"
+        ],
+        "continent": {
+            "SA": "South America"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "33 00 S",
+        "latitude_desc": "-32.96965408325195",
+        "latlng": [
+            -33,
+            -56
+        ],
+        "longitude": "56 00 W",
+        "longitude_desc": "-56.055908203125",
+        "max_latitude": "-30.183333",
+        "max_longitude": "-53.266667",
+        "min_latitude": "-35.033333",
+        "min_longitude": "-58.5",
+        "postal_code": true,
+        "region": "Americas",
+        "region_code": "019",
+        "region_un": "Americas",
+        "region_wb": "Latin America & Caribbean",
+        "subregion": "South America",
+        "subregion_code": "005",
+        "world_region": "AMER"
+    },
+    "geou_dif": "0",
+    "geounit": "Uruguay",
+    "gu_a3": "URY",
+    "homepart": "1",
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "98"
+        ]
+    },
+    "income_grp": "3. Upper middle income",
+    "independent": true,
+    "iso_3166_1_alpha2": "UY",
+    "iso_3166_1_alpha3": "URY",
+    "iso_3166_1_numeric": "858",
+    "iso_a2": "UY",
+    "iso_a3": "URY",
+    "iso_a3_eh": "URY",
+    "iso_n3": "858",
+    "labelrank": "4",
+    "languages": {
+        "spa": "Spanish"
+    },
+    "lastcensus": "2004",
+    "level": "2",
+    "long_len": "7",
+    "mapcolor7": "1",
+    "mapcolor8": "2",
+    "mapcolor9": "2",
+    "mapcolor13": "10",
+    "max_label": "8.0",
+    "min_label": "3.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Uruguay",
+        "native": {
+            "spa": {
+                "common": "Uruguay",
+                "official": "Rep\u00fablica Oriental del Uruguay"
+            }
+        },
+        "official": "Oriental Republic of Uruguay"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00a7\u00d9\u0084\u00d8\u00a3\u00d9\u0088\u00d8\u00b1\u00d9\u0088\u00d8\u00ba\u00d9\u0088\u00d8\u00a7\u00d9\u008a",
+    "name_bn": "\u00e0\u00a6\u0089\u00e0\u00a6\u00b0\u00e0\u00a7\u0081\u00e0\u00a6\u0097\u00e0\u00a7\u0081\u00e0\u00a6\u00af\u00e0\u00a6\u00bc\u00e0\u00a7\u0087",
+    "name_ciawf": "Uruguay",
+    "name_de": "Uruguay",
+    "name_el": "\u00ce\u009f\u00cf\u0085\u00cf\u0081\u00ce\u00bf\u00cf\u0085\u00ce\u00b3\u00ce\u00bf\u00cf\u0085\u00ce\u00ac\u00ce\u00b7",
+    "name_en": "Uruguay",
+    "name_es": "Uruguay",
+    "name_fr": "Uruguay",
+    "name_hi": "\u00e0\u00a4\u0089\u00e0\u00a4\u00b0\u00e0\u00a5\u0081\u00e0\u00a4\u0097\u00e0\u00a5\u008d\u00e0\u00a4\u00b5\u00e0\u00a5\u0087",
+    "name_hu": "Uruguay",
+    "name_id": "Uruguay",
+    "name_it": "Uruguay",
+    "name_ja": "\u00e3\u0082\u00a6\u00e3\u0083\u00ab\u00e3\u0082\u00b0\u00e3\u0082\u00a2\u00e3\u0082\u00a4",
+    "name_ko": "\u00ec\u009a\u00b0\u00eb\u00a3\u00a8\u00ea\u00b3\u00bc\u00ec\u009d\u00b4",
+    "name_len": "7",
+    "name_long": "Uruguay",
+    "name_nev": "Uruguay",
+    "name_nl": "Uruguay",
+    "name_pl": "Urugwaj",
+    "name_pt": "Uruguai",
+    "name_ru": "\u00d0\u00a3\u00d1\u0080\u00d1\u0083\u00d0\u00b3\u00d0\u00b2\u00d0\u00b0\u00d0\u00b9",
+    "name_sort": "Uruguay",
+    "name_sv": "Uruguay",
+    "name_tr": "Uruguay",
+    "name_vi": "Uruguay",
+    "name_zh": "\u00e4\u00b9\u008c\u00e6\u008b\u0089\u00e5\u009c\u00ad",
+    "ne_id": "1159321353",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "3360148",
+    "pop_rank": "12",
+    "pop_year": "2017",
+    "postal": "UY",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "URY",
+    "sovereignt": "Uruguay",
+    "status": "officially-assigned",
+    "su_a3": "URY",
+    "su_dif": "0",
+    "subunit": "Uruguay",
+    "tiny": "-99",
+    "tld": [
+        ".uy"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Uruguay",
+            "official": "Uruguaysk\u00e1 v\u00fdchodn\u00ed republika"
+        },
+        "deu": {
+            "common": "Uruguay",
+            "official": "Republik \u00d6stlich des Uruguay"
+        },
+        "est": {
+            "common": "Uruguay",
+            "official": "Uruguay Idavabariik"
+        },
+        "fin": {
+            "common": "Uruguay",
+            "official": "Uruguayn it\u00e4inen tasavalta"
+        },
+        "fra": {
+            "common": "Uruguay",
+            "official": "R\u00e9publique orientale de l'Uruguay"
+        },
+        "hrv": {
+            "common": "Urugvaj",
+            "official": "Orijentalna Republika Urugvaj"
+        },
+        "hun": {
+            "common": "Uruguay",
+            "official": "Uruguayi Keleti K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "common": "Uruguay",
+            "official": "Repubblica Orientale dell'Uruguay"
+        },
+        "jpn": {
+            "common": "\u30a6\u30eb\u30b0\u30a2\u30a4",
+            "official": "\u30a6\u30eb\u30b0\u30a2\u30a4\u6771\u65b9\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "common": "\uc6b0\ub8e8\uacfc\uc774",
+            "official": "\uc6b0\ub8e8\uacfc\uc774 \ub3d9\ubc29 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "common": "Uruguay",
+            "official": "Oosterse Republiek Uruguay"
+        },
+        "per": {
+            "common": "\u0627\u0631\u0648\u06af\u0648\u0626\u0647",
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+        },
+        "pol": {
+            "common": "Urugwaj",
+            "official": "Wschodnia Republika Urugwaju"
+        },
+        "por": {
+            "common": "Uruguai",
+            "official": "Rep\u00fablica Oriental do Uruguai"
+        },
+        "rus": {
+            "common": "\u0423\u0440\u0443\u0433\u0432\u0430\u0439",
+            "official": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438 \u0423\u0440\u0443\u0433\u0432\u0430\u0439"
+        },
+        "slk": {
+            "common": "Uruguaj",
+            "official": "Uruguajsk\u00e1 v\u00fdchodn\u00e1 republika"
+        },
+        "spa": {
+            "common": "Uruguay",
+            "official": "Rep\u00fablica Oriental del Uruguay"
+        },
+        "swe": {
+            "common": "Uruguay",
+            "official": "Republiken Uruguay"
+        },
+        "urd": {
+            "common": "\u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2",
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0634\u0631\u0642\u06cc\u06c1 \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"
+        },
+        "zho": {
+            "common": "\u4e4c\u62c9\u572d",
+            "official": "\u4e4c\u62c9\u572d\u4e1c\u5cb8\u5171\u548c\u56fd"
+        }
+    },
+    "type": "Sovereign country",
+    "un_a3": "858",
+    "un_member": true,
+    "wb_a2": "UY",
+    "wb_a3": "URY",
+    "wikidataid": "Q77",
+    "wikipedia": "-99",
+    "woe_id": "23424979",
+    "woe_id_eh": "23424979",
+    "woe_note": "Exact WOE match as country"
+}

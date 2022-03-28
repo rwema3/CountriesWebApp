@@ -1,0 +1,17 @@
+{
+    "pacific_nauru": {
+        "abbreviations": [
+            "LMT",
+            "NRT"
+        ],
+        "cca2": "NR",
+        "cca3": "NRU",
+        "country_code": "NR",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "280",
+        "zone_name": "Pacific\/Nauru"
+    }
+}

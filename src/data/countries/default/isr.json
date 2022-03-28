@@ -1,0 +1,322 @@
+{
+    "abbrev": "Isr.",
+    "abbrev_len": "4",
+    "adm0_a3": "ISR",
+    "adm0_a3_is": "ISR",
+    "adm0_a3_un": "-99",
+    "adm0_a3_us": "ISR",
+    "adm0_a3_wb": "-99",
+    "adm0_dif": "1",
+    "admin": "Israel",
+    "alt_spellings": [
+        "IL",
+        "State of Israel",
+        "Med\u012bnat Yisr\u0101'el"
+    ],
+    "borders": [
+        "EGY",
+        "JOR",
+        "LBN",
+        "PSE",
+        "SYR"
+    ],
+    "brk_a3": "ISR",
+    "brk_diff": "0",
+    "brk_group": "",
+    "brk_name": "Israel",
+    "calling_codes": [
+        "+972"
+    ],
+    "capital": [
+        "Jerusalem"
+    ],
+    "capital_rinvex": "Jerusalem",
+    "cca2": "IL",
+    "cca3": "ISR",
+    "ccn3": "376",
+    "cioc": "ISR",
+    "currencies": [
+        "ILS"
+    ],
+    "data_sources": [
+        "mledoze",
+        "natural"
+    ],
+    "demonym": "Israeli",
+    "demonyms": {
+        "eng": {
+            "f": "Israeli",
+            "m": "Israeli"
+        },
+        "fra": {
+            "f": "Isra\u00e9lienne",
+            "m": "Isra\u00e9lien"
+        }
+    },
+    "dialling": {
+        "calling_code": [
+            "972"
+        ],
+        "international_prefix": "00",
+        "national_destination_code_lengths": [
+            2
+        ],
+        "national_number_lengths": [
+            7,
+            8,
+            9
+        ],
+        "national_prefix": "0"
+    },
+    "economy": "2. Developed region: nonG7",
+    "extra": {
+        "address_format": "{{recipient}}{{street}}{{postalcode}} {{city}}{{country}}",
+        "ar5": "MAF",
+        "cowc": "ISR",
+        "cown": 666,
+        "ds": "IL",
+        "edgar": "L3",
+        "emoji": "\ud83c\uddee\ud83c\uddf1",
+        "eu_member": null,
+        "fao": 105,
+        "fifa": "ISR",
+        "fips": "IS",
+        "gaul": 121,
+        "geonameid": 294640,
+        "imf": 436,
+        "ioc": "ISR",
+        "itu": "ISR",
+        "marc": "is",
+        "vat_rates": null,
+        "wmo": "IS"
+    },
+    "featurecla": "Admin-0 country",
+    "fips_10_": "-99",
+    "flag": {
+        "emoji": "\ud83c\uddee\ud83c\uddf1"
+    },
+    "formal_en": "State of Israel",
+    "formal_fr": "",
+    "gdp_md_est": "297000.00",
+    "gdp_year": "2016",
+    "geo": {
+        "area": 20770,
+        "borders": [
+            "EGY",
+            "JOR",
+            "LBN",
+            "SYR"
+        ],
+        "continent": {
+            "AS": "Asia"
+        },
+        "independent": "Yes",
+        "landlocked": false,
+        "latitude": "31 30 N",
+        "latitude_desc": "31.814193725585938",
+        "latlng": [
+            31.47,
+            35.13
+        ],
+        "longitude": "34 45 E",
+        "longitude_desc": "34.75337219238281",
+        "max_latitude": "33.286111",
+        "max_longitude": "35.666667",
+        "min_latitude": "29.516667",
+        "min_longitude": "34.283333",
+        "postal_code": true,
+        "region": "Asia",
+        "region_code": "142",
+        "region_un": "Asia",
+        "region_wb": "Middle East & North Africa",
+        "subregion": "Western Asia",
+        "subregion_code": "145",
+        "world_region": "EMEA"
+    },
+    "geou_dif": "0",
+    "geounit": "Israel",
+    "gu_a3": "ISR",
+    "homepart": "1",
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "72"
+        ]
+    },
+    "income_grp": "1. High income: OECD",
+    "independent": true,
+    "iso_3166_1_alpha2": "IL",
+    "iso_3166_1_alpha3": "ISR",
+    "iso_3166_1_numeric": "376",
+    "iso_a2": "IL",
+    "iso_a3": "ISR",
+    "iso_a3_eh": "ISR",
+    "iso_n3": "376",
+    "labelrank": "4",
+    "languages": {
+        "ara": "Arabic",
+        "heb": "Hebrew"
+    },
+    "lastcensus": "2009",
+    "level": "2",
+    "long_len": "6",
+    "mapcolor7": "3",
+    "mapcolor8": "2",
+    "mapcolor9": "5",
+    "mapcolor13": "9",
+    "max_label": "8.0",
+    "min_label": "3.0",
+    "min_zoom": "0.0",
+    "name": {
+        "common": "Israel",
+        "native": {
+            "ara": {
+                "common": "\u0625\u0633\u0631\u0627\u0626\u064a\u0644",
+                "official": "\u062f\u0648\u0644\u0629 \u0625\u0633\u0631\u0627\u0626\u064a\u0644"
+            },
+            "heb": {
+                "common": "\u05d9\u05e9\u05e8\u05d0\u05dc",
+                "official": "\u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        "official": "State of Israel"
+    },
+    "name_alt": "",
+    "name_ar": "\u00d8\u00a5\u00d8\u00b3\u00d8\u00b1\u00d8\u00a7\u00d8\u00a6\u00d9\u008a\u00d9\u0084",
+    "name_bn": "\u00e0\u00a6\u0087\u00e0\u00a6\u00b8\u00e0\u00a6\u00b0\u00e0\u00a6\u00be\u00e0\u00a6\u00af\u00e0\u00a6\u00bc\u00e0\u00a7\u0087\u00e0\u00a6\u00b2",
+    "name_ciawf": "Israel",
+    "name_de": "Israel",
+    "name_el": "\u00ce\u0099\u00cf\u0083\u00cf\u0081\u00ce\u00b1\u00ce\u00ae\u00ce\u00bb",
+    "name_en": "Israel",
+    "name_es": "Israel",
+    "name_fr": "Isra\u00c3\u00abl",
+    "name_hi": "\u00e0\u00a4\u0087\u00e0\u00a4\u009c\u00e0\u00a4\u00bc\u00e0\u00a4\u00b0\u00e0\u00a4\u00be\u00e0\u00a4\u0087\u00e0\u00a4\u00b2",
+    "name_hu": "Izrael",
+    "name_id": "Israel",
+    "name_it": "Israele",
+    "name_ja": "\u00e3\u0082\u00a4\u00e3\u0082\u00b9\u00e3\u0083\u00a9\u00e3\u0082\u00a8\u00e3\u0083\u00ab",
+    "name_ko": "\u00ec\u009d\u00b4\u00ec\u008a\u00a4\u00eb\u009d\u00bc\u00ec\u0097\u0098",
+    "name_len": "6",
+    "name_long": "Israel",
+    "name_nev": "Israel",
+    "name_nl": "Isra\u00c3\u00abl",
+    "name_pl": "Izrael",
+    "name_pt": "Israel",
+    "name_ru": "\u00d0\u0098\u00d0\u00b7\u00d1\u0080\u00d0\u00b0\u00d0\u00b8\u00d0\u00bb\u00d1\u008c",
+    "name_sort": "Israel",
+    "name_sv": "Israel",
+    "name_tr": "\u00c4\u00b0srail",
+    "name_vi": "Israel",
+    "name_zh": "\u00e4\u00bb\u00a5\u00e8\u0089\u00b2\u00e5\u0088\u0097",
+    "ne_id": "1159320895",
+    "note_adm0": "",
+    "note_brk": "",
+    "pop_est": "8299706",
+    "pop_rank": "13",
+    "pop_year": "2017",
+    "postal": "IS",
+    "record_type": "country",
+    "scalerank": "0",
+    "sov_a3": "IS1",
+    "sovereignt": "Israel",
+    "status": "officially-assigned",
+    "su_a3": "ISR",
+    "su_dif": "0",
+    "subunit": "Israel",
+    "tiny": "-99",
+    "tld": [
+        ".il"
+    ],
+    "translations": {
+        "ces": {
+            "common": "Izrael",
+            "official": "St\u00e1t Izrael"
+        },
+        "deu": {
+            "common": "Israel",
+            "official": "Staat Israel"
+        },
+        "est": {
+            "common": "Iisrael",
+            "official": "Iisraeli Riik"
+        },
+        "fin": {
+            "common": "Israel",
+            "official": "Israelin valtio"
+        },
+        "fra": {
+            "common": "Isra\u00ebl",
+            "official": "\u00c9tat d'Isra\u00ebl"
+        },
+        "hrv": {
+            "common": "Izrael",
+            "official": "Dr\u017eava Izrael"
+        },
+        "hun": {
+            "common": "Izrael",
+            "official": "Izrael"
+        },
+        "ita": {
+            "common": "Israele",
+            "official": "Stato di Israele"
+        },
+        "jpn": {
+            "common": "\u30a4\u30b9\u30e9\u30a8\u30eb",
+            "official": "\u30a4\u30b9\u30e9\u30a8\u30eb\u56fd"
+        },
+        "kor": {
+            "common": "\uc774\uc2a4\ub77c\uc5d8",
+            "official": "\uc774\uc2a4\ub77c\uc5d8\uad6d"
+        },
+        "nld": {
+            "common": "Isra\u00ebl",
+            "official": "Staat Isra\u00ebl"
+        },
+        "per": {
+            "common": "\u0641\u0644\u0633\u0637\u064a\u0646 \u0627\u0634\u063a\u0627\u0644\u06cc",
+            "official": "\u0641\u0644\u0633\u0637\u064a\u0646 \u0627\u0634\u063a\u0627\u0644\u06cc"
+        },
+        "pol": {
+            "common": "Izrael",
+            "official": "Pa\u0144stwo Izrael"
+        },
+        "por": {
+            "common": "Israel",
+            "official": "Estado de Israel"
+        },
+        "rus": {
+            "common": "\u0418\u0437\u0440\u0430\u0438\u043b\u044c",
+            "official": "\u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e \u0418\u0437\u0440\u0430\u0438\u043b\u044c"
+        },
+        "slk": {
+            "common": "Izrael",
+            "official": "Izraelsk\u00fd \u0161t\u00e1t"
+        },
+        "spa": {
+            "common": "Israel",
+            "official": "Estado de Israel"
+        },
+        "swe": {
+            "common": "Israel",
+            "official": "Staten Israel"
+        },
+        "urd": {
+            "common": "\u0627\u0633\u0631\u0627\u0626\u06cc\u0644",
+            "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644"
+        },
+        "zho": {
+            "common": "\u4ee5\u8272\u5217",
+            "official": "\u4ee5\u8272\u5217\u56fd"
+        }
+    },
+    "type": "Country",
+    "un_a3": "376",
+    "un_member": true,
+    "wb_a2": "IL",
+    "wb_a3": "ISR",
+    "wikidataid": "Q801",
+    "wikipedia": "-99",
+    "woe_id": "23424852",
+    "woe_id_eh": "23424852",
+    "woe_note": "Exact WOE match as country"
+}

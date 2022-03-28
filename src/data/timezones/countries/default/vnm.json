@@ -1,0 +1,18 @@
+{
+    "asia_ho__chi__minh": {
+        "abbreviations": [
+            "ICT",
+            "LMT",
+            "PLMT"
+        ],
+        "cca2": "VN",
+        "cca3": "VNM",
+        "country_code": "VN",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "417",
+        "zone_name": "Asia\/Ho_Chi_Minh"
+    }
+}

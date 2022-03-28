@@ -1,0 +1,98 @@
+{
+    "1": {
+        "abbreviation": "DAVT",
+        "dst": "0",
+        "gmt_offset": "25200",
+        "time_start": "-409190400",
+        "zone_id": "10"
+    },
+    "2": {
+        "abbreviation": "DAVT",
+        "dst": "0",
+        "gmt_offset": "25200",
+        "time_start": "-163062001",
+        "zone_id": "10"
+    },
+    "3": {
+        "abbreviation": "DAVT",
+        "dst": "0",
+        "gmt_offset": "0",
+        "time_start": "-163062000",
+        "zone_id": "10"
+    },
+    "4": {
+        "abbreviation": "DAVT",
+        "dst": "0",
+        "gmt_offset": "0",
+        "time_start": "-28857601",
+        "zone_id": "10"
+    },
+    "5": {
+        "abbreviation": "DAVT",
+        "dst": "0",
+        "gmt_offset": "25200",
+        "time_start": "-28857600",
+        "zone_id": "10"
+    },
+    "6": {
+        "abbreviation": "DAVT",
+        "dst": "0",
+        "gmt_offset": "25200",
+        "time_start": "1255805999",
+        "zone_id": "10"
+    },
+    "7": {
+        "abbreviation": "DAVT",
+        "dst": "0",
+        "gmt_offset": "18000",
+        "time_start": "1255806000",
+        "zone_id": "10"
+    },
+    "8": {
+        "abbreviation": "DAVT",
+        "dst": "0",
+        "gmt_offset": "18000",
+        "time_start": "1268251199",
+        "zone_id": "10"
+    },
+    "9": {
+        "abbreviation": "DAVT",
+        "dst": "0",
+        "gmt_offset": "25200",
+        "time_start": "1268251200",
+        "zone_id": "10"
+    },
+    "10": {
+        "abbreviation": "DAVT",
+        "dst": "0",
+        "gmt_offset": "25200",
+        "time_start": "1319741999",
+        "zone_id": "10"
+    },
+    "11": {
+        "abbreviation": "DAVT",
+        "dst": "0",
+        "gmt_offset": "18000",
+        "time_start": "1319742000",
+        "zone_id": "10"
+    },
+    "12": {
+        "abbreviation": "DAVT",
+        "dst": "0",
+        "gmt_offset": "18000",
+        "time_start": "1329854399",
+        "zone_id": "10"
+    },
+    "13": {
+        "abbreviation": "DAVT",
+        "dst": "0",
+        "gmt_offset": "25200",
+        "time_start": "1329854400",
+        "zone_id": "10"
+    },
+    "abbreviation": "DAVT",
+    "dst": "0",
+    "gmt_offset": "0",
+    "time_start": "-409190401",
+    "zone_id": "10"
+}

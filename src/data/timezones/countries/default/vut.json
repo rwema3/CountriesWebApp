@@ -1,0 +1,17 @@
+{
+    "pacific_efate": {
+        "abbreviations": [
+            "LMT",
+            "VUT"
+        ],
+        "cca2": "VU",
+        "cca3": "VUT",
+        "country_code": "VU",
+        "data_sources": [
+            "timezonedb"
+        ],
+        "record_type": "timezone",
+        "zone_id": "418",
+        "zone_name": "Pacific\/Efate"
+    }
+}
