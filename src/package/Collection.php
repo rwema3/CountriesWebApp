@@ -107,6 +107,7 @@ class Collection extends Coollection
      * @param  Closure  $finderClosure
      * @return static
      */
+    
     private function arrayFinder(string $propertyName, $find, Closure $finderClosure)
     {
         return $this->filter(function ($data) use ($find, $propertyName, $finderClosure) {
