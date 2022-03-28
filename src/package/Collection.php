@@ -143,7 +143,7 @@ class Collection extends Coollection
     /**
      * Where for different attributes.
      *
-     * @paramstring  $arrayName
+     * @param  string  $arrayName
      * @param $value
      * @return static
      */
