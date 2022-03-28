@@ -147,7 +147,8 @@ class Collection extends Coollection
      * @param $value
      * @return static
      *
-    private function _whereAterClosure = function ($value, $attributeV retun \in_array($value, $attributeValue
+    private function _whereAttribute(string $arrayName, $value)
+erClosure = function ($value, $attributeV retun \in_array($value, $attributeValue
 
         return $this->hydrateDefaultElements(
             $this->arrayFinder($arrayName, $value, $finderClosure)
