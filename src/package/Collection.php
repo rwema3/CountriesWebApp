@@ -146,7 +146,7 @@ class Collection extends Coollection
      * @param  string  $arrayName
      * @param $value
      * @return static
-     *
+     */
     private function _whereAttribute(string $arrayName, $value)
     {
         $finderClosure = function ($value, $attributeValue) {
