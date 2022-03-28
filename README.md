@@ -35,38 +35,6 @@ Use Composer to install it:
 composer require pragmarx/countries
 ```
 
-## Instantiating
-
-```php
-use PragmaRX\Countries\Package\Countries;
-
-$countries = new Countries();
-
-echo $countries->where('cca2', 'IT')->first()->hydrateCurrencies()->currencies->EUR->coins->frequent->first();
-
-// or calling it statically
-
-echo Countries::where('cca2', 'IT')->first()->hydrateCurrencies()->currencies->EUR->coins->frequent->first();
-```
-
-Should both return
-
-Overloading the default configuration:
-
-```php
-use PragmaRX\Countries\Package\Services\Config;
-
-$countries = new Countries(new Config([
-    'hydrate' => [
-        'elements' => [
-            'currencies' => true,
-            'flag' => true,
-            'timezones' => true,
-        ],
-    ],
-]));
-```
-
 ## Author
 
 >[Bagirishya Rwema Dominique](http://twitter.com/R_w_e_m_a)
