@@ -150,7 +150,7 @@ class Collection extends Coollection
     private function _whereAttribute(string $arrayName, $value)
     {
         $finderClosure = function ($value, $attributeValue) {
- retun \in_array($value, $attributeValue->toArray());
+     retun \in_array($value, $attributeValue->toArray());
         };
 
         return $this->hydrateDefaultElements(
